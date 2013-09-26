@@ -1,0 +1,2417 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!--[5013,8,1] published at 2013-09-26 15:25:05 from #110 by system-->
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>SINA.com US 新浪網 - 北美</title>
+<meta name="Keywords" content="北美新浪, 新浪北美站, 美國中文網, 北美中文網站, 華人網站, SINA, US, News, Chinese, Asia" />
+<meta name="Description" content="北美地區最大的中文網絡媒體, 為海外華人24小時不間斷提供海量資訊, 內容包括最新新聞, 娛樂訊息, 實用移民資訊, 股市匯市財經信息, 高人氣BBS, 面向北美華人的交友平台等." />
+
+<script type="text/javascript" src="http://ui.sina.com/js/common/jquery-1.4.4.min.js"></script>
+<script type="text/javascript" src="http://ui.sina.com/js/common/sinaflash-utf8.js"></script>
+
+<style type="text/css">
+<!--
+html{-webkit-text-size-adjust:none;}
+body,ul,ol,li,p,h1,h2,h3,h4,h5,h6,form,fieldset,table,td,img,div{margin:0;padding:0;border:0;}
+body,ul,ol,li,p,form,fieldset,table,td{font-family:"宋体";}
+body{color:#000;text-align:center;}
+td,p,li,select,input,textarea,div{font-size:13px;}
+
+ul{list-style-type:none;}
+select,input{vertical-align:middle;}
+
+a{text-decoration:none;color:#15387C;}
+a:visited{color:#595959;}
+a:hover,a:active,a:focus{color:#790000;text-decoration:underline;}
+
+*{padding:0;margin:0;}
+.flt{float:left;display:inline;}
+.frt{float:right;display:inline;}
+.split{width:0;height:0;font-size:0;line-height:0;clear:both;overflow:hidden;display:block;visibility:hidden;}
+
+/* 主容器 */
+#wrap{width:950px;margin:0 auto;text-align:left;}
+/*設定頁面顔色 開始*/
+.topcolor{width:948px;height:30px;margin-top:3px;*margin-top:-9px;border-style:solid;border-width:1px;overflow:hidden;}
+.topcolor .flt a{display:inline;width:12px;height:12px;border:1px solid #A5A5A5;float:left;margin-right:3px;}
+.topcolor div{margin-left:15px;height:30px;line-height:30px;color:#17387D;}
+.topcolor span{margin-right:5px;}
+.topcolor .colorcon{padding-top:7px;height:23px;line-height:normal;}
+.topcolor div .selectednow{border:1px solid #000;}
+.topcolor div .yellow{background:url(http://ui.sina.com/pub/home/0104/bm_gx_02.gif) no-repeat 0 0;}
+.topcolor div .orange{background:url(http://ui.sina.com/pub/home/0104/bm_gx_02.gif) no-repeat 0 -12px;}
+.topcolor div .red{background:url(http://ui.sina.com/pub/home/0104/bm_gx_02.gif) no-repeat 0 -24px;}
+.topcolor div .blue{background:url(http://ui.sina.com/pub/home/0104/bm_gx_02.gif) no-repeat 0 -36px;}
+.topcolor div .green{background:url(http://ui.sina.com/pub/home/0104/bm_gx_02.gif) no-repeat 0 -48px;}
+.topcolor div .lightgreen{background:url(http://ui.sina.com/pub/home/0104/bm_gx_02.gif) no-repeat 0 -60px;}
+.topcolor div .gray{background:url(http://ui.sina.com/pub/home/0104/bm_gx_02.gif) no-repeat 0 -84px;}
+
+.topcolor .toplogin ul{margin-right:5px;}
+.topcolor .toplogin ul li{float:left;display:inline;border:none;}
+.topcolor .toplogin ul li span{margin-left:7px;margin-right:7px;}
+/*設定頁面顔色 結束*/
+/*頂部廣告bar 01 開始*/
+.topadbar{width:950px;height:25px;background-color:#F3F3F3;margin-top:1px;}
+.topadbar ul{margin-left:15px;}
+.topadbar ul li{float:left;display:inline;background:url(http://ui.sina.com/pub/home/0104/bm_gx_03.gif) no-repeat 0 11px;height:25px;line-height:25px;padding-left:7px;margin-right:15px;}
+.topadbar ul li a:link{color:#666666;}
+.topadbar ul li a:visited,.topadbar ul li a:hover{color:#666666;}
+/*頂部廣告bar 01 結束*/
+/*頂部廣告728*90 開始*/
+.topad{width:950px;padding:8px 0;}
+.topad .frt{margin-right:12px;}
+.topad .flt{margin-top:5px;margin-left:7px;}
+.topad .flt ul{margin-top:5px;width:176px;}
+.topad .flt ul li{float:left;display:inline;padding:0 10px;border-right:1px solid #A1A1A1;height:14px;line-height:14px;vertical-align:middle;}
+.topad .flt ul .clearborder{border:none;}
+/*頂部廣告728*90 結束*/
+/*內容部分 開始*/
+.indexcon{width:948px;border-width:1px;border-style:solid;border-top:3px solid #DF2029 !important;padding-top:8px;background:url(http://ui.sina.com/pub/home/0104/bm_gx_05.gif) repeat-x 0 0;margin-top:1px;}
+/*parta 開始*/
+.parta{}
+.parta .aleft{width:138px;border-right-width:1px;border-right-style:solid;border-bottom-style:solid;border-bottom-width:1px;}
+.parta .aleft .navtit{height:29px;width:138px;border-top-width:1px;border-top-style:solid;border-bottom-width:1px;border-bottom-style:solid;}
+.parta .aleft .navtit .navicon{margin-left:6px;margin-top:6px;}
+.parta .aleft .navtit .navwz{margin-left:7px;margin-top:8px;font-weight:bold;}
+.parta .aleft .navtit .navwz a:link{color:#000;}
+.parta .aleft .navtit .navwz a:visited,.parta .aleft .navtit .navwz a:hover{color:#000;}
+.parta .aleft .navline{width:138px;height:30px;background:url(http://ui.sina.com/pub/home/0104/bm_gx_11.gif) no-repeat left bottom;}
+.parta .aleft .navline div{height:29px;line-height:29px;text-align:left;position:relative;}
+.parta .aleft .navline .flt{width:60px;margin-left:24px;}
+.parta .aleft .navline .frt{width:54px;}
+.parta .aleft .navline img{display:block;position:absolute;left:-20px;top:5px;}
+.parta .aleft .navline a:link{color:#17387D;}
+.parta .aleft .navline a:visited,.parta .aleft .navline a:hover{color:#17387D;}
+.parta .aleft .clearbtmline{background:none;}
+.parta .amid{width:493px;border-width:1px;border-style:solid;margin-left:10px;}
+/*焦點圖 開始*/
+.focus{width:486px;height:316px;padding-left:7px;padding-top:7px;border-bottom-width:1px;border-bottom-style:solid;}
+.Pixviewer{position:relative;}
+.Pixviewer .PvBigPic{padding:0px;text-align:center;overflow:hidden;background:#000;}
+.Pixviewer .PvTitleBox{background:url(http://ui.sina.com/pub/home/0104/bm_gx_14.gif) repeat-x 0 1px; font-size:12px;font-weight:bold;color:#000;text-align:center;height:28px;line-height:28px;}
+.Pixviewer a:link,.Pixviewer a:visited{color:#153878;text-decoration:none;}
+.Pixviewer a:hover{color:red;text-decoration:none;}
+.Pixviewer .PvNumber{font-size:11px;color:#fff; position:absolute; right:1px; z-index:50;text-align:right;}
+.Pixviewer .PvNumber span{float:left;display:inline;font-size:12px;text-align:center;font-weight:bold;line-height:19px;}
+.Pixviewer .NumberHover{background:url(http://ui.sina.com/pub/home/0104/bm_gx_12.gif) repeat-x;width:22px;height:19px;}
+.Pixviewer .NumberLeave{background:url(http://ui.sina.com/pub/home/0104/bm_gx_13.gif) repeat-x;width:22px;height:19px;}
+.Pixviewer .Triangle{width:22px;height:19px;position:absolute;z-index:49;background:url(http://ui.sina.com/pub/home/0104/bm_gx_12.gif) repeat-x;}
+.Pixviewer .selected{width:22px;height:19px;background:url(http://ui.sina.com/pub/home/0104/bm_gx_12.gif) repeat-x;}
+.Pixviewer .BorderHack1{position:absolute;z-index:51;height:1px;top:0px; left:0px;font-size:0px;overflow:hidden;}
+.Pixviewer .BorderHack2{position:absolute;z-index:51;width:1px;top:0px;right:0px;font-size:0px;overflow:hidden;}
+.Pixviewer .BorderHack3{position:absolute;z-index:51;height:1px;left:0px;font-size:0px;overflow:hidden;}
+.Pixviewer .BorderHack4{position:absolute;z-index:51;width:1px;left:0px;top:0px;font-size:0px;overflow:hidden;}
+.Pixviewer .Title{background-color:#cccccc;}
+
+/*焦點圖 結束*/
+.parta .amid .focusnews{width:493px;padding-top:6px;}
+.parta .amid .focusnews .mainnews{height:36px;line-height:36px;font-size:15px;font-weight:bold;_overflow: hidden; width: 246px; }
+.parta .amid .focusnews .mainnews a:link{color:#173979;}
+.parta .amid .focusnews .mainnews a:visited,.parta .amid .focusnews .mainnews a:hover{color:#173979}
+.parta .amid .focusnews p{height:24px;line-height:24px;text-align:center;text-align:center;}
+.parta .amid .focusnews p a:link{color:#000;}
+.parta .amid .focusnews p a:visited{color:#595959;}
+.parta .amid .focusnews p a:hover{color:#790000;}
+.parta .amid .focusnews .flt{width:246px;margin-bottom:7px;}
+.parta .aright{width:293px;border-width:1px;border-style:solid;border-right:none;margin-left:10px;padding-bottom:16px;}
+.parta .aright .newslist01 li{_overflow:hidden;}
+
+.parta .aright .impornewstit{width:293px;height:28px;border-bottom-width:1px;border-bottom-style:solid;}
+.parta .aright .impornewstit .flt{height:28px;line-height:28px;font-size:15px;font-weight:bold;margin-left:8px;}
+.parta .aright .impornewstit .flt a:link{color:#000;}
+.parta .aright .impornewstit .flt a:visited,.parta .aright .impornewstit .flt a:hover{color:#000;}
+.parta .aright .impornewstit .frt{height:28px;line-height:28px;margin-right:10px;}
+.parta .aright .impornewstit .frt a:link{color:#16397D;}
+.parta .aright .impornewstit .frt a:visited,.parta .aright .impornewstit .frt a:hover{color:#16397D;}
+.parta .aright ul{margin-left:7px;margin-top:7px;}
+.parta .aright ul li span{margin-right:3px;}
+.newslist01{}
+.newslist01 li{height:23px;line-height:23px;background:url(http://ui.sina.com/pub/home/0104/bm_gx_03.gif) no-repeat 0 10px;padding-left:9px;}
+.newslist01 li span{margin-right:3px;}
+.newslist01 li .border{font-weight:bold;}
+.newslist01 li .border a:link{color:#16377C;}
+.newslist01 li .border a:visited,.parta .aright ul li .border a:hover{color:#16377C;}
+.newslist01 li .orange{font-weight:bold;}
+.newslist01 li .orange a:link{color:#F59421;}
+.newslist01 li .orange a:visited,.parta .aright ul li .orange a:hover{color:##F59421;}
+.newslist01 li .time{color:#C1C1C1;margin-left:3px;}
+.newslist01 li a:link{color:#14397D;}
+.newslist01 li a:visited{color:#595959;}
+.newslist01 li a:hover{color:#790000;}
+.newslist01 li .red:link{color:#EE1D23;}
+.newslist01 li .red:visited,.newslist01 li .red:hover{color:#EE1D23;}
+/*parta 結束*/
+/*廣告120*60 開始*/
+.adbar01{width:948px;height:68px;padding-top:7px;}
+.adbar01 .flt{margin-left:14px;}
+/*廣告120*60 結束*/
+/*partb 開始*/
+.partb{}
+.partb .bleft{width:438px;border-width:1px;border-style:solid;border-left:none;border-top:none;}
+.partb .bleft .blefttit{width:438px;height:28px;border-top-width:1px;border-top-style:solid;border-bottom-width:1px;border-bottom-style:solid;}
+.partb .bleft .blefttit .flt{height:28px;line-height:28px;font-size:15px;font-weight:bold;margin-left:8px;}
+.partb .bleft .blefttit .flt a:link{color:#000;}
+.partb .bleft .blefttit .flt a:visited,.partb .bleft .blefttit .flt a:hover{color:#000;}
+.partb .bleft .blefttit .frt{height:28px;line-height:28px;margin-right:10px;}
+.partb .bleft .blefttit .frt a:link{color:#163878;}
+.partb .bleft .blefttit .frt a:visited,.partb .bleft .blefttit .frt a:hover{color:#163878;}
+.partb .bleft .bnews01{margin-left:11px;margin-top:7px;_margin-top:9px;margin-bottom:8px;}
+.partb .bleft .bhot{width:419px;margin:0 auto;border-bottom:1px dashed #C7C7C7;padding-bottom:13px;margin-top:11px;}
+.partb .bleft .bhot .bimgdis{width:173px;height:89px;border:1px solid #C1C1C1;}
+.partb .bleft .bhot .bimgdis table{border-collapse:collapse;width:173px;height:89px;padding:3px;text-align:center;}
+.partb .bleft .bhot .bimgdes{width:229px;margin-left:10px;}
+.bimgdes01{font-size:15px;font-weight:bold;line-height:20px;}
+.partb .bleft .bhot .bimgdes p a:link{color:#16397B;}
+.partb .bleft .bhot .bimgdes p a:visited,.partb .bleft .bhot .bimgdes p a:hover{color:#16397B;}
+.partb .bleft .bhot .bimgdes p{line-height:21px;color:#7A7A7A;text-align:left;}
+.partb .bleft .bnews02{margin-left:13px;margin-top:7px;margin-bottom:7px;}
+.partb .bright{width:498px;border-left-width:1px;border-left-style:solid;border-bottom-width:1px;border-bottom-style:solid;margin-left:10px;}
+.partb .bright .bririg .bririgad01{width:100px;height:25px;}
+.partb .bright .bririg .bririgad02{width:140px;height:160px;margin-top:20px;}
+.partb .bright .brighttit{width:498px;height:28px;border-top-width:1px;border-top-style:solid;border-bottom-width:1px;border-bottom-style:solid;position:relative;}
+.partb .bright .brighttit .brighttit_t{height:28px;line-height:28px;font-size:15px;font-weight:bold;margin-left:33px;float:left;display:inline;font-family:Arial,Helvetica,sans-serif,"宋体";}
+.partb .bright .brighttit .brighttit_t a:link{color:#000;}
+.partb .bright .brighttit .brighttit_t a:visited,.partb .bright .brighttit .brighttit_t a:hover{color:#000;}
+.partb .bright .brighttit .t_logo{width:27px;height:25px;background:url(http://ui.sina.com/pub/home/0104/bm_gx_17.png) no-repeat;*background-image: none;*filter:progid:DXImageTransform.Microsoft.AlphaImageLoader
+(src="http://ui.sina.com/pub/home/0104/bm_gx_17.png", sizingMethod="scale");position:absolute;left:5px;top:1px;}
+.partb .bright .brighttit .flt{height:28px;line-height:28px;font-size:15px;font-weight:bold;margin-left:8px;}
+.partb .bright .brighttit .flt a:link{color:#000;}
+.partb .bright .brighttit .flt a:visited,.partb .bright .brighttit .flt a:hover{color:#000;}
+.partb .bright .brighttit .frt{height:28px;line-height:28px;margin-right:10px;}
+.partb .bright .brighttit .frt a:link{color:#163878;}
+.partb .bright .brighttit .frt a:visited,.partb .bright .brighttit .frt a:hover{color:#163878;}
+.partb .bright .binput{width:498px;height:40px;}
+.partb .bright .binput div{margin-left:3px;}
+.partb .bright .binput .binputin01{background:url(http://ui.sina.com/pub/home/0104/bm_gx_16.gif) no-repeat;width:54px;height:20px;margin-top:10px;}
+.partb .bright .binput .binputin01 input{background:none;border:none;width:54px;height:20px;}
+.partb .bright .binput .binputin02{COLOR:#18479B;height:39px;line-height:39px;margin-left:10px;}
+.partb .bright .binput .binputin03{margin-top:9px;width:45px;height:22px;_height:23px;}
+.partb .bright .binput .binputin03 select{width:45px;height:22px;}
+.partb .bright .binput .binputin04{margin-top:10px;}
+.partb .bright .brilef{width:309px;padding-top:5px;padding-left:10px;}
+.partb .bright .brilef ul{margin-bottom:14px;}
+.partb .bright .bririg{margin-top:0px;margin-left:20px;}
+.partb .bright .t_con{width:498px;height:auto;_height:288px;min-height:288px;overflow-x:hidden;}
+/*partb 結束*/
+/*精彩圖片 開始*/
+.wonderfulimg{width:948px;border-top-width:1px;border-top-style:solid;border-bottom-width:1px;border-bottom-style:solid;margin-top:7px;margin-bottom:7px;}
+.wonderfulimg .witit{width:948px;height:28px;border-bottom-width:1px;border-bottom-style:solid;}
+.wonderfulimg .witit .flt{height:28px;line-height:28px;font-size:15px;font-weight:bold;margin-left:8px;}
+.wonderfulimg .witit .flt a:link{color:#000;}
+.wonderfulimg .witit .flt a:visited,.wonderfulimg .witit .flt a:hover{color:#000;}
+.wonderfulimg .witit .frt{height:28px;line-height:28px;margin-right:10px;}
+.wonderfulimg .witit .frt a:link{color:#163878}
+.wonderfulimg .witit .frt a:visited,.wonderfulimg .witit .frt a:hover{color:#163878;}
+.wonderfulimg .widis{width:132px;margin-top:12px;margin-left:22px;margin-bottom:11px;}
+.wonderfulimg .widis div{width:130px;height:130px;border:1px solid #DCE1E7;}
+.wonderfulimg .widis div table{width:130px;height:130px;border-collapse:collapse;text-align:center;}
+.wonderfulimg .widis p{width:132px;line-height:21px;margin-top:5px;text-align:center;}
+/*精彩圖片 結束*/
+/*廣告 開始*/
+.adbar02{margin-top:8px;margin-bottom:8px;}
+.adbar02 .flt{margin-left:7px;}
+.adbar02 .frt{width:195px;height:86px;padding:1px;border:1px solid #C9C9C9;margin-right:8px;}
+.adbar02 .frt .adbar02in{width:189px;height:79px;background-color:#F2F2F2;padding-top:7px;padding-left:6px;}
+.adbar02 .frt .adbar02in ul li{height:18px;line-height:18px;}
+.adbar02 .frt .adbar02in ul li a:link{color:#005C80;}
+.newslist02 li{height:18px;line-height:18px;background:url(http://ui.sina.com/pub/home/0104/bm_gx_03.gif) no-repeat 0 7px;padding-left:9px;}
+/*廣告 結束*/
+/*partc 開始*/
+.partc{}
+.partc .cleft{width:310px;border-right-width:1px;border-right-style:solid;border-bottom-width:1px;border-bottom-style:solid;padding-bottom:13px;height:auto;_height:526px;min-height:526px;}
+.partc .cleft .clefttit{width:310px;height:28px;border-style:solid;border-width:1px;border-left:none;border-right:none;}
+.partc .cleft .clefttit .flt{height:28px;line-height:28px;font-size:15px;font-weight:bold;margin-left:8px;}
+.partc .cleft .clefttit .flt a:link{color:#000;}
+.partc .cleft .clefttit .flt a:visited,.wonderfulimg .witit .flt a:hover{color:#000;}
+.partc .cleft .clefttit .frt{height:28px;line-height:28px;margin-right:10px;}
+.partc .cleft .clefttit .frt a:link{color:#163878}
+.partc .cleft .clefttit .frt a:visited,.wonderfulimg .witit .frt a:hover{color:#163878;}
+.partc .cleft ul{margin-left:8px;margin-top:12px;}
+.partc .cmid{width:326px;border-right-width:1px;border-right-style:solid;border-bottom-width:1px;border-bottom-style:solid;padding-bottom:1px;}
+.partc .cmid .cmidtit{width:326px;height:28px;border-width:1px;border-style:solid;border-left:none;border-right:none;}
+.partc .cmid .cmidtit .flt{height:28px;line-height:28px;font-size:15px;font-weight:bold;margin-left:8px;}
+.partc .cmid .cmidtit .flt a:link{color:#000;}
+.partc .cmid .cmidtit .flt a:visited,.wonderfulimg .witit .flt a:hover{color:#000;}
+.partc .cmid .cmidtit .frt{height:28px;line-height:28px;margin-right:10px;}
+.partc .cmid .cmidtit .frt a:link{color:#163878}
+.partc .cmid .cmidtit .frt a:visited,.wonderfulimg .witit .frt a:hover{color:#163878;}
+.partc .cmid .cmidimg{width:313px;margin-left:7px;margin-top:6px;padding-top:10px;padding-bottom:5px;margin-bottom:8px;}
+.partc .cmid .cmidimg .cmiddis{width:89px;margin-left:11px;}
+.partc .cmid .cmidimg .cmiddis div{width:87px;height:87px;border:1px solid #C1C1C1;margin-bottom:3px;}
+.partc .cmid .cmidimg .cmiddis div table{border-collapse:collapse;width:87px;height:87px;text-align:center;}
+.partc .cmid .cmidimg .cmiddis p{width:89px;text-align:center;color:#16377E;line-height:17px;}
+.partc .cmid .cmidimg .cmiddis p a:link{color:#16377E;}
+.partc .cmid ul{margin-left:11px;margin-top:8px;margin-bottom:4px;}
+.partc .cmid .cmiddis02{width:87px;margin-top:12px;margin-left:16px;}
+.partc .cmid .cmiddis02 div{width:85px;height:64px;padding:1px;border:1px solid #A8A8A8;margin-bottom:3px;}
+.partc .cmid .cmiddis02 div table{border-collapse:collapse;width:85px;height:64px;text-align:center;}
+.partc .cmid .cmiddis02 p{width:87px;text-align:center;line-height:17px;}
+.partc .cmid .cmiddis02 p a:link{color:#17387D;}
+.partc .crig{width:300px;border-left-width:1px;border-left-style:solid;border-bottom-width:1px;border-bottom-style:solid;margin-left:9px;padding-bottom:3px;height:auto;_height:526px;min-height:526px;}
+.partc .crig .crigtit{width:300px;height:28px;border-width:1px;border-style:solid;border-left:none;border-right:none;margin-bottom:5px;}
+.partc .crig .crigtit .flt{height:28px;line-height:28px;font-size:15px;font-weight:bold;margin-left:8px;}
+.partc .crig .crigtit .flt a:link{color:#000;}
+.partc .crig .crigtit .flt a:visited,.wonderfulimg .witit .flt a:hover{color:#000;}
+.partc .crig .crigtit .frt{height:28px;line-height:28px;margin-right:10px;}
+.partc .crig .crigtit .frt a:link{color:#163878}
+.partc .crig .crigtit .frt a:visited,.wonderfulimg .witit .frt a:hover{color:#163878;}
+.partc .crig .criline01{height:25px;line-height:25px;margin-left:10px;}
+.partc .crig .criline01 .num_01{width:17px;height:15px;background:url(http://ui.sina.com/pub/home/0104/bm_gx_19.gif) no-repeat;margin-right:8px;margin-top:5px;}
+.partc .crig .criline01 .num_02{width:17px;height:15px;background:url(http://ui.sina.com/pub/home/0104/bm_gx_19.gif) no-repeat 0 -15px;margin-right:8px;margin-top:5px;}
+.partc .crig .criline01 .num_03{width:17px;height:15px;background:url(http://ui.sina.com/pub/home/0104/bm_gx_19.gif) no-repeat 0 -30px;margin-right:8px;margin-top:5px;}
+.partc .crig .criline01 .num_04{width:17px;height:15px;background:url(http://ui.sina.com/pub/home/0104/bm_gx_19.gif) no-repeat 0 -45px;margin-right:8px;margin-top:5px;}
+.partc .crig .criline01 .num_05{width:17px;height:15px;background:url(http://ui.sina.com/pub/home/0104/bm_gx_19.gif) no-repeat 0 -60px;margin-right:8px;margin-top:5px;}
+.partc .crig .criline01 .num_06{width:17px;height:15px;background:url(http://ui.sina.com/pub/home/0104/bm_gx_19.gif) no-repeat 0 -75px;margin-right:8px;margin-top:5px;}
+.partc .crig .criline01 .num_07{width:17px;height:15px;background:url(http://ui.sina.com/pub/home/0104/bm_gx_19.gif) no-repeat 0 -90px;margin-right:8px;margin-top:5px;}
+.partc .crig .criline01 .num_08{width:17px;height:15px;background:url(http://ui.sina.com/pub/home/0104/bm_gx_19.gif) no-repeat 0 -105px;margin-right:8px;margin-top:5px;}
+.partc .crig .criline01 .num_09{width:17px;height:15px;background:url(http://ui.sina.com/pub/home/0104/bm_gx_19.gif) no-repeat 0 -120px;margin-right:8px;margin-top:5px;}
+.partc .crig .criline01 .num_10{width:17px;height:15px;background:url(http://ui.sina.com/pub/home/0104/bm_gx_19.gif) no-repeat 0 -135px;margin-right:8px;margin-top:5px;}
+.partc .crig .crigad{margin-top:1px;}
+/*partc 結束*/
+/*partd 開始*/
+.partd{}
+.partd .dlef{width:316px;border-right-width:1px;border-right-style:solid;border-bottom-width:1px;border-bottom-style:solid;padding-bottom:10px;}
+.partd .dlef .dleftit{width:316px;height:28px;border-width:1px;border-style:solid;border-left:none;border-right:none;}
+.partd .dlef .dleftit .flt{height:28px;line-height:28px;font-size:15px;font-weight:bold;margin-left:8px;}
+.partd .dlef .dleftit .flt a:link{color:#000;}
+.partd .dlef .dleftit .flt a:visited,.wonderfulimg .witit .flt a:hover{color:#000;}
+.partd .dlef .dleftit .frt{height:28px;line-height:28px;margin-right:10px;}
+.partd .dlef .dleftit .frt a:link{color:#163878}
+.partd .dlef .dleftit .frt a:visited,.wonderfulimg .witit .frt a:hover{color:#163878;}
+.partd .dlef ul{margin-left:9px;margin-top:6px;}
+.partd .dmid{width:315px;border-width:1px;border-style:solid;border-top:none;margin-left:10px;padding-bottom:10px;}
+.partd .dmid .dmidtit{width:315px;height:28px;border-width:1px;border-style:solid;border-left:none;border-right:none;}
+.partd .dmid .dmidtit .flt{height:28px;line-height:28px;font-size:15px;font-weight:bold;margin-left:8px;}
+.partd .dmid .dmidtit .flt a:link{color:#000;}
+.partd .dmid .dmidtit .flt a:visited,.wonderfulimg .witit .flt a:hover{color:#000;}
+.partd .dmid .dmidtit .frt{height:28px;line-height:28px;margin-right:10px;}
+.partd .dmid .dmidtit .frt a:link{color:#163878}
+.partd .dmid .dmidtit .frt a:visited,.wonderfulimg .witit .frt a:hover{color:#163878;}
+.partd .dmid ul{margin-left:9px;margin-top:6px;}
+.partd .drig{width:293px;border-left-width:1px;border-left-style:solid;border-bottom-width:1px;border-bottom-style:solid;margin-left:10px;}
+.partd .drig .drigtit{width:293px;height:28px;border-width:1px;border-style:solid;border-left:none;border-right:none;}
+.partd .drig .drigtit .flt{height:28px;line-height:28px;font-size:15px;font-weight:bold;margin-left:8px;}
+.partd .drig .drigtit .flt a:link{color:#000;}
+.partd .drig .drigtit .flt a:visited,.wonderfulimg .witit .flt a:hover{color:#000;}
+.partd .drig .drigtit .frt{height:28px;line-height:28px;margin-right:10px;}
+.partd .drig .drigtit .frt a:link{color:#163878}
+.partd .drig .drigtit .frt a:visited,.wonderfulimg .witit .frt a:hover{color:#163878;}
+.partd .drig .drigimg{width:85px;height:110px;border:1px solid #C3C4D1;margin-left:8px;margin-top:10px;margin-bottom:10px;}
+.partd .drig .drigimg table{border-collapse:collapse;width:85px;height:110px;text-align:center;}
+.partd .drig .drignews{width:190px;margin-left:7px;margin-top:9px;margin-bottom:7px;}
+/*partd 結束*/
+/*parte 開始*/
+.parte{margin-bottom:7px;}
+.parte .eleft{width:643px;border-right-style:solid;border-right-width:1px;border-bottom-style:solid;border-bottom-width:1px;}
+.parte .eleft .eleftit{width:643px;height:28px;border-width:1px;border-style:solid;border-left:none;border-right:none;}
+.parte .eleft .eleftit .flt{height:28px;line-height:28px;font-size:15px;font-weight:bold;margin-left:8px;}
+.parte .eleft .eleftit .flt a:link{color:#000;}
+.parte .eleft .eleftit .flt a:visited,.wonderfulimg .witit .flt a:hover{color:#000;}
+.parte .eleft .eleftit .frt{height:28px;line-height:28px;margin-right:10px;}
+.parte .eleft .eleftit .frt a:link{color:#163878}
+.parte .eleft .eleftit .frt a:visited,.wonderfulimg .witit .frt a:hover{color:#163878;}
+.parte .eleft .eleflef{width:332px;margin-left:11px;margin-top:13px;}
+.parte .eleft .eleflef .edis{width:332px;height:238px;position:relative;}
+.parte .eleft .eleflef .edis .edisbarbg{position:absolute;top:201px;left:0;width:332px;height:29px;background-color:#000;filter:alpha(opacity=40);opacity:0.4;}
+.parte .eleft .eleflef .edis .edisbar{position:absolute;top:201px;left:0;width:332px;height:29px;line-height:29px;text-align:center;font-size:15px;overflow:hidden;}
+.parte .eleft .eleflef .edis .edisbar a:link{color:#fff;}
+.parte .eleft .eleflef .edis .edisbar a:visited,.parte .eleft .eleflef .edis .edisbar a:hover{color:#fff;}
+.numlist{position:absolute;top:0;right:0;}
+.numlist div{width:15px;height:15px;line-height:15px;background:url(http://ui.sina.com/pub/home/0104/bm_gx_13.gif) repeat-x;margin-left:1px;text-align:center;color:#fff;cursor:pointer;}
+.numlist .sel{background:url(http://ui.sina.com/pub/home/0104/bm_gx_12.gif) repeat-x;}
+.parte .eleft .eleflef p{width:332px;text-align:center;}
+.parte .eleft .eleflef .en01{height:38px;line-height:38px;font-size:15px;font-weight:bold;margin-top:10px;}
+.parte .eleft .eleflef .en01 a:link{color:#EE1B22;}
+.parte .eleft .eleflef .en01 a:visited,.parte .eleft .eleflef .en01 a:hover{color:#EE1B22;}
+.parte .eleft .eleflef .en02{height:21px;line-height:21px;}
+.parte .eleft .eleflef .en02 a:link{color:#000;}
+.parte .eleft .eleflef .en02 a:visited{color:#595959;}
+.parte .eleft .eleflef .en02 a:hover{color:#790000;}
+.parte .eleft .eleflist{margin-left:11px;margin-top:6px;}
+.parte .eleft .eleflist ul{margin-bottom:1px;}
+.parte .eright{width:293px;border-left-width:1px;border-left-style:solid;border-bottom-width:1px;border-bottom-style:solid;margin-left:10px;}
+.parte .eright .erigtit{width:293px;height:28px;border-style:solid;border-width:1px;border-left:none;border-right:none;}
+.parte .eright .erigtit .flt{height:28px;line-height:28px;font-size:15px;font-weight:bold;margin-left:8px;}
+.parte .eright .erigtit .flt a:link{color:#000;}
+.parte .eright .erigtit .flt a:visited,.wonderfulimg .witit .flt a:hover{color:#000;}
+.parte .eright .erigtit .frt{height:28px;line-height:28px;margin-right:10px;}
+.parte .eright .erigtit .frt a:link{color:#163878}
+.parte .eright .erigtit .frt a:visited,.wonderfulimg .witit .frt a:hover{color:#163878;}
+.parte .eright .erightfirst{height:41px;line-height:41px;text-align:center;font-size:15px;font-weight:bold;}
+.parte .eright .erightfirst a:link{color:#16377E;}
+.parte .eright .erightfirst a:visited,.parte .eright .erightfirst a:hover{color:#16377E;}
+.parte .eright .erigdis{width:293px;}
+.parte .eright .erigdis .erigdisimg{width:157px;height:97px;border:1px solid #A8AAA9;padding:3px;margin-left:9px;}
+.parte .eright .erigdis .erigdisimg table{width:157px;height:97px;border-collapse:collapse;text-align:center;}
+.parte .eright .erigdis .erigdisdes{width:110px;margin-left:9px;line-height:21px;}
+.parte .eright .erigdis .erigdisdes a:link{color:#747474;}
+.parte .eright .erigdis .erigdisdes a:visited{color:#595959;}
+.parte .eright .erigdis .erigdisdes a:hover{color:#790000;}
+.parte .eright ul{margin-left:8px;margin-top:13px;}
+.parte .eright .videodis{width:293px;padding-top:16px;padding-bottom:10px;margin-top:7px;}
+.parte .eright .video{width:89px;margin-left:6px;}
+.parte .eright .video div{width:85px;height:64px;padding:1px;border:1px solid #C5C6C8;}
+.parte .eright .video div table{text-align:center;border-collapse:collapse;width:85px;height:64px;}
+.parte .eright .video p{width:89px;text-align:center;height:23px;line-height:23px;}
+/*parte 結束*/
+/*partf 開始*/
+.partf{}
+.partf .flef{width:468px;border-right-width:1px;border-right-style:solid;height:auto;_height:281px;min-height:281px;}
+.partf .flef .fleftit{width:468px;height:28px;border-width:1px;border-style:solid;border-left:none;border-right:none;}
+.partf .flef .fleftit .flt{height:28px;line-height:28px;font-size:15px;font-weight:bold;margin-left:8px;}
+.partf .flef .fleftit .flt a:link{color:#000;}
+.partf .flef .fleftit .flt a:visited,.wonderfulimg .witit .flt a:hover{color:#000;}
+.partf .flef .fleftit .frt{height:28px;line-height:28px;margin-right:10px;}
+.partf .flef .fleftit .frt a:link{color:#163878}
+.partf .flef .fleftit .frt a:visited,.wonderfulimg .witit .frt a:hover{color:#163878;}
+.partf .frig{margin-left:10px;border-left-width:1px;border-left-style:solid;border-right:none;}
+.partf .flefborderbtm{border-bottom-width:1px;border-bottom-style:solid;}
+.partf .fpart01{width:450px;margin:0 auto;border-bottom:1px dashed #C7C7C7;padding-bottom:13px;margin-top:12px;}
+.partf .fpart01 .fpart01dis{width:77px;height:83px;border:1px solid #898788;}
+.partf .fpart01 .fpart01dis table{width:77px;height:83px;border-collapse:collapse;text-align:center;}
+.partf .fpart01 .fpart01des{width:129px;margin-left:13px;}
+.partf .fpart01 .fpart01news{width:220px;margin-left:9px;} 
+.partf .fpart01 .fpart01des p{line-height:22px;}
+.partf .fpart01 .fpart01des .fpart01desline01{font-weight:bold;}
+.partf .fpart01 .fpart01des .fpart01desline02 a:link{color:#737373;}
+.partf .fpart01 .fpart01des .fpart01desline02 a:visited{color:#595959;}
+.partf .fpart01 .fpart01des .fpart01desline02 a:hover{color:#790000;}
+.partf .fnewslist01{margin-top:11px;width:220px;margin-left:10px;}
+.partf .fpart02{width:137px;margin-top:12px;margin-left:14px;}
+.partf .fpart02 div{width:129px;height:95px;border:1px solid #C1C1C1;padding:3px;}
+.partf .fpart02 div table{width:129px;height:95px;border-collapse:collapse;text-align:center;}
+.partf .fpart02 p{line-height:25px;text-align:center;}
+.partf .fpart03{width:232px;margin-left:10px;margin-top:9px;margin-bottom:10px;}
+.partf .fpart04{width:226px;margin-top:9px;margin-bottom:10px;}
+.partf .fpart05{width:200px;margin-left:8px;margin-top:12px;position:relative;}
+.partf .fpart05 p{width:200px;height:37px;line-height:37px;text-align:center;font-size:15px;color:#fff;background-color:#54585B;margin-bottom:15px;overflow:hidden;}
+.partf .fpart05 p a:link{color:#fff;}
+.partf .fpart05 p a:visited,.partf .fpart05 p a:hover{color:#fff;}
+.partf .fpart06{width:248px;margin-left:12px;margin-top:11px;}
+.partf .fpart05marglef{margin-left:0;}
+.newslist02{}
+.newslist02 li{height:21px;line-height:21px;background:url(http://ui.sina.com/pub/home/0104/bm_gx_03.gif) no-repeat 0 10px;padding-left:9px;}
+.newslist02 li .red:link{color:#EE1D23;}
+/*partf 結束*/
+/*parth 開始*/
+.parth{width:948px;margin-top:7px;}
+.parth .htit{width:948px;height:28px;border-width:1px;border-style:solid;border-left:none;border-right:none;}
+.parth .htit .flt{height:28px;line-height:28px;font-size:15px;font-weight:bold;margin-left:8px;}
+.parth .htit .flt a:link{color:#000;}
+.parth .htit .flt a:visited,.wonderfulimg .witit .flt a:hover{color:#000;}
+.parth .hlef{width:308px;padding-bottom:7px;}
+.parth .hlef .hleftit{width:299px;height:26px;padding-left:9px;padding-top:14px;border-bottom:1px dashed #C7C7C7;}
+.parth .hlef .hleftit .hleftitbg{width:181px;height:21px;}
+.parth .hlef table{border-collapse:collapse;width:278px;text-align:center;margin-left:9px;margin-top:6px;}
+.parth .hlef table tr td{width:90px;height:99px;border:4px solid #F2F2F2;padding-top:3px;}
+.parth .hlef table tr td p{line-height:20px;}
+.hlefnewslist{width:297px;margin-left:11px;margin-top:3px;}
+.hlefnewslist .line01{line-height:23px;}
+.hlefnewslist .line01 .flt{font-size:15px;}
+.hlefnewslist .line01 .lineicon{width:12px;height:11px;overflow:hidden;margin-top:5px;margin-right:3px;}
+.hlefnewslist .line01 .linetip a:link{color:#42A7C8;}
+.hlefnewslist .line01 .linecon a:link{color:#22699C;}
+.hlefnewslist .line01 .linered a:link{color:#ED1B5B;}
+.parth .hmid{width:314px;border-left-width:1px;border-left-style:solid;height:auto;_height:236px;min-height:236px;}
+.parth .hmid .hmidtit{width:305px;height:26px;padding-left:9px;padding-top:14px;border-bottom:1px dashed #C7C7C7;}
+.parth .hmid .hmidtit .hmidtitbg{width:181px;height:21px;}
+.parth .hmid .hmidtit .frt{margin-top:7px;margin-right:3px;}
+.parth .hmid .hmidtit .frt a:link{color:#163878;}
+.parth .hmid .hmidtit .frt a:visited,.parth .hmid .hmidtit .frt a:hover{color:#163878;}
+
+.parth .hmid ul{margin-top:10px;margin-left:11px;}
+.parth .hmid ul a:link{color:#15387C;}
+.parth .hmid ul a:visited{color:#595959;}
+.parth .hmid ul a:hover{color:#790000;}
+.parth .hrig{width:324px;border-left-width:1px;border-left-style:solid;height:auto;_height:236px;min-height:236px;}
+.parth .hrig .hrigtit{width:315px;height:26px;padding-left:9px;padding-top:14px;border-bottom:1px dashed #C7C7C7;}
+.parth .hrig .hrigtit .hrigtitbg{width:181px;height:21px;}
+.parth .hrig .hrigtit .frt{margin-top:7px;margin-right:3px;}
+.parth .hrig .hrigtit .frt a:link{color:#163878}
+.parth .hrig .hrigtit  .frt a:visited,.parth .hrig .hrigtit .hrigtitbg .frt a:hover{color:#163878;}
+
+.parth .hrig .hrigdis{width:97px;height:77px;padding:1px;border:1px solid #A8A8A8;margin-left:18px;margin-top:8px;}
+.parth .hrig .hrigdis table{width:97px;height:77px;text-align:center;border-collapse:collapse;}
+.parth .hrig .hrignews01{width:198px;margin-left:5px;margin-top:8px;}
+.parth .hrig .hrignews02{margin-left:13px;margin-top:8px;}
+.parth .hrig ul li a:link{color:#15387C;}
+.parth .hrig ul li a:visited{color:#595959;}
+.parth .hrig ul li a:hover{color:#790000;}
+/*parth 結束*/
+/*內容部分 結束*/
+/*活動聚焦 開始*/
+.focusactivity{width:948px;height:auto;_height:78px;min-height:78px;border-width:1px;border-style:solid;border-top:none;margin-top:7px;margin-bottom:7px;}
+.focusactivity .fatit{width:948px;height:28px;border-width:1px;border-style:solid;border-left:none;border-right:none;}
+.focusactivity .fatit .flt{height:28px;line-height:28px;font-size:15px;font-weight:bold;margin-left:8px;}
+.focusactivity .fatit .flt a:link{color:#000;}
+.focusactivity .fatit .flt a:visited,.wonderfulimg .witit .flt a:hover{color:#000;}
+
+.focusactivity .fatit .frt{height:28px;line-height:28px;margin-right:10px;}
+.focusactivity .fatit .frt a:link{color:#163878}
+.focusactivity .fatit .frt a:visited,.focusactivity .fatit .frt a:hover{color:#163878;}
+
+.focusactivity .faline{line-height:20px;width:223px;}
+.focusactivity .faline .faicon{margin-right:8px;}
+.focusactivity .faline .facon span{color:#16397B;margin-right:3px;}
+.focusactivity .focusactivityin{width:929px;padding-left:19px;padding-top:18px;padding-bottom:18px;}
+.focusactivity .faline .facon a:link{color:#16397B;}
+.focusactivity .faline .facon a:visited{color:#595959;}
+.focusactivity .faline .facon a:hover{color:#790000;}
+/*活動聚焦 結束*/
+/*尾部 開始*/
+.footer {}
+.footer p {text-align: center; height: 30px; line-height: 30px; color: #333;}
+a.footer {color: #666;}
+a.footer:hover {text-decoration: underline; color: #666;} 
+.footer .line_01 {background: #ffd062;}
+.footer .line_02 {background: #a7a7a7; color: #fff;} 
+/*尾部 結束*/
+
+/*首頁顔色設定 開始*/
+/*預設 開始*/
+.pageColor_default_01{background:url(http://ui.sina.com/pub/home/0104/bm_gx_01.gif) repeat-x;}
+.pageColor_default_02{background:url(http://ui.sina.com/pub/home/0104/bm_gx_06.gif) repeat-x;}
+.pageColor_default_03{background:url(http://ui.sina.com/pub/home/0104/bm_gx_06.gif) repeat-x 0 -2px;}
+.pageColor_default_04{background-color:#F7FAFD;}
+.pageColor_default_05{border-color:#CEDAE4;}
+/*預設 結束*/
+/*黃色 開始*/
+.pageColor_yellow_01{background:url(http://ui.sina.com/pub/home/0104/pageColor_yellow_01.gif) repeat-x;}
+.pageColor_yellow_02{background:url(http://ui.sina.com/pub/home/0104/pageColor_yellow_02.gif) repeat-x;}
+.pageColor_yellow_03{background:url(http://ui.sina.com/pub/home/0104/pageColor_yellow_02.gif) repeat-x 0 -2px;}
+.pageColor_yellow_04{background-color:#FFFBDB;}
+.pageColor_yellow_05{border-color:#E4E1CE;}
+/*黃色 結束*/
+/*橙色 開始*/
+.pageColor_orange_01{background:url(http://ui.sina.com/pub/home/0104/pageColor_orange_01.gif) repeat-x;}
+.pageColor_orange_02{background:url(http://ui.sina.com/pub/home/0104/pageColor_orange_02.gif) repeat-x;}
+.pageColor_orange_03{background:url(http://ui.sina.com/pub/home/0104/pageColor_orange_02.gif) repeat-x 0 -2px;}
+.pageColor_orange_04{background-color:#FFF9ED;}
+.pageColor_orange_05{border-color:#E4D2BF;}
+/*橙色 結束*/
+/*紅色 開始*/
+.pageColor_red_01{background:url(http://ui.sina.com/pub/home/0104/pageColor_red_01.gif) repeat-x;}
+.pageColor_red_02{background:url(http://ui.sina.com/pub/home/0104/pageColor_red_02.gif) repeat-x;}
+.pageColor_red_03{background:url(http://ui.sina.com/pub/home/0104/pageColor_red_02.gif) repeat-x 0 -2px;}
+.pageColor_red_04{background-color:#FFF6FB;}
+.pageColor_red_05{border-color:#E7CFDB;}
+/*紅色 結束*/
+/*藍色 開始*/
+.pageColor_blue_01{background:url(http://ui.sina.com/pub/home/0104/pageColor_blue_01.gif) repeat-x;}
+.pageColor_blue_02{background:url(http://ui.sina.com/pub/home/0104/pageColor_blue_02.gif) repeat-x;}
+.pageColor_blue_03{background:url(http://ui.sina.com/pub/home/0104/pageColor_blue_02.gif) repeat-x 0 -2px;}
+.pageColor_blue_04{background-color:#EDFFFA;}
+.pageColor_blue_05{border-color:#CCE5DF;}
+/*藍色 結束*/
+/*綠色 開始*/
+.pageColor_green_01{background:url(http://ui.sina.com/pub/home/0104/pageColor_green_01.gif) repeat-x;}
+.pageColor_green_02{background:url(http://ui.sina.com/pub/home/0104/pageColor_green_02.gif) repeat-x;}
+.pageColor_green_03{background:url(http://ui.sina.com/pub/home/0104/pageColor_green_02.gif) repeat-x 0 -2px;}
+.pageColor_green_04{background-color:#F2FFEF;}
+.pageColor_green_05{border-color:#CDE5C8;}
+/*綠色 結束*/
+/*首頁顔色設定 結束*/
+
+/*Google Search Bar begin*/
+#container { width:950px; margin:auto;}
+#srchtop { width:950px; height:28px; background-color:#f0f0e5; border-top:#b3a2a0 1px solid; border-bottom:#b3a2a0 1px solid; font-family:"Courier New", Courier, monospace; font-size:12px; margin-top:3px;}
+#srchtitle {width:73px; float:left; padding-left:5px; color:#666666; overflow:hidden; padding-top:6px;}
+#srchlink {width:430px; float:left; height:17px; overflow:hidden; padding-top:7px;*padding-top:5px;}
+#srchlink .keyword a{}
+#srchform {width:265px; float:left; height:22px; padding-top:5px;*padding-top:3px;}
+#srchbtn {width:49px; float:left; padding-top:3px;}
+#srchoption { display:none;}
+#srchlogo {width:120px; float:left; padding-top:2px;}
+/*Google Search Bar end*/
+
+/*微博部分 開始*/
+.partb .bright .t_con .t_contop{width:463px;height:auto;_height:116px;min-height:116px;border-bottom:1px solid #CCDBE4;padding-left:35px;padding-top:24px;}
+.partb .bright .t_con .t_contop .tuserimg01{background:url(http://ui.sina.com/pub/home/0104/bm_gx_26.gif) no-repeat;width:95px;height:95px;padding-top:1px;padding-left:1px;}
+.partb .bright .t_con .t_contop .tusercon{width:314px;margin-left:20px;}
+.partb .bright .t_con .t_contop .tusercon .tuserid img{margin-left:4px;margin-right:4px;}
+.partb .bright .t_con .t_contop .tusercon p{line-height:20px;color:#878787;}
+.partb .bright .t_con .t_contop .tusercon .time{color:#9F9F9F;text-align:right;height:20px;line-height:20px;}
+.partb .bright .t_con .t_contop .tusercon .tlink{height:20px;line-height:20px;padding-left:126px;}
+.partb .bright .t_con .t_contop .tusercon .tlink img{margin-right:10px;}
+.partb .bright .t_con .t_contop .tusercon .tlink a:link{color:#4BA3D4;font-weight:bold;}
+.partb .bright .t_con .t_contop .tusercon .tlink a:visited,.partb .bright .t_con .t_contop .tusercon .tlink a:hover{color:#4BA3D4;font-weight:bold;}
+.partb .bright .t_con .t_contop .tusercon .tlink .tsmallicon{margin-top:2px;}
+.partb .bright .t_con .tuserinfo{width:152px;margin-top:-50px;margin-left:12px;}
+.partb .bright .t_con .tuserinfo .userinfoimg{width:50px;height:50px;padding:2px;border:1px solid #CCCCCC;}
+.partb .bright .t_con .tuserinfo .userinfoimg table{width:50px;height:50px;text-align:center;border-collapse:collapse;}
+.partb .bright .t_con .tuserinfo .userinfodes{width:88px;margin-left:8px;}
+.partb .bright .t_con .tuserinfo .userinfodes p{color:#15387C;}
+
+.partb .bright .t_con .tuserinfo .userinfodes .userinfodes01{line-height:14px;margin-top:2px;word-wrap:break-word;word-break:break-all}
+.partb .bright .t_con .tuserinfo .userinfodes .userinfodes02{line-height:18px;margin-top:4px;word-wrap:break-word;word-break:break-all}
+
+.partb .bright .t_con .charts{border-collapse:collapse;width:485px;margin-left:13px;margin-top:11px;}
+.partb .bright .t_con .charts tr td{height:31px;}
+.partb .bright .t_con .charts .chartswid01{width:70px;}
+.partb .bright .t_con .charts .chartswid02{width:113px;}
+/*微博部分 結束*/
+
+/*ff icast廣告*/
+#sponsorAdDiv {position: absolute;left: 0px;top: 0px;z-index: 3;overflow: auto;}
+#sponsorAdDiv2 {position: absolute;left: 0px;top: 0px;width: 1px;height: 1px;z-index: 2;}
+#sponsorAdDiv3 {position: absolute;left: 0px;top: 0px;width: 1px;height: 1px;z-index: 1;}
+
+-->
+</style>
+<base target="_blank" />
+
+<meta property="wb:webmaster" content="33fc77ca2abbaaff" />
+<script type="text/javascript" src="http://ui.sina.com/assets/js/sinaus_app.js"></script>
+
+<!-- Active Run JS -->
+<script type="text/javascript">AC_FL_RunContent = 0;</script>
+<script type="text/javascript" src="http://ui.sina.com/assets/js/AC_RunActiveContent.js"></script>
+<!-- END . Active Run JS -->
+
+<!-- MergedAd_JS -->
+<script type="text/javascript" src="http://ui.sina.com/assets/js/dart/printProcDART.js"></script>
+
+<script type="text/javascript">
+var conf = 'home_prefs';
+refExtJs("http://ui.sina.com/assets/js/dart/config/"+conf+".js");
+</script>
+
+<script type="text/javascript">
+if( internalstr != "" ) {
+            var ta = internalstr.split('\t');
+            for(var ix=0; ix < (ta.length-1); ix++) { if(ta[ix] != "") refExtJs(ta[ix]); }
+}
+</script>
+<!-- END: MergedAd_JS -->
+
+<script type="text/javascript">
+function SetCookie(cookieName,cookieValue,nDays) {
+	var today = new Date();
+	var expire = new Date();
+	if (nDays==null || nDays==0) nDays=1;
+	expire.setTime(today.getTime() + 3600000*3*nDays);
+	document.cookie = cookieName+"="+escape(cookieValue) + ";expires="+expire.toGMTString();
+}
+</script>
+
+<!-- Mobile ad -->
+
+<script type="text/javascript">
+<!--
+
+var winaw=window.screen.width;
+var winlo=document.location.href;
+if ((winaw<700||(navigator.userAgent.match(/Android/i)))&&(!(navigator.userAgent.match(/iPad/i))))
+   { if (winlo!="http://home.sina.com/index.shtml?act=true")
+     window.location ="http://m.us.sina.com/us_cookie.php";
+     }
+
+if (navigator.userAgent.match(/iPad/i))
+   { 
+    if ((winlo!="http://home.sina.com/index.shtml?ipad=true")&&(winlo!="http://home.sina.com/bg/?ipad=true"))
+	 window.location="http://ipad.us.sina.com/";
+
+   }
+// -->
+</script>
+<!--END. mobile cookie-->
+
+<style type="text/css">
+#sponsorAdDiv {overflow: hidden;}
+</style>
+
+<!--gpt tag lib out-of-page pop video 130412-->
+<script type='text/javascript'>
+(function() {
+var useSSL = 'https:' == document.location.protocol;
+var src = (useSSL ? 'https:' : 'http:') +
+'//www.googletagservices.com/tag/js/gpt.js';
+document.write('<scr' + 'ipt src="' + src + '"></scr' + 'ipt>');
+})();
+</script>
+
+<script type='text/javascript'>
+googletag.defineSlot('/4461/us.tech', [[1, 1], [120, 600], [300, 250], [728, 90]], 'div-gpt-ad-1365465910284-0').addService(googletag.pubads());
+googletag.defineOutOfPageSlot('/4461/us.tech', 'div-gpt-ad-1365465910284-0-oop').addService(googletag.pubads());
+googletag.pubads().enableSyncRendering();
+googletag.pubads().enableSingleRequest();
+googletag.enableServices();
+</script>
+
+<!-- Intro ad -->
+<script>
+<!--
+
+// page to go to if cookie exists
+go_to = "http://home.sina.com/bg/welcome.html";
+
+// number of days cookie lives for
+num_days = 1;
+function ged(noDays){
+    var today = new Date();
+    var expr = new Date(today.getTime() + noDays*3600*6*1000);
+    return  expr.toGMTString();
+}
+
+function readCookie(cookieName){
+    var start = document.cookie.indexOf(cookieName);
+    if (start == -1){ 
+        document.cookie = 'seenit=yes; expires=' + ged(num_days) + '; path=/';
+        window.location = go_to;
+    }
+}
+
+if (navigator.cookieEnabled)
+    readCookie("seenit");
+// -->
+</script>
+<!-- END . Intro ad -->
+
+<!-- Search data check-->
+<script type="text/javascript">
+function checkData()
+{
+		var radioLength = document.mainform.search_type.length;
+		var radioObj = document.mainform.search_type;
+		for(var i = 0; i < radioLength; i++) {
+				if(radioObj[i].checked) {
+						if(radioObj[i].value =="images")
+						{
+								document.mainform.action ="http://google.sina.com/google_search_img.php";
+						}else if(radioObj[i].value =="webs")
+						{
+								document.mainform.action ="http://google.sina.com/google_search.php";
+						}
+				}
+		}
+	return true;
+}
+</script>
+<!-- END: Search data check -->
+
+</head>
+<body>
+<div id="wrap">
+
+<!-- begin ad tag -->
+<script type="text/javascript">
+//<![CDATA[
+ord=Math.random()*10000000000000000;
+document.write('<script type="text/javascript" src="http://ad.doubleclick.net/adj/us.homepage/;dcopt=ist;tile=1;sz=900x40;ord=' + ord + '?"><\/script>'); //]]> </script> <noscript><a href="http://ad.doubleclick.net/jump/us.homepage/;tile=1;sz=900x40;ord=123456789?" target="_blank" ><img src="http://ad.doubleclick.net/ad/us.homepage/;tile=1;sz=900x40;ord=123456789?" border="0" alt="" /></a></noscript>
+<!-- end ad tag --> 
+
+<!--Floating scottrade 20130415-->
+<script type="text/javascript" src="http://ui.sina.com/rm/scottrade/130415/scottrad_float_120x60_130415.js"></script>
+
+<!--設定頁面顔色 開始-->
+<div class="topcolor pageColor_default_01 pageColor_default_05">
+	<div class="flt">設定頁面顔色</div><div class="flt colorcon"><a class="gray selectednow" color="pageColor_default" href="javascript:void(0)" target="_self"></a><span class="flt">(預設)</span><a class="yellow" href="javascript:void(0)" target="_self" color="pageColor_yellow"></a><a class="orange" href="javascript:void(0)" target="_self" color="pageColor_orange"></a><a class="red" href="javascript:void(0)" target="_self" color="pageColor_red"></a><a class="blue" href="javascript:void(0)" target="_self" color="pageColor_blue"></a><a class="green" href="javascript:void(0)" target="_self" color="pageColor_green"></a></div>
+
+	<!--登錄 開始-->
+	<div class="frt toplogin">
+	<script type="text/javascript" src="http://ads.sina.com/js/welcome110119.js"></script>
+
+	<noscript><ul>
+	<li><a href="http://members.sina.com/register.php">加入會員</a><span>|</span></li><li><a href="http://members.sina.com/">Login</a><span>|</span></li><li><a href="http://mediakit.sina.com/Contact.html">contact us</a></li>
+	</ul></noscript>
+	</div>
+	<!--登錄 結束-->    
+
+  <div class="split"></div>
+
+<script type="text/javascript">
+function setCookie(name,value){
+	var Days = 30; 
+	var exp  = new Date(); 
+	exp.setTime(exp.getTime() + Days*24*60*60*1000);
+	document.cookie = name + "="+ escape (value) + ";expires=" + exp.toGMTString();
+}
+function getCookie(name){
+	var arr = document.cookie.match(new RegExp("(^| )"+name+"=([^;]*)(;|$)"));
+	if(arr != null) return unescape(arr[2]); return null;
+}
+function iniColor(){
+	var colorValue=getCookie('pageColor');
+	var colorBtnArr=$('.topcolor .colorcon a');
+	if(colorValue!=null){
+		$.each(colorBtnArr,function(){
+			if($(this).attr('color')==colorValue){
+				$.each(colorBtnArr,function(){
+					$(this).removeClass('selectednow');
+					})
+				$(this).addClass('selectednow');
+				}
+			})
+		var pageColorDefault_01=$('.pageColor_default_01');
+		var pageColorDefault_02=$('.pageColor_default_02');
+		var pageColorDefault_03=$('.pageColor_default_03');
+		var pageColorDefault_04=$('.pageColor_default_04');
+		var pageColorDefault_05=$('.pageColor_default_05');
+		$.each(pageColorDefault_01,function(){
+			var oldClassName=$(this).attr('class');
+			var newClassName=oldClassName.replace('pageColor_default',colorValue);
+			$(this).attr('class',newClassName);
+			})
+		$.each(pageColorDefault_02,function(){
+			var oldClassName=$(this).attr('class');
+			var newClassName=oldClassName.replace('pageColor_default',colorValue);
+			$(this).attr('class',newClassName);
+			})
+		$.each(pageColorDefault_03,function(){
+			var oldClassName=$(this).attr('class');
+			var newClassName=oldClassName.replace('pageColor_default',colorValue);
+			$(this).attr('class',newClassName);
+			})
+		$.each(pageColorDefault_04,function(){
+			var oldClassName=$(this).attr('class');
+			var newClassName=oldClassName.replace('pageColor_default',colorValue);
+			$(this).attr('class',newClassName);
+			})
+		$.each(pageColorDefault_05,function(){
+			var oldClassName=$(this).attr('class');
+			var newClassName=oldClassName.replace('pageColor_default',colorValue);
+			$(this).attr('class',newClassName);
+			})
+		}
+	}
+function changePageColor(){
+	var colorBtnArr=$('.topcolor .colorcon a');
+	$.each(colorBtnArr,function(){
+		$(this).click(function(){
+			$.each(colorBtnArr,function(){
+				$(this).removeClass('selectednow');
+				})
+			$(this).addClass('selectednow');
+			var colorInfo=$(this).attr('color');
+			var oldColor=getCookie('pageColor');
+			if(oldColor==null){
+				oldColor='pageColor_default';
+				}
+			setCookie('pageColor',colorInfo);
+			var pageColorDefault_01=$('.'+oldColor+'_01');
+			var pageColorDefault_02=$('.'+oldColor+'_02');
+			var pageColorDefault_03=$('.'+oldColor+'_03');
+			var pageColorDefault_04=$('.'+oldColor+'_04');
+			var pageColorDefault_05=$('.'+oldColor+'_05');
+			$.each(pageColorDefault_01,function(){
+				var oldClassName=$(this).attr('class');
+				var newClassName=oldClassName.replace(oldColor,colorInfo);
+				$(this).attr('class',newClassName);
+				})
+			$.each(pageColorDefault_02,function(){
+				var oldClassName=$(this).attr('class');
+				var newClassName=oldClassName.replace(oldColor,colorInfo);
+				$(this).attr('class',newClassName);
+				})
+			$.each(pageColorDefault_03,function(){
+				var oldClassName=$(this).attr('class');
+				var newClassName=oldClassName.replace(oldColor,colorInfo);
+				$(this).attr('class',newClassName);
+				})
+			$.each(pageColorDefault_04,function(){
+				var oldClassName=$(this).attr('class');
+				var newClassName=oldClassName.replace(oldColor,colorInfo);
+				$(this).attr('class',newClassName);
+				})
+			$.each(pageColorDefault_05,function(){
+				var oldClassName=$(this).attr('class');
+				var newClassName=oldClassName.replace(oldColor,colorInfo);
+				$(this).attr('class',newClassName);
+				})
+
+			})
+		})
+	}
+$(document).ready(function(){
+	iniColor();
+	changePageColor();
+	})
+</script>
+</div>
+<!--設定頁面顔色 結束-->
+
+<!--頂部廣告bar 01 開始-->
+<div class="topadbar"><ul><li><a href="http://pubads.g.doubleclick.net/gampad/clk?id=57061717&iu=/4461/us.clickcommand" target="_blank">為紐約地區用戶提供職業與家庭移民諮詢</a></li>
+
+<li><a href="http://pubads.g.doubleclick.net/gampad/clk?id=22280437&iu=/4461/us.clickcommand" target="_blank">轉美股賬戶享$100回饋</a></li>
+
+<li><a href="http://ad.doubleclick.net/clk;262433250;15706542;w?http://deals.sina.com" target="_blank">提供網上折扣信息每天更新</a></li>
+
+<li><a href="http://pubads.g.doubleclick.net/gampad/clk?id=56851237&iu=/4461/us.clickcommand" target="_blank">AT＆T U-verse高速上網</a></li>
+
+<li><a href="http://pubads.g.doubleclick.net/gampad/clk?id=56936557&iu=/4461/us.clickcommand" target="_blank">南加州新屋網絡版全新上線</a></li>
+</ul></div>
+<!--頂部廣告bar 01 結束-->
+
+<!--頂部廣告728*90 開始-->
+<div class="topad">
+	<div class="flt">
+		<div><img src="http://img.news.sina.com/bg/5010/18/2011/0107/U128P5010T18D11F167DT20120111102749.gif" width="176" height="62" alt="Sina U.S. 新浪北美" /></div>
+		<ul><li><a href="javascript:gbtobig5();" target="_self">繁體</a></li><li><a href="javascript:big5togb();" target="_self">簡體</a></li><li class="clearborder"><a href="http://english.sina.com/" target="_self">English</a></li></ul>
+	</div>
+	<div class="frt"><script type="text/javascript" src="http://dailynews.sina.com/bg/ads/home/728_90/5.js"></script></div>
+	<div class="split"></div>
+</div>
+<!--頂部廣告728*90 結束-->
+
+<!--頂部廣告bar 02 開始-->
+<div class="topadbar"><ul>
+<li><a href="http://www.dealmoon.com/sina_toptext" target="_blank">網友分享,美國11城市環游，機票全免費</a></li>
+
+<li><a href="http://merchantadmin.sina.com/sinamall/grd_familypage.asp?pagetype=family&pf%5Fid=KGCBS00001&st%5Fid=284&from%5Frow=1&to%5Frow=15" target="_blank">白蘭氏鷄精燕窩滿150免運費</a></li>
+
+<li><a href="http://pubads.g.doubleclick.net/gampad/clk?id=22225477&iu=/4461/us.clickcommand" target="_blank">選擇美股券商三大要件</a></li>
+
+<li><a href="http://pubads.g.doubleclick.net/gampad/clk?id=64341037&iu=/4461/us.clickcommand" target="_blank">超值AT＆T U-verse高速上網</a></li></ul></div>
+<!--頂部廣告bar 02 結束-->
+
+<!-- Google Search Bar -->
+	<div id="container">
+	<form action="" name="mainform" method="get" enctype="multipart/form-data" target="_blank">
+		<div id="srchtop">
+			<div id="srchtitle">熱門關鍵：</div>
+			<div id="srchlink">
+			<div class="keywords"><script type="text/javascript" src="http://dailynews.sina.com/bg/ads/home/text/6.js"></script></div>
+
+			</div>
+
+			<div id="srchform">
+			<input name="search_key" class="input" value="" style="width: 120px;" type="text" />
+			<input name="search_type" value="webs" checked="checked" type="radio"> 網頁 <input name="search_type" value="images" type="radio" /> 圖片 
+			</div>
+
+			<div id="srchbtn">
+
+			<input name="num_web" value="10" type="hidden" />
+			<input name="search_size" value="all" type="hidden" />
+			<input name="num" value="20" type="hidden" />
+			<input name="search_start" value="0" type="hidden" />
+			<input name="search_adpage" value="3" type="hidden" />
+			<input type="hidden" name="charset" value="UTF-8" />
+
+		<script language="JavaScript">	  
+		var str1='/bg/';
+		var str2='/bg/';
+		var this_url=window.location.href;
+		if( this_url.indexOf(str1)!=-1 ) {
+		 document.write('<input name="search_charset" value="gb2312" type="hidden" />');
+		}
+		else if(this_url.indexOf(str2)!=-1) {
+		 document.write('<input name="search_charset" value="big5" type="hidden" />');
+		}		 		
+		</script>
+
+			<input name="search_submit" value="搜尋" class="button" onclick="javascript:checkData()" type="submit" />
+			</div>
+			<div id="srchlogo"><a href="http://google.sina.com/" target="_blank"><img src="http://ui.sina.com/news/2009/0512/googlelogo.gif" alt="Google Search" width="108" height="20" border="0"/></a></div>
+		</div>
+	</form>
+	</div>
+	<div class="clear"></div>
+<!-- END: Google Search Bar-->
+
+<!--ipad/iphone ads-->
+<script type="text/javascript">
+//<![CDATA[
+
+var winaw=window.screen.width;
+if (/\((iPhone|iPod)/i.test(navigator.userAgent)){
+	document.write('<div><iframe src="http://m.us.sina.com/mbanner/index.html" width="950px" height="123px" frameborder="0" scrolling="no" ></iframe></div>');
+
+}else if ((winaw<400||(/\((Android|Blac|mmp|symbian|smartphone|midp|wap|phone|nokia|mobile)/i.test(navigator.userAgent)))&&(!/\((windows)/i.test(navigator.userAgent))){
+	document.write('<div><iframe src="http://m.us.sina.com/mbanner/index_mobile.html" width="950px" height="123px" frameborder="0" scrolling="no" ></iframe></div>');
+}  
+
+//]]>
+</script> 
+<!--end ipad/iphone ads-->
+
+<!--內容部分 開始-->
+<div class="indexcon pageColor_default_05">
+	<!--parta 開始-->
+	<div class="parta">
+		<div class="aleft flt pageColor_default_05">
+			<div class="navtit pageColor_default_02 pageColor_default_05"><div class="navicon flt"><img src="http://ui.sina.com/pub/home/0104/bm_gx_07.gif" width="18" height="16" alt="" /></div><div class="flt navwz">新聞</div></div>
+
+<div class="navline">
+	<div class="flt"><a href="http://dailynews.sina.com/bg/" target="_self">全球</a></div>
+	<div class="frt"><a href="http://chinanews.sina.com/bg/" target="_self">大陸</a></div>
+</div>
+<div class="navline">
+	<div class="flt"><a href="http://dailynews.sina.com/bg/tw/" target="_self">台灣</a></div>
+	<div class="frt"><a href="http://dailynews.sina.com/bg/usa/" target="_self">美國</a></div>
+</div>
+<div class="navline">
+	<div class="flt"><a href="http://ent.sina.com/bg/" target="_self">娛樂</a></div>
+	<div class="frt"><a href="http://dailynews.sina.com/bg/news/daily.html">趣聞</a></div>
+</div>
+<div class="navline clearbtmline">
+	<div class="flt"><a href="http://dailynews.sina.com/bg/picture/" target="_self">圖片</a></div>
+	<div class="frt"><a href="http://slide.ent.sina.com/" target="_self">高清</a></div>
+</div>
+<div class="navtit pageColor_default_02 pageColor_default_05"><div class="navicon flt"><img src="http://ui.sina.com/pub/home/0104/bm_gx_08.gif" width="18" height="16" alt="" /></div><div class="flt navwz">資訊</div></div>
+
+<div class="navline">
+	<div class="flt"><a href="http://finance.sina.com/" target="_self">財經</a></div>
+	<div class="frt"><a href="http://mindcity.sina.com.tw/" target="_blank">星座</a></div>
+</div>
+<div class="navline">
+	<div class="flt"><a href="http://immigration.sina.com/bg/" target="_self">移民</a></div>
+	<div class="frt"><a href="http://food.sina.com/bg/" target="_self">美食</a></div>
+</div>
+<div class="navline">
+	<div class="flt"><a href="http://auto.sina.com/bg/" target="_self">汽車</a></div>
+	<div class="frt"><img src="http://ui.sina.com/pub/home/0104/bm_gx_09.gif" width="16" height="16" alt="" /><a href="http://us.weibo.com/" target="_self">微博</a></div>
+</div>
+<div class="navline">
+	<div class="flt"><a href="http://blogus.sina.com/bg/" target="_self">博客</a></div>
+	<div class="frt"><a href="http://dailynews.sina.com/bg/bbs/" target="_self">論壇</a></div>
+</div>
+<div class="navline clearbtmline">
+	<div class="flt"><a href="http://magazine.sina.com/bg/" target="_self">雜誌</a></div>
+	<div class="frt"><a href="http://books.sina.com/bg/" target="_self">小说</a></div>
+</div>
+<div class="navtit pageColor_default_02 pageColor_default_05"><div class="navicon flt"><img src="http://ui.sina.com/pub/home/0104/bm_gx_10.gif" width="18" height="16" alt="" /></div><div class="flt navwz">服務</div></div>
+
+<div class="navline">
+	<div class="flt"><a href="http://match.sina.com/" target="_self">交友</a></div>
+	<div class="frt"><a href="http://mall.sina.com/" target="_self">購物</a></div>
+</div>
+<div class="navline">
+	<div class="flt"><a href="http://video.sina.com/" target="_self">視頻</a></div>
+	<div class="frt"><a href="http://travel.sina.com/" target="_self">旅遊</a></div>
+</div>
+<div class="navline">
+	<div class="flt"><a href="http://deals.sina.com/">折扣</a></div>
+	<div class="frt"><a href="http://echineselearning.sina.com/">學中文</a></div>
+</div>
+<div class="navline">
+	<div class="flt"><a href="http://yp.sina.com/" target="_self">黃頁</a></div>
+	<div class="frt"><a href="http://dailynews.sina.com/bg/fashion/" target="_self">美容</a></div>
+</div>
+<div class="navline clearbtmline">
+	<div class="flt"><a href="http://pstv.sina.com/home/" target="_self">居家</a></div>
+	<div class="frt"><a href="http://ad.doubleclick.net/clk;216320538;15706542;z?http://client.sina.com/sites/nh/">新房</a></div>
+</div>
+
+		</div>
+		<div class="amid flt pageColor_default_05">
+			<!--焦點圖 開始-->
+			<script type="text/javascript"> 
+var focusUtils={hoverNum:function(I){I=window.event?event:I;var i=I.srcElement||I.target;if(i){i.className="NumberHover";i.setAttribute("ishovering","true")}},leaveNum:function(I){I=window.event?event:I;var i=I.srcElement||I.target;if(i){i.removeAttribute("ishovering");if(i.className!="selected"){i.className="NumberLeave"}}},absPosition:function(o,I){var l=o.offsetLeft,O=o.offsetTop,i=o;while(i.id!=document.body&i.id!=document.documentElement&i!=I){i=i.offsetParent;l+=i.offsetLeft;O+=i.offsetTop};return{left:l,top:O}}};function Pixviewer(FocusImgID,BigPicID,NumberID,NumberBgID,width,height){this.Data=[];this.TimeOut=5000;var isIE=navigator.appVersion.indexOf("MSIE")!=-1?true:false;this.width=width;this.height=height;this._divtriangle=null;this.titleHeight=0;this.TitleID=null;this.selectedIndex=0;var TimeOutObj;if(!Pixviewer.childs){Pixviewer.childs=[]};this.showTime=null;this.showSum=10;this.ID=Pixviewer.childs.push(this)-1;this.listCode='<span style="cursor:pointer; margin-right:1px; [$rightborder]" src="[$pic]" onclick="Pixviewer.childs[[$thisId]].select([$num])">[$numtoShow]</span>';this.Add=function(jsnObj){this.Data.push(jsnObj)};this.TimeOutBegin=function(){clearInterval(TimeOutObj);TimeOutObj=setInterval("Pixviewer.childs["+this.ID+"].next()",this.TimeOut)};this.TimeOutEnd=function(){clearInterval(TimeOutObj)};this.select=function(num,noAction){if(num>this.Data.length-1){return};if(num==this.selectedIndex){return};this.TimeOutBegin();if(BigPicID){if(this.$(BigPicID)){var aObj=this.$(BigPicID).getElementsByTagName("a")[0];aObj.href=this.Data[num].url;if(this.aImgY){this.aImgY.style.display='none';this.aImg.style.zIndex=0};this.aImgY=this.$('F'+this.ID+'BF'+this.selectedIndex);this.aImg=this.$('F'+this.ID+'BF'+num);clearTimeout(this.showTime);this.showSum=5;if(!noAction){var appleMobileCheck=/\((iPad|iPhone|iPod)/i;if(appleMobileCheck.test(navigator.userAgent)){if(this.aImgY){this.aImgY.style.display='none'};this.aImg.style.display='block';this.aImg.style.zIndex=0;this.aImg.style.opacity=1;this.aImgY=null}else{this.showTime=setTimeout("Pixviewer.childs["+this.ID+"].show()",30)}}else{if(isIE){this.aImg.style.filter="alpha(opacity=100)"}else{this.aImg.style.opacity=1}}}};if(NumberID){if(this.$(NumberID)&&FocusImgID&&this.$(FocusImgID)){var sImg=this.$(NumberID).getElementsByTagName("span"),i;for(i=0;i<sImg.length;i++){if(i==num||num==(i-this.Data.length)){sImg[i].className="selected"}else{sImg[i].className="";if(sImg[i].getAttribute("ishovering")!="true"){sImg[i].className="NumberLeave"}}};if(!this._divtriangle){this._divtriangle=document.createElement("div");this._divtriangle.className="Triangle";this._divtriangle.style.bottom=this.titleHeight+1+"px";/*liuxiaolong begin 10.8.12*/if(window.navigator.userAgent.indexOf( 'MSIE' ) >= 0){this._divtriangle.style.bottom=this.titleHeight+1+"px";}/*liuxiaolong end 10.8.12*/this.$(FocusImgID).appendChild(this._divtriangle)};if(this._divtriangle){this._divtriangle.style.right=(sImg.length-num-1)*22+(sImg.length-num)+1+"px"}}};if(this.TitleID&&this.$(this.TitleID)){this.$(this.TitleID).innerHTML="<a href=\""+this.Data[num].url+"\" target=\"_blank\">"+this.Data[num].title+"</a>"};this.selectedIndex=num;if(this.onchange){this.onchange()}};this.show=function(){this.showSum--;if(this.aImgY){this.aImgY.style.display='block'};this.aImg.style.display='block';if(isIE){this.aImg.style.filter="alpha(opacity=0)";this.aImg.style.filter="alpha(opacity="+(5-this.showSum)*20+")"}else{this.aImg.style.opacity=0;this.aImg.style.opacity=(5-this.showSum)*0.2};if(this.showSum<=0){if(this.aImgY){this.aImgY.style.display='none'};this.aImg.style.zIndex=0;this.aImgY=null}else{this.aImg.style.zIndex=2;this.showTime=setTimeout("Pixviewer.childs["+this.ID+"].show()",30)}};this.next=function(){var temp=this.selectedIndex;temp++;if(temp>=this.Data.length){temp=0};this.select(temp)};this.pre=function(){var temp=this.selectedIndex;temp--;if(temp<0){temp=this.Data.length-1};this.select(temp)};this.begin=function(){this.selectedIndex=-1;var i,temp="";if(FocusImgID){if(this.$(FocusImgID)){var topObj=this.$(FocusImgID);topObj.style.width=this.width+"px";topObj.style.height=this.height+this.titleHeight+"px";var _hb=document.createElement("div");_hb.className="BorderHack1";_hb.style.width=this.width+"px";topObj.appendChild(_hb);_hb=document.createElement("div");_hb.className="BorderHack2";_hb.style.height=this.height+"px";topObj.appendChild(_hb);_hb=document.createElement("div");_hb.className="BorderHack3";_hb.style.width=this.width+"px";_hb.style.bottom=this.titleHeight+"px";topObj.appendChild(_hb);_hb=document.createElement("div");_hb.className="BorderHack4";_hb.style.height=this.height+"px";topObj.appendChild(_hb)}};if(this.TitleID){if(this.$(this.TitleID)){this.$(this.TitleID).style.width=this.width+"px";this.$(this.TitleID).style.height=this.titleHeight+"px";this.$(this.TitleID).style.lineHeight=this.titleHeight+"px";if(this.titleHeight==0){this.$(this.TitleID).style.display='none'}}};if(NumberBgID){if(this.$(NumberBgID)){this.$(NumberBgID).style.bottom=this.titleHeight+1+"px"}};if(BigPicID){if(this.$(BigPicID)){var aObj=this.$(BigPicID).getElementsByTagName("a")[0];aObj.style.zoom=1;this.$(BigPicID).style.position="relative";this.$(BigPicID).style.zoom=1;this.$(BigPicID).style.overflow="hidden";this.$(BigPicID).style.height=this.height+"px";for(i=0;i<this.Data.length;i++){temp+='<img src="'+this.Data[i].pic+'" id="F'+this.ID+'BF'+i+'" style="display:'+(i==0?'block':'none')+'" galleryimg="no"'+(this.width?' width="'+this.width+'"':'')+(this.height?' height="'+this.height+'"':'')+' alt="'+this.Data[i].title+'" />'};aObj.innerHTML=temp;var imgObjs=aObj.getElementsByTagName("img"),XY=focusUtils.absPosition(imgObjs[0],this.$(BigPicID));for(i=0;i<imgObjs.length;i++){imgObjs[i].style.position="absolute";imgObjs[i].style.top=XY.top+"px";imgObjs[i].style.left=XY.left+"px";imgObjs[i].style.width=this.width+"px";imgObjs[i].style.height=this.height+"px"}}};if(NumberID){if(this.$(NumberID)){tempHTML="";for(i=0;i<this.Data.length;i++){temp=this.listCode;temp=temp.replace(/\[\$thisId\]/ig,this.ID);temp=temp.replace(/\[\$num\]/ig,i);temp=temp.replace(/\[\$numtoShow\]/ig,i+1);temp=temp.replace(/\[\$title\]/ig,this.Data[i].title);if(i==this.Data.length-1){temp=temp.replace(/\[\$rightborder\]/ig,"")};tempHTML+=temp};this.$(NumberID).innerHTML=tempHTML;this.$(NumberID).style.bottom=this.titleHeight+1+"px";var sImg=this.$(NumberID).getElementsByTagName("span"),i;for(i=0;i<sImg.length;i++){if(window.attachEvent){sImg[i].attachEvent("onmouseover",focusUtils.hoverNum);sImg[i].attachEvent("onmouseout",focusUtils.leaveNum)}else{sImg[i].addEventListener("mouseover",focusUtils.hoverNum,false);sImg[i].addEventListener("mouseout",focusUtils.leaveNum,false)}}}};this.TimeOutBegin();this.select(0,true)};this.$=function(objName){if(document.getElementById){return eval('document.getElementById("'+objName+'")')}else{return eval('document.all.'+objName)}}};
+</script>
+
+			<div class="focus pageColor_default_05">
+			<div class="Pixviewer" id="Pixviewer_2">
+	<div class="PvBigPic" id="BigPic_2"><a href="http://dailynews.sina.com/bg/ent/chinanews/20130925/20105010019.html	" target="_blank"><img src="http://img.news.sina.com/bg/home/4/2011/0110/U82P5013T4D3F22DT20130926111938.jpg" galleryimg="no" alt="李開復攜愛女“追星” 遺憾未與喬布斯共事" /></a></div>
+	<div class="PvNumber" id="Number_2"></div>
+	<div class="PvNumberBg" id="NumberBG_2"></div>
+	<div class="PvTitleBox" id="Title_2"></div>
+</div>
+<div id="focusData_01" style="display:none">
+
+		<dl>
+			<dt><a href="http://dailynews.sina.com/bg/ent/chinanews/20130925/20105010019.html	">李開復攜愛女“追星” 遺憾未與喬布斯共事</a></dt>
+			<dd>http://img.news.sina.com/bg/home/4/2011/0110/U82P5013T4D3F22DT20130926111938.jpg</dd>
+		</dl>
+
+		<dl>
+			<dt><a href="http://dailynews.sina.com/bg/news/int/chinadaily/20130925/22305010544.html	">柯林頓受訪大贊愛女：切爾西能成為優秀總統</a></dt>
+			<dd>http://img.news.sina.com/bg/home/4/2011/0110/U82P5013T4D3F21DT20130926135135.jpg</dd>
+		</dl>
+
+		<dl>
+			<dt><a href="http://dailynews.sina.com/bg/tw/twpolitics/phoenixtv/20130925/22355010555.html">馬英九遭民衆丟拖鞋抗議 警察拉網防護</a></dt>
+			<dd>http://img.news.sina.com/bg/home/4/2011/0110/U82P5013T4D3F23DT20130926134117.jpg</dd>
+		</dl>
+
+		<dl>
+			<dt><a href="http://dailynews.sina.com/bg/ent/music/sinacn/20130925/23205010700.html">郎朗受邀於潘基文赴聯合國總部演講</a></dt>
+			<dd>http://img.news.sina.com/bg/home/4/2011/0110/U82P5013T4D3F24DT20130926142646.jpg</dd>
+		</dl>
+
+		<dl>
+			<dt><a href="http://dailynews.sina.com/bg/ent/hollywood/phoenixtv/20130925/18405009646.html">桑德拉-布洛剋星光大道留手印：想給兒子美好記憶</a></dt>
+			<dd>http://img.news.sina.com/bg/home/4/2011/0110/U82P5013T4D3F25DT20130926095506.jpg</dd>
+		</dl>
+
+		<dl>
+			<dt><a href="http://pubads.g.doubleclick.net/gampad/clk?id=50234677&iu=/4461/us.clickcommand">北美找丟網：華人第一折扣信息網站</a></dt>
+			<dd>http://img.news.sina.com/bg/ads/home/270_180/idx/2013/0530/U78P5010T4D37F32DT20130530012157.jpg</dd>
+		</dl>
+
+</div>
+
+<script language="javascript" type="text/javascript">
+<!--//--><![CDATA[//><!--
+var pixviewer_02 = new Pixviewer("Pixviewer_2","BigPic_2","Number_2", "NumberBG_2", 480, 270);
+pixviewer_02.TimeOut = 7000;
+pixviewer_02.TitleID = "Title_2";
+pixviewer_02.titleHeight = 46;
+pixviewer_02.htmlData = document.getElementById('focusData_01').getElementsByTagName('dl');
+for(var i=0;i<pixviewer_02.htmlData.length;i++){
+	var jsonData = {
+		title : pixviewer_02.htmlData[i].getElementsByTagName('a')[0].innerHTML,
+		url : pixviewer_02.htmlData[i].getElementsByTagName('a')[0].href,
+		pic : pixviewer_02.htmlData[i].getElementsByTagName('dd')[0].innerText || pixviewer_02.htmlData[i].getElementsByTagName('dd')[0].textContent
+	};
+	pixviewer_02.Add(jsonData);
+};
+pixviewer_02.begin();
+//--><!]]>
+</script>
+			</div>
+			<!--焦點圖 結束-->
+
+			<div class="focusnews pageColor_default_04">
+				<div class="flt">
+
+<p class="mainnews"><a href="http://dailynews.sina.com/bg/news/int/chinanews/20130925/17405009465.html">美向全球美國公民發安全警示</a></p>
+
+<p>[<a href="http://dailynews.sina.com/bg/news/usa/usnews/worldjournal/su/20130925/10325008908.html">恐襲陰霾 全美商場神經緊繃</a>]</p>
+
+<p>[<a href="http://dailynews.sina.com/bg/news/int/phoenixtv/20130925/18355009633.html">肯恐襲者:只想殺死肯尼亞人和美國人</a>]</p>
+
+</div>
+<div class="flt">
+
+<p class="mainnews"><a href="http://finance.sina.com/bg/tech/sinacn/20130924/2043868436.html	">一反傳統風格 Twitter低調IPO</a></p>
+
+<p>[<a href="http://finance.sina.com/bg/tech/sinacn/20130925/0126868657.html	">上市前夜：董事會回籠股票收緊控制權</a>]</p>
+
+<p>[<a href="http://finance.sina.com/bg/tech/sinacn/20130925/0300868717.html	">Twitter擬在11月IPO前貸款10億美元
+</a>]</p>
+
+</div>
+<div class="flt">
+
+<p class="mainnews"><a href="http://dailynews.sina.com/bg/focusnews/ent/Litianyi20130906/index.html">李某某犯強姦罪一審被判10年</a></p>
+
+<p>[<a href="http://dailynews.sina.com/bg/chn/chnpolitics/xinhuanet/20130925/22195010502.html">法院回應李某年齡造假说</a>][<a href="http://dailynews.sina.com/bg/chn/chnlocal/phoenixtv/20130925/21505010441.html">夢鴿吻兒子</a>]</p>
+<p>[<a href="http://dailynews.sina.com/bg/chn/chnpolitics/xinhuanet/su/20130925/19565009902.html">法院:李某某最先發生性關係 屬輕判</a>]</p>
+
+</div>
+<div class="flt">
+
+<p class="mainnews"><a href="http://dailynews.sina.com/bg/tw/twpolitics/chinanews/20130926/00105010997.html">王金平：將不會出席馬辦會議</a></p>
+<p>[<a href=" http://dailynews.sina.com/bg/tw/twpolitics/chinanews/20130925/23405010851.html">王案審判長提迴避遭拒：女性的無奈</a>]</p>
+<p>[<a href="http://dailynews.sina.com/bg/tw/twpolitics/cna/20130925/10115008884.html">馬：不幹預媒體 無滅王金平計劃</a>]</p>
+
+</div>
+
+				<div class="split"></div>
+			</div>
+		</div>
+
+		<div class="aright flt pageColor_default_05">
+			<div class="impornewstit pageColor_default_03 pageColor_default_05"><div class="flt">今日要聞</div><div class="frt" style="margin-right:0px"><!--a href="http://dailynews.sina.com/bg/focusnews/news/usapresidentialelection2012/index.html"><img src="http://ui.sina.com/pub/home/0104/mgdx0309.gif" width="154" height="27" alt="美國大選"></a--></div><div class="split"></div></div>
+			<ul class="newslist01">
+				<!-- 大陸 -->
+<li><a href="http://chinanews.sina.com/bg/" target="_blank">[大陸]</a><a href="http://dailynews.sina.com/bg/ent/chnstar/sinacn/20130925/22325010551.html">李雙江首露臉:我現在非常不好不想说話</a></li>
+
+<li><a href="http://dailynews.sina.com/bg/chn/chnpolitics/phoenixtv/20130925/19505009890.html">王功權拘留期限延至30天</a> <a href="http://dailynews.sina.com/bg/news/int/ausdaily/20130925/19205009781.html">陸租烏克蘭土地50年</a></li>
+
+<li><a href="http://dailynews.sina.com/bg/chn/chnoverseamedia/cna/20130925/20195010065.html">習聽幹部互揭短</a> <a href="http://chinanews.sina.com/bg/">伊能靜收夏俊峰之子為義子</a></li>
+
+<li><a href="http://dailynews.sina.com/bg/chn/chnpolitics/phoenixtv/20130925/18305009620.html">王石:樓市或現泡沫 與日本上世紀80年代末類似</a></li>
+
+<!-- 台灣 -->
+<li><a href="http://dailynews.sina.com/bg/tw/index.html" target="_blank">[台灣]</a><a href="http://dailynews.sina.com/bg/tw/twpolitics/bcc/20130925/04205008250.html">北京大學來台登招生廣告 教育部：違法</a></li>
+
+<li><a href="http://dailynews.sina.com/bg/tw/twpolitics/ausdaily/20130925/20305010135.html">王金平女婿 在校被封「小馬英九」(圖)</a></li>
+
+<li><a href=" 	http://dailynews.sina.com/bg/tw/twpolitics/phoenixtv/20130925/18295009585.html">顧立雄：蘇蔡把我當炮灰？ 我不知道</a></li>
+
+<li><a href="http://dailynews.sina.com/bg/tw/twlocal/bcc/20130925/22205010523.html">台藝人祝釩剛持有大麻 獲緩起訴處分</a></li>
+
+<!-- 美國 --> 
+<li><a href="http://dailynews.sina.com/bg/usa/index.html" target="_blank">[美國]</a><a href=" http://dailynews.sina.com/bg/news/usa/uslocal/chinanews/20130925/20005009943.html">快速入籍 美軍10月征兵向外國人敞大門</a></li> 
+
+<li><a href="http://dailynews.sina.com/bg/news/usa/usnews/worldjournal/su/20130925/10275008903.html">美機票3周後全面漲</a> <a href="http://dailynews.sina.com/bg/news/int/bcc/20130925/22505010603.html	">老布希為同性戀人士證婚</a></li>
+
+<li><a href="http://dailynews.sina.com/bg/chn/chnmilitary/chinanews/20130925/16345009317.html">甘迺迪女兒將任駐日大使 抱怨釣島給她添堵</a></li>  		
+
+<li><a href="http://dailynews.sina.com/bg/news/int/bcc/20130925/20305010131.html">紐約州公路設簡訊區</a> <a href="http://dailynews.sina.com/bg/news/usa/usnews/worldjournal/su/20130925/10395008924.html">陸留學生五花大綁遣返！</a></li> 
+
+<!-- 這條是廣告，勿動！！ begin-->
+<script type="text/javascript" src="http://dailynews.sina.com/bg/ads/home/text/41.js"></script>
+<!-- 這條是廣告，勿動！！ end--> 
+<!-- 國際 -->
+<li><a href="http://dailynews.sina.com/bg/international/index.html" target="_blank">[國際]</a><a href="http://dailynews.sina.com/bg/news/int/ausdaily/20130925/18505009696.html">肯尼亞警察疑用化武爆破 活埋137人質</a></li>
+
+<li><a href="http://ent.sina.com/bg/" target="_blank">[娛樂]</a><a href="http://dailynews.sina.com/bg/ent/ausdaily/20130925/19205009783.html">台女星秀哺乳照</a> <a href="http://dailynews.sina.com/bg/ent/music/sinacn/20130925/19135009762.html">濱崎步半裸迎入行15年</a></li>
+
+<li><a href="http://dailynews.sina.com/bg/ent/ausdaily/20130925/16305009312.html">向于美人提離婚 夫：她容不下婚姻</a> <a href="http://slide.ent.sina.com/">高清圖</a></li> 
+<!-- 財經 -->
+<li><a href="http://finance.sina.com/bg/" target="_blank">[財經]</a><a href="http://finance.sina.com/bg/chinamkt/sinacn/20130925/1506868929.html">陸一綫城市房價瘋漲 開發商都覺得誇張
+
+<li><a href="http://finance.sina.com/bg/tech/sinacn/20130925/1757869060.html	">蘋果地圖再出重大缺陷 路線穿越機場跑道</a></li> 
+
+</a></li>
+
+				<!-- 這條是廣告，勿動！！ -->
+				<li><a href="http://dailynews.sina.com/bg/news/usa/ussiliconvalley/sinaus/su/20110405/10102349973.html" target="_blank">手機瀏覽 蘋果APP</a> <a href="http://client.sina.com/ads/landing/jaronstalk/" target="_blank">海翔新書《有話要说》</a></li> 
+
+<li><a href="http://pubads.g.doubleclick.net/gampad/clk?id=22261117&iu=/4461/us.clickcommand" target="_blank">再減$30 電話4個月無限暢打 中文電視送1年</a></li>                                   
+				<!-- 這條是廣告，勿動！！ -->
+			</ul>
+		</div><div class="split"></div>
+	</div>
+	<!--parta 結束-->
+
+    <!--廣告120*60 開始-->
+	<div class="adbar01">
+				<div class="flt"><a href="http://pubads.g.doubleclick.net/gampad/clk?id=22279957&iu=/4461/us.clickcommand" target="_blank"><img src="http://img.news.sina.com/bg/ads/home/120_60/idx/2013/0807/U126P5010T4D7F32DT20130807031705.gif"></a></div>
+		<div class="flt"><a href="http://pubads.g.doubleclick.net/gampad/clk?id=47668597&iu=/4461/us.clickcommand" target="_blank"><img src="http://img.news.sina.com/bg/ads/home/120_60/idx/2012/1025/U78P5010T4D8F32DT20121025013357.jpg"></a></div>
+		<div class="flt"><a href="http://pubads.g.doubleclick.net/gampad/clk?id=56791117&iu=/4461/us.clickcommand" target="_blank"><img src="http://ui.sina.com/rm/att/130828/HSI_120x60_BannerRefresh.gif"></a></div>
+		<div class="flt"><a href="http://pubads.g.doubleclick.net/gampad/clk?id=22240117&iu=/4461/us.clickcommand" target="_blank"><img src="http://img.news.sina.com/bg/ads/home/120_60/idx/2013/0205/U77P5010T4D10F32DT20130205071752.gif"></a></div>
+		<div class="flt"><a href="http://pubads.g.doubleclick.net/gampad/clk?id=22261837&iu=/4461/us.clickcommand" target="_blank"><img src="http://img.news.sina.com/bg/ads/fin/quote123/120_60/U126P5010T13D38F117DT20130921081249.gif"></a></div>
+		<div class="flt"><a href="http://pubads.g.doubleclick.net/gampad/clk?id=22225597&iu=/4461/us.clickcommand" target="_blank"><img src="http://img.news.sina.com/bg/ads/home/120_60/idx/2013/0628/U78P5010T4D12F32DT20130628024153.gif"></a></div>
+		<div class="flt"><a href="http://pubads.g.doubleclick.net/gampad/clk?id=64076077&iu=/4461/us.clickcommand" target="_blank"><img src="http://ui.sina.com/rm/chinesefn/130911/120X60.gif"></a></div>
+
+		<!--div class="flt">{樂透動態廣告}</div-->		
+		<div class="split"></div>
+	</div>
+	<!--廣告120*60 結束-->
+
+	<!--partb 開始-->
+	<div class="partb">
+		<div class="bleft flt pageColor_default_05">
+			<div class="blefttit pageColor_default_03 pageColor_default_05"><div class="flt"><a href="http://dailynews.sina.com/bg/news/daily.html">即時滾動</a></div><div class="frt"><a href="http://dailynews.sina.com/bg/news/daily.html">更多>></a></div><div class="split"></div></div>
+			<ul class="newslist01 bnews01">
+						<li><a href="http://dailynews.sina.com/bg/ent/chnstar/sinacn/20130925/23495010889.html" title="《人民日報》：夢鴿母愛偉大當是放手">《人民日報》：夢鴿母愛偉大當是放手</a><span class="time">09-25 23:49</span></li>
+		<li><a href="http://dailynews.sina.com/bg/chn/chnlocal/sinacn/20130925/22335010552.html" title="四川兩個小偷當街撒假黃金瞬間被哄搶(圖)">四川兩個小偷當街撒假黃金瞬間被哄搶(圖)</a><span class="time">09-25 22:33</span></li>
+		<li><a href="http://finance.sina.com/bg/tech/sinacn/20130925/2232869270.html" title="紐約時報：蓋茲應與鮑爾默一同離開微軟">紐約時報：蓋茲應與鮑爾默一同離開微軟</a><span class="time">09-25 22:32</span></li>
+		<li><a href="http://dailynews.sina.com/bg/news/int/phoenixtv/20130925/21325010382.html" title="安倍：如果想把我叫作右翼的軍國主義者 那就請便">安倍：如果想把我叫作右翼的軍國主義者 那就請便</a><span class="time">09-25 21:32</span></li>
+		<li><a href="http://dailynews.sina.com/bg/ent/chnstar/sinacn/20130925/21205010326.html" title="心理專家談菲鵬離婚：女強男弱是牽絆">心理專家談菲鵬離婚：女強男弱是牽絆</a><span class="time">09-25 21:20</span></li>
+		<li><a href="http://dailynews.sina.com/bg/ent/chinanews/20130925/20505010234.html" title="李亞鵬對話楊瀾談婚變：“看客們”不懂愛">李亞鵬對話楊瀾談婚變：“看客們”不懂愛</a><span class="time">09-25 20:50</span></li>
+		<li><a href="http://dailynews.sina.com/bg/chn/chnpolitics/sinacn/20130925/20105009999.html" title="南昌被洗衣機絞死女童家人稱網友推測很無情">南昌被洗衣機絞死女童家人稱網友推測很無情</a><span class="time">09-25 20:10</span></li>
+		<li><a href="http://dailynews.sina.com/bg/tw/twpolitics/chinanews/20130925/20005009968.html" title="台媒憶昔日著名公路客車乘務員 如“地上空姐”(圖)">台媒憶昔日著名公路客車乘務員 如“地上空姐”(圖)</a><span class="time">09-25 20:00</span></li>
+		<li><a href="http://dailynews.sina.com/bg/ent/tv/sinacn/20130925/19255009818.html" title="任志強：我是中國第一個投資電視劇的人">任志強：我是中國第一個投資電視劇的人</a><span class="time">09-25 19:25</span></li>
+		<li><a href="http://dailynews.sina.com/bg/news/int/phoenixtv/20130925/18025009534.html" title="霍金：大腦不依附於人體也能存活">霍金：大腦不依附於人體也能存活</a><span class="time">09-25 18:02</span></li>
+
+			</ul>
+
+<style>   
+
+.blk_24 {overflow: hidden;padding: 1px;position: relative;margin-top: 10px; _margin-top: 0px;height: 20px;}
+
+.blk_24 #datepicker {background: url("http://i2.sinaimg.cn/dy/datepicker/images/bg_news.gif") no-repeat scroll 0 -51px transparent;border: 1px solid #678FB3;color: #666666;
+cursor: pointer;height: 16px;left: 140px;_left: 140px;padding-top:2px;_padding-top:4px;position: absolute;text-indent: 22px;top: 0px;width: 130px;}
+
+.blk_24 #timePicker {height: 20px;position: absolute;right: 100px;top: 0px;width: 60px;}
+
+#ui-datepicker-div{margin-top:5px;margin-left:-10px;/* 修正偏差 */margin-bottom:20px;font-size:12px;font-family:Arial, Helvetica, sans-serif;background:#fff;display:none;border:1px #9ca9cb solid;width:244px;padding:3px;color:#434343;overflow:hidden;z-index:99;}
+#ui-datepicker-div select{height:21px;color:#434343;cursor:pointer}
+.ui-datepicker-header{width:244px;height:25px;border-bottom:1px #fff solid;overflow:hidden;background:url(http://i2.sinaimg.cn/dy/datepicker/images/bg_news.gif) no-repeat 0 0;position:relative}
+.ui-datepicker-header a.ui-state-disabled,.ui-datepicker-header a.ui-state-disabled:visited{background:#d8ebfe;cursor:default}
+.ui-datepicker-prev{width:30px;height:21px;overflow:hidden;cursor:pointer;position:absolute;top:2px;left:4px;display:block}
+.ui-datepicker-next{width:30px;height:21px;overflow:hidden;cursor:pointer;position:absolute;top:2px;right:5px;display:block}
+.ui-datepicker-title{text-align:center;width:175px;height:21px;position:absolute;top:2px;left:34px}
+.ui-datepicker-year,.ui-datepicker-month{width:60px}
+.ui-datepicker-calendar{width:245px;border-collapse:collapse;border-left:1px #fff solid}
+.ui-datepicker-calendar th,.ui-datepicker-calendar td{padding:0;background:#efefef;color:#686868;border-right:1px #fff solid;border-bottom:1px #fff solid;line-height:22px;text-align:center;cursor:default;font-weight:400}
+.ui-datepicker-calendar th{/* 表頭樣式在此 */background:#e9e9e9}
+.ui-datepicker-calendar th span{display:block}
+.ui-datepicker-calendar th.ui-datepicker-week-end,.ui-datepicker-calendar td.ui-datepicker-week-end{/* 周末單元格樣式在此 */}
+.ui-datepicker-calendar td{font-size:10px}
+.ui-datepicker-calendar td.ui-state-disabled{color:#aaa}
+.ui-datepicker-calendar td a,.ui-datepicker-calendar td a:visited{display:block;cursor:pointer;color:#686868;text-decoration:none;text-align:center;border:1px #efefef solid;line-height:20px;height:20px/* IE6在a的display為block時，必須設置height或width中的一個才能正確觸發hover僞類 */}
+.ui-datepicker-calendar td a:hover,.ui-datepicker-calendar td a:active,.ui-datepicker-calendar td a:focus{background:#ec6e6b;color:#fff;border:1px #a40300 solid}
+.ui-datepicker-calendar td a.ui-state-active,.ui-datepicker-calendar td a.ui-state-active:visited{/* .ui-state-active必須在.ui-state-highlight之前，此樣式用於標注指定的但不是今天的日期 */background:#fff;border-color:#efefef}
+.ui-datepicker-calendar td a.ui-state-active:hover,.ui-datepicker-calendar td a.ui-state-active:active,.ui-datepicker-calendar td a.ui-state-active:focus{color:#ca0e0a;text-decoration:none;background:#fff;border-color:#efefef}
+.ui-datepicker-calendar td a.ui-state-highlight,.ui-datepicker-calendar td a.ui-state-highlight:visited{background:#ca0e0a;color:#fff;border:1px #a40300 solid}
+.ui-datepicker-calendar td a.ui-state-highlight:hover,.ui-datepicker-calendar td a.ui-state-highlight:active,.ui-datepicker-calendar td a.ui-state-highlight:focus{background:#ca0e0a;color:#ff0;text-decoration:none;border:1px #a40300 solid}
+.ui-icon,.ui-datepicker-cover,.ui-datepicker-trigger{display:none}
+</style>			
+<div style="padding-left:20px;zoom:1;" class="blk_24">
+
+<b>北美首頁往日回顧：</b>
+
+<input id="datepicker" type="text" readonly="readonly" value="載入中,請稍候..." />
+
+<select id="timePicker" name="timePicker">
+    <option value="am" selected="selected">9:00</option>
+
+    <option value="pm">21:00</option>
+
+</select>
+<script type="text/javascript" src="http://home.sina.com/gb/js/dict/sul-1.2.6.js"></script>
+<script type="text/javascript" src="http://home.sina.com/gb/js/dict/datepicker-pack.js"></script>
+
+<script type="text/javascript">
+//多庫共存：
+sinaUI.noConflict();
+
+//此為一般頻道首頁的URL配置
+var sinaCal_preURL = "http://";
+var sinaCal_channelName = "home";//二級域名，浪首為www
+var sinaCal_domainName = ".sina.com/bg/";//域名，預設為".sina.com.cn/"，不出意外無需更改
+var sinaCal_2FolderName = "head/";//回顧目錄，包含"/"
+var sinaCal_pageNamePre = "home/";//頁面檔案名首碼
+var sinaCal_timePickervalue = sinaUI("#timePicker option:selected").attr("value");//獲取回顧的時間點
+var sinaCal_reviewDate = "";//格式化日期
+var reviewURL = "";
+var sinaCal_pageFormat = ".shtml";//檔案格式	
+
+sinaUI(function($){
+    /* 獲取本地時間： */
+    var thisDay = new Date().getDate();
+    var thisYear = new Date().getFullYear();
+    var thisMonth = new Date().getMonth()+1;
+    if(thisMonth<10){thisMonth = "0" + thisMonth;}
+    if(thisDay<10){thisDay = "0" + thisDay;}
+    var thisDate = thisYear+"-"+thisMonth+"-"+thisDay;
+    var thisHours = new Date().getHours();
+
+    /* 語言配置： */
+    $.datepicker.regional['zh-CN'] = {
+        prevText: '',
+        nextText: '',
+        dateFormat: 'yy-mm-dd',
+        firstDay: 0
+        /* 更多參數見js檔案內 */
+    };
+    $.datepicker.setDefaults($.datepicker.regional['zh-CN']);
+
+    /* 配置： */
+    sinaUI('#datepicker').datepicker({
+        changeMonth: true,
+        changeYear: true,
+        showMonthAfterYear: true,
+        minDate: new Date(2012, 4 - 1, 7),
+        maxDate: new Date(thisYear, thisMonth - 1, thisDay),
+        duration: 10,
+        onSelect: function(){
+            sinaCal_reviewDate = sinaUI("#datepicker").attr("value").split("-");
+            sinaCal_timePickervalue = sinaUI("#timePicker option:selected").attr("value");
+            sinaCal_2FolderName = "head/";    
+            reviewURL = sinaCal_preURL + sinaCal_channelName + sinaCal_domainName + sinaCal_2FolderName + sinaCal_pageNamePre + sinaCal_reviewDate[0] + '/' + sinaCal_reviewDate[1] + sinaCal_reviewDate[2] + sinaCal_timePickervalue + sinaCal_pageFormat;
+            window.open(reviewURL);
+            //alert(reviewURL)
+        }
+    });
+
+    sinaUI("#datepicker").attr("value","點擊選擇日期");
+    if(sinaUI.browser.msie){
+        sinaUI("#datepicker").click(function(){sinaUI('#ui-datepicker-div').toggle().css("margin-left","-65px").css("margin-top","5px")});
+    }else{
+        sinaUI("#datepicker").mousedown(function(){sinaUI('#ui-datepicker-div').toggle().css("margin-left","-65px").css("margin-top","5px")});
+    }
+    sinaUI("#timePicker").change(function(){
+        sinaCal_timePickervalue = sinaUI("#timePicker option:selected").attr("value");
+        if(sinaUI("#datepicker").attr("value")!="點擊選擇日期"&&sinaUI("#datepicker").attr("value")!=""){
+            sinaCal_timePickervalue = sinaUI("#timePicker option:selected").attr("value");
+            sinaCal_2FolderName = "head/";   
+            reviewURL = sinaCal_preURL + sinaCal_channelName + sinaCal_domainName + sinaCal_2FolderName + sinaCal_pageNamePre + sinaCal_reviewDate[0] + '/' + sinaCal_reviewDate[1] + sinaCal_reviewDate[2] + sinaCal_timePickervalue + sinaCal_pageFormat;
+            window.open(reviewURL);
+        }
+    });
+    sinaUI("#channelPicker").change(function(){
+        sinaCal_channelName = sinaUI("#channelPicker option:selected").attr("value");
+        sinaCal_pageNamePre = sinaUI("#channelPicker option:selected").attr("pnp");
+        sinaCal_2FolderName = "head/";
+        reviewURL = sinaCal_preURL + sinaCal_channelName + sinaCal_domainName + sinaCal_2FolderName + sinaCal_pageNamePre + sinaCal_reviewDate[0] + '/' + sinaCal_reviewDate[1] + sinaCal_reviewDate[2] + sinaCal_timePickervalue + sinaCal_pageFormat;
+    });
+    /* 090119001 ws end */
+});
+</script>
+<!-- 首頁回顧 end -->
+
+</div>
+<div class="split" style="height:3px"></div>
+
+			<div class="blefttit pageColor_default_03 pageColor_default_05"><div class="flt"><a href="http://dailynews.sina.com/bg/focusnews/">熱點專題</a></div><div class="frt"><a href="http://dailynews.sina.com/bg/focusnews/">更多>></a></div><div class="split"></div></div>
+			<div class="bhot">
+							<div class="flt bimgdis"><table><tr><td><a href="http://dailynews.sina.com/bg/focusnews/news/wangjinping130923/index.html"><img src="http://img.news.sina.com/bg/home/7/2011/0107/U81P5013T7D4F134DT20130925201818.jpg" width="167" height="83" alt="黃世銘坦承刪譯文 柯建銘嗆黃：你死了法院見" /></a></td></tr></table></div>
+			<div class="flt bimgdes">
+				<p class="bimgdes01"><a href="http://dailynews.sina.com/bg/focusnews/news/wangjinping130923/index.html">黃世銘坦承刪譯文 柯建銘嗆黃：你死了法院見</a></p>
+				<p>政壇關说案風暴另一波，攸關特偵組存廢？檢察總長黃世銘25日赴立法院備詢，立委輪番炮轟，要…<span><a href="http://dailynews.sina.com/bg/focusnews/news/wangjinping130923/index.html">[詳細]</a></span></p>
+			</div>
+
+				<div class="split"></div>
+			</div>
+			<ul class="newslist01 bnews02">
+				<!--熱點專題手動上-->
+<li><a href="http://dailynews.sina.com/bg/focusnews/news/parade2013/index.html">舊金山中國農曆新年花車遊行 新浪花車打頭陣</a></li>
+
+ <li><a href="http://dailynews.sina.com/bg/focusnews/soc/xiyijixuean0923/index.html">洗衣機絞死女童案父親：媒體採訪令我們更悲慟</a><span class="time">09-25</span></li><li><a href="http://dailynews.sina.com/bg/focusnews/soc/beijingnvtongbeishuai0725/index.html">北京摔童案兇手本准備結婚並接手準岳父工廠</a><span class="time">09-25</span></li><li><a href="http://dailynews.sina.com/bg/focusnews/ent/DongJiePanYueMing130926/index.html">董潔被曝是“誣陷”潘粵明的“幕后主使”</a><span class="time">09-25</span></li><li><a href="http://dailynews.sina.com/bg/focusnews/ent/Litianyi20130906/index.html">李案一審宣判 李某某被判有期徒刑十年</a><span class="time">09-25</span></li><li><a href="http://finance.sina.com/bg/focusnews/fin/Alibaba20130925/index.html">預計阿里巴巴將感恩節前在美IPO	</a><span class="time">09-25</span></li><li><a href="http://dailynews.sina.com/bg/focusnews/soc/xiajunfeng0925/index.html">伊能靜宣佈收小販夏俊峰之子為義子 扶植其繪画</a><span class="time">09-25</span></li><li><a href="http://dailynews.sina.com/bg/focusnews/news/taipeimayoralelection130923/index.html">顧立雄參選台北市長 蘇貞昌：已和柯文哲約時間談</a><span class="time">09-25</span></li><li><a href="http://dailynews.sina.com/bg/focusnews/int/bjstfsdz20130925/index.html">巴基斯坦7級強震致海床上升 海上冒出小島</a><span class="time">09-24</span></li><li><a href="http://dailynews.sina.com/bg/focusnews/ent/wangfeng130925/index.html">汪峰遭前妻訴劈腿多女：保護孩子不回應</a><span class="time">09-24</span></li><li><a href="http://finance.sina.com/bg/focusnews/fin/Blackberry20130924/index.html">“加拿大巴菲特”47億美元收購黑莓</a><span class="time">09-24</span></li><!--熱點專題手動下-->
+
+			</ul>
+
+		</div>
+		<div class="bright flt pageColor_default_05">
+			<div class="brighttit pageColor_default_03 pageColor_default_05"><div class="flt"><a href="http://finance.sina.com/bg/">財經</a> <a href="http://finance.sina.com/gb/tech/">科技</a></div><div class="frt"><!--a href="http://finance.sina.com/bg/">更多>></a--></div></div>		
+			<div class="binput pageColor_default_04">
+
+				<form action="http://php.finance.sina.com/search/" method="get" target="_blank">
+				<SCRIPT Language="JavaScript">
+				var str1='/bg/';
+				var str2='/gb/';
+				var this_url=window.location.href;
+				if( this_url.indexOf(str1)!=-1 ) {
+					document.write('<input name="lang" type="hidden" value="traditional">');
+				}else if(this_url.indexOf(str2)!=-1) {
+					document.write('<input name="lang" type="hidden" value="simple">');
+				}else{
+					document.write('<input name="lang" type="hidden" value="traditional">');
+				}
+				</SCRIPT>				
+				<div class="flt binputin02">Enter Symbol</div>
+				<div class="flt binputin01"><input name=stock type=text /></div>
+				<div class="flt binputin03">
+					<select name="type" class="formEntry">
+					<option selected="selected" value="us">US</option>
+					<option value="cn">CN</option>
+					<option value="hk">HK</option>
+					</select>
+				</div>
+				<div class="flt binputin04"><input type="Image" src="http://ui.sina.com/pub/home/0104/bm_gx_15.gif" width="20" height="20" /></div>
+				</form>
+
+				<form action="http://php.finance.sina.com/apply/forecast_utf8.php" method="post" target="_blank">
+				<SCRIPT Language="JavaScript">
+				var str1='/bg/';
+				var str2='/bg/';
+				var this_url=window.location.href;
+				if( this_url.indexOf(str1)!=-1 ) {
+					document.write('<input name="charset" type="hidden" value="big5"><input name="kanjiType" type="hidden" value="C">');
+				}else if(this_url.indexOf(str2)!=-1) {
+					document.write('<input name="charset" type="hidden" value="gb2312"><input name="kanjiType" type="hidden" value="S">');
+				}else{
+					document.write('<input name="charset" type="hidden" value="big5"><input name="kanjiType" type="hidden" value="C">');
+				}
+				</SCRIPT>
+				<input name="country" type="hidden" value="US" />				
+				<div class="flt binputin02">ValuEngine Stock Forecast</div>
+				<div class="flt binputin01"><input name="symbol" type="text" /></div>
+				<div class="flt binputin04"><input name="Submit" type="Image" src="http://ui.sina.com/pub/home/0104/bm_gx_15.gif" width="20" height="20" /></div>
+				</form>
+				<div class="split"></div>
+			</div>
+			<div class="brilef flt">
+				<ul class="newslist01">
+					<li><a href="http://finance.sina.com/bg/usstock/" target="_blank">[美股]</a><a href="http://finance.sina.com/bg/economy/sinacn/20130925/1322868907.html" target="_blank">標普五連跌創今年最長連續下跌期</a></li>
+<li><a href="http://finance.sina.com/bg/usstock/marketwatch/su/20130925/1157868882.html">傳諾基亞前CEO以離婚為由拒絶放棄天價離職金	</a></li>
+
+<li><a href="http://finance.sina.com/bg/juhengwang/20130925/1210868886.html">若其他各種方式都失敗 奧巴馬將自行調高舉債上限</a></li>
+<li><a href="http://finance.sina.com/bg/tech/sinacn/20130925/1842869096.html	">甲骨文CEO年薪近8000萬美元：引發投資人不滿
+</a></li>	
+
+<li><a href="http://finance.sina.com/bg/economy/sinacn/20130925/1252868897.html">傳摩根大通面臨110億美元罸款</a> <a href="http://finance.sina.com/bg/tech/sinacn/20130924/2101868448.html">iPhone換購WP手機</a></li>
+
+<li><a href="http://finance.sina.com/bg/wsj-ftchinese/ftchinese/20130925/0319868730.html	">雷曼破産的真正教訓</a> <a href="http://finance.sina.com/bg/juhengwang/20130925/1310868902.html">美國債券市場的漲勢才剛開始</a></li>
+<li><a href=" 	http://finance.sina.com/bg/economy/sinacn/20130925/1818869072.html">財政危機拖累美元 人民幣中間價逼近紀錄高點	</a></li>
+<li><a href="http://finance.sina.com/bg/economy/sinacn/20130925/1314868903.html	">美聯邦政府最早在10月22日耗盡現金</a></li>
+<li><a href="http://finance.sina.com/bg/juhengwang/20130925/1610868964.html	">美經濟該擔心的來了？傳沃爾瑪砍訂單 </a></li>
+
+<li><a href=" http://finance.sina.com/bg/tech/sinacn/20130925/1427868924.html">	虛假廣告稱iOS 7可令iPhone防水 多用戶受害
+
+</a></li>
+
+<li><a href="http://finance.sina.com/bg/fund_investment/sinacn/20130925/1621868969.html	">內地為什麼喜歡買房 買完房賣了就等着數錢	</a></li>
+
+<li><a href="http://finance.sina.com/bg/chinamkt/sinacn/20130925/1709869035.html">調查稱北京某養老院預訂入住需要等166年	</a></li>	
+
+					<li><a href="http://gb.travel.sina.com/news/tnews/2011-08-11/094410613.html" target="_blank">[旅遊新聞]中國與美國夏威夷實現定期直航</a></li>
+
+<li><img src="http://ads.sina.com/ads/2007_inhouse/icon_tv_y.gif"> <a href="http://pubads.g.doubleclick.net/gampad/clk?id=64399837&iu=/4461/us.clickcommand" target="_blank">每周華爾街:小散打敗華爾街之三招</a>|<a href="http://www.igoldenlink.com/Live%20Broadcast.html" target="_blank">理財面面觀</a></li> 
+				</ul>
+			</div>
+			<div class="bririg flt">
+
+				<div class="bririgad01">
+				<!-- Sponsor ad -->
+<div style="position:relative; float:left;">
+	<div id="ad_cm_div" style="position:absolute;top:8px;left:0;" onmouseover="javascript:show_ad_cm();">flash</div>
+	<div id="ad_cm_ext_div" style="position:absolute;top:0;left:140px;visibility:hidden;">
+		<div id="ad_cm_ext_swf_div" style="padding:0; margin:0;">flash</div>
+		<div id="ad_cm_ext_close_div" style=" position:absolute;width:120px;padding:3px 3px 0 0;text-align:right; line-height:16px;"><a href="#" style="text-decoration:none;color:#000;font-size:12px;" onclick="javascript:hide_ad_cm();return false;">關閉</a></div>
+	</div>
+</div>
+
+<script type="text/javascript">
+//<![CDATA[
+var isIE=document.all;
+var ad_cm_tim;
+var ad_cm_playing = false;
+var cmSwf = new sinaFlash("http://ui.sina.com/rm/scottrade/081111/st_100x25_111108.swf", "ad_cm_swf", "100", "25", "6", "", false, "High");
+cmSwf.addParam("allowScriptAccess", "always");
+cmSwf.addParam("wmode", "transparent");
+cmSwf.write("ad_cm_div");
+var cmSwf = new sinaFlash("http://ui.sina.com/rm/scottrade/120131/scottrade_120x200_120131.swf", "ad_cm_ext_swf", "120", "200", "6", "", false, "High");
+cmSwf.addParam("allowScriptAccess", "always");
+cmSwf.addParam("wmode", "transparent");
+cmSwf.write("ad_cm_ext_swf_div");
+function show_ad_cm(){
+	if(ad_cm_playing) return;
+	var cookie = getAdCookie('sina_chinamobile');
+	cookie = cookie==''?1:++cookie;
+	if(cookie>50) return;
+	setAdCookie('sina_chinamobile',cookie,1440);
+	clearTimeout(ad_cm_tim);
+	ad_cm_playing = true;
+	var oswf = getSwf('ad_cm_ext_swf');
+	oswf.Rewind();
+	oswf.Play();
+	var oswf = getSwf('ad_cm_swf');
+	oswf.Rewind();
+	oswf.Play();
+	document.getElementById('ad_cm_ext_div').style.visibility = 'visible';
+	ad_cm_tim = setTimeout(hide_ad_cm,6000);
+}
+function hide_ad_cm(){
+	clearTimeout(ad_cm_tim);
+	ad_cm_playing = false;
+	document.getElementById('ad_cm_ext_div').style.visibility = 'hidden';
+}
+function getSwf(id){
+	if(isIE){
+		return(document.getElementById(id));
+	}else{
+		return(document.embeds[id]);
+	}
+}
+function getAdCookie(N){
+	var c=document.cookie.split("; ");
+	for(var i=0;i<c.length;i++){
+		var d=c[i].split("=");
+		if(d[0]==N)return unescape(d[1]);
+	}
+	return '';
+}
+function setAdCookie(N,V,Q){
+	var L=new Date();
+	var z=new Date(L.getTime()+Q*60000);
+	document.cookie=N+"="+escape(V)+";path=/;expires="+z.toGMTString()+";";
+}
+//]]>
+</script>
+<!-- END: Sponsor ad -->
+				</div>
+				<div class="split"></div>
+
+				<div class="bririgad02">
+
+<style>
+.chart_wrap{width:150px;font-size:10px;font-family:Arial;-webkit-text-size-adjust:none;}
+.chart_tab{margin-bottom:3px;padding-left:2px;height:17px;}
+.chart_tab li{float:left;margin-right:1px;height:15px;border:1px solid #808a8b;font-size:10px;font-family:Arial;}
+.chart_tab li a{float:left;height:15px;line-height:15px;text-align:center;display:inline-block;padding:0 5px;color:#6c9390;text-decoration:underline;cursor:pointer}
+.chart_tab li.current a{background-color:#699699;color:#ffffff;text-decoration:none}
+@media screen and (-webkit-min-device-pixel-ratio:0) { .chart_wrap{font-family:Simsun;} .chart_tab li {font-family:Simsun;}}
+
+.stock_detail{margin-bottom:1px;height:11px;line-height:11px;overflow:hidden;background-color:#cfcfcf;color:#020202;font-size:10px;}
+.stock_detail .stock_blk1{width:90px;padding-left:1px;float:left;font-size:10px;}
+.stock_detail .stock_blk1 .name{float:left;}
+.stock_detail .stock_blk1 .num{float:right}
+.stock_blk2{width:55px;float:right;height:11px;font-size:10px;}
+.stock_blk2 span{height:11px;background:url(http://ui.sina.com/pub/fin/1106/chart_icon.png) no-repeat 0 0;padding-left:14px;text-align:right}
+.stock_blk2 .green_arrow{background-position:0 1px;color:#34712c;}
+.stock_blk2 .red_arrow{background-position:0 -10px;color:#752428;}
+.chart_time{color:#7f8b8b;line-height:14px;font-size:10px;font-family:Arial;}
+
+.blk_chart{margin:5px 0 0 1px;padding:10px 0 6px 14px;width:156px;border:1px solid #AFD3D0;background-color:#ffffff;}
+.blk_chart img{margin:0 auto;display:block}
+
+#chart_img{margin-top:5px;height:85px}
+</style>
+
+<div class="chart_wrap">
+	<div class="chart_tab">
+    	<ul class="clearfix" id="tab">
+        	<li class="current"><a target="_self">DJIA</a></li>
+        	<li><a target="_self">NASDAQ</a></li>
+        	<li><a target="_self">SP500</a></li>
+        </ul>
+    </div>
+    <div class="chart_pic" id="chart_img">
+    	<img src="http://image.sinajs.cn/newchart/v5/usstock/min_idx_n1/.dji.gif" width="140" height="83"><img src="http://image.sinajs.cn/newchart/v5/usstock/min_idx_n1/.ixic.gif" width="140" height="83" style="display:none"><img src="http://image.sinajs.cn/newchart/v5/usstock/min_idx_n1/.inx.gif" width="140" height="83" style="display:none">
+    </div>
+
+    <div class="stock_num">
+
+			<div class="stock_detail">
+        	<div class="stock_blk1"><span class="name">DJIA</span><span class="num">15273.26</span></div>
+            <div class="stock_blk2"><span class="red_arrow">-61.33</span></div>
+        </div>
+
+			<div class="stock_detail">
+        	<div class="stock_blk1"><span class="name">NASDAQ</span><span class="num">3761.10</span></div>
+            <div class="stock_blk2"><span class="red_arrow">-7.15</span></div>
+        </div>
+
+			<div class="stock_detail">
+        	<div class="stock_blk1"><span class="name">S&P 500</span><span class="num">1692.77</span></div>
+            <div class="stock_blk2"><span class="red_arrow">-4.65</span></div>
+        </div>
+
+</div>	
+</div>
+
+<script type="text/javascript">
+
+	var oTab=document.getElementById('tab');
+	var aLi=oTab.getElementsByTagName('li');
+	var aImg=document.getElementById('chart_img').getElementsByTagName('img');
+
+	for(var i=0;i<aLi.length;i++){
+		aLi[i].index=i;
+		aLi[i].onclick=function(){
+			for(var i=0;i<aLi.length;i++){
+				aLi[i].className='';
+				aImg[i].style.display='none';	
+			}	
+			this.className='current';
+			aImg[this.index].style.display='block';
+		}	
+	}
+
+</script>
+
+				<!--script type="text/javascript">
+				function reFresh(which){
+				document.tab_chart.src = "http://chart.bigcharts.com/custom/sina-com/sina-tab-"+ which +".gifquote?rnd="+ Math.random();
+				}
+				</script>
+				<map name="tabs" id="">
+				<area shape="rect" alt="DJIA" coords="2,1,38,17" href="Javascript:reFresh('djia');" target="_self" />
+				<area shape="rect" alt="NASDAQ" coords="39,1,96,17" href="Javascript:reFresh('nas');" target="_self" />
+				<area shape="rect" alt="S&P 500" coords="97,1,140,17" href="Javascript:reFresh('spx');" target="_self" />
+				</map>	
+				<img id="tab_chart" src="http://chart.bigcharts.com/custom/sina-com/sina-tab-djia.gifquote" name="tab_chart" border=0 alt="Markets" width="140" height="164" usemap="#tabs" ismap="ismap" /-->
+
+				</div>
+
+<!--新浪推薦 start-->
+                <style type="text/css">
+				.news_links{width:150px;}
+				.news_links h2{background:url(http://images2.sina.com/newscenter/financeimg/bg_gradient_gb.gif) repeat-x 0 0;height:20px;line-height:20px;text-align:center;color:#FFFFFF;font-size:13px}
+				.news_links ul{border:1px solid #AFD3D0;padding:2px 2px 2px 4px;}
+				.news_links ul li{background:url("http://ui.sina.com/pub/home/0104/bm_gx_03.gif") no-repeat 0 9px;line-height:20px;padding-left:9px;}
+                </style>
+<div class="bririgad03">
+	<div class="news_links">
+
+  	<h2>新浪推薦</h2>
+
+    <ul>
+
+    	<li><a href="http://finance.sina.com/bg/wsj-ftchinese/ftchinese/20130915/2159862781.html	" target="_blank">雷曼倒閉五年后</a></li>
+
+    	<li><a href="http://pubads.g.doubleclick.net/gampad/clk?id=22225477&iu=/4461/us.clickcommand" target="_blank">選擇美股券商三大要件
+
+    	<li><a href="http://finance.sina.com/bg/usstock/sinacn/20130916/0907863170.html	" target="_blank">花旗：標普500明年漲12%至1900點</a></li>
+
+</a></li>
+
+    </ul>
+    </div>
+</div>
+
+                <!--新浪推薦 end-->
+
+			</div><div class="split"></div>
+			<div class="brighttit pageColor_default_03 pageColor_default_05"><div class="brighttit_t"><a href="http://us.weibo.com/">微博@北美 Sina Weibo</a></div><div class="t_logo"></div></div>
+			<div class="t_con">
+				<div style="margin-left:0px;padding-left:0px;">
+
+<a href="http://weibo.com/sinaus" target=_blank><img src="http://usweibo.sina.com/ussina_vip.gif" width="474" height="116" alt="" style="position:relative;margin:0px;margin-top:12px; margin-left:12px;"/></a>
+
+<script src="http://usweibo.sina.com/qianming_demo.js"></script>
+
+</div>
+
+<div style="position:relative; margin-top: -70px;margin-bottom: 70px;"><img src="http://usweibo.sina.com/weibo_bline.gif" width="500"/></div>
+<div class="split"></div>
+<div class="tuserinfo flt">
+	<div class="userinfoimg flt"><table><tr><td><a href="http://weibo.com/icntvnetwork"><img src="http://img.news.sina.com/bg/home/7/2011/0107/U94P5013T7D6F134DT20130926051311.jpg" width="50" height="50" alt="美國ICN國際衛視官方微博" /></a></td></tr></table></div>
+	<div class="flt userinfodes"><p class="userinfodes01"><a href="http://weibo.com/icntvnetwork">美華人電視台</a></p><p class="userinfodes02">美國ICN國際衛視官方微博</p></div>
+</div>
+
+<div class="tuserinfo flt">
+	<div class="userinfoimg flt"><table><tr><td><a href="http://weibo.com/uschinapress	"><img src="http://img.news.sina.com/bg/home/7/2011/0107/U94P5013T7D6F135DT20130926051149.jpg" width="50" height="50" alt="美國僑報網官方微博" /></a></td></tr></table></div>
+	<div class="flt userinfodes"><p class="userinfodes01"><a href="http://weibo.com/uschinapress	">北美中文報紙</a></p><p class="userinfodes02">美國僑報網官方微博</p></div>
+</div>
+
+<div class="tuserinfo flt">
+	<div class="userinfoimg flt"><table><tr><td><a href="http://e.weibo.com/shopdealus"><img src="http://img.news.sina.com/bg/home/7/2011/0107/U94P5013T7D6F136DT20130926050925.jpg" width="50" height="50" alt="美國省錢購物網官方微博" /></a></td></tr></table></div>
+	<div class="flt userinfodes"><p class="userinfodes01"><a href="http://e.weibo.com/shopdealus">北美折扣資訊</a></p><p class="userinfodes02">美國省錢購物網官方微博</p></div>
+</div>
+<div class="split"></div>
+<table class="charts">
+
+<tr><td class="chartswid02"><a href="http://weibo.com/hottopic_list.html">今日話題</a></td><td class="chartswid01"><a href="http://weibo.com/k/趙又廷">趙又廷</a></td><td class="chartswid01"><a href="http://weibo.com/k/恆大">恆大</a></td><td class="chartswid01"><a href="http://weibo.com/k/夏俊峰">夏俊峰</a></td><td class="chartswid01"><a href="http://weibo.com/k/主君太陽">主君太陽</a></td><td class="chartswid01"><a href="http://weibo.com/k/kin金金">kin金金</a></td><td class="chartswid01"><a href="http://weibo.com/k/瀋陽張晶">瀋陽張晶</a></td></tr>
+
+<tr><td><a href="http://weibo.com/k/石牌橋">石牌橋</a></td><td><a href="http://weibo.com/k/摔童案">摔童案</a></td><td><a href="http://weibo.com/k/巴基斯坦">巴基斯坦</a></td><td><a href="http://weibo.com/k/全民目擊">全民目擊</a></td><td><a href="http://weibo.com/k/極速蝸牛">極速蝸牛</a></td><td><a href="http://weibo.com/昆士蘭">昆士蘭</a></td><td><a href="http://weibo.com/k/嘉年華">嘉年華</a></td></tr>
+
+</table>
+
+			</div>
+		</div><div class="split"></div>
+	</div>
+	<!--partb 結束-->
+
+	<!--廣告 開始-->
+	<div class="adbar02">
+		<div class="flt"><script type="text/javascript" src="http://dailynews.sina.com/bg/ads/home/728_90/20.js"></script></div>
+		<div class="frt"><div class="adbar02in">
+			<ul class="newslist02"><li><a href="http://ad.doubleclick.net/clk;219525297;15706542;l?http://dailynews.sina.com/bg/focusnews/oth/jianglawgroup/index.html" target="_blank">精辦複雜商業,離婚訴訟</a></li>
+
+<li><a href="http://www.igoldenlink.com/Live%20Broadcast.html" target="_blank">中美資訊台：理財面面觀</a></li>
+
+<li><a href="http://ad.doubleclick.net/clk;103636853;15706542;e?http://s1.adwatcher.net/firstrade/tracker.php?t=3">$6.95股票交易, 不限股數</a></li>
+<li><a href="http://ad.doubleclick.net/clk;221187414;15706542;z?http://www.jclawoffice.net/lawsite/NewsDetail.aspx?id=430">陳丹虹律師免費解答問題</a></li></script></ul>
+		</div></div><div class="split"></div>
+	</div>
+	<!--廣告 結束-->
+
+	<!--partc 開始-->
+	<div class="partc">
+		<div class="cleft flt pageColor_default_05">
+			<div class="clefttit pageColor_default_03 pageColor_default_05"><div class="flt"><a href="http://dailynews.sina.com/bg/usa/">美國<!--span style="font-weight:normal;">&gt;&gt;</span--></a></div><!--div class="frt" style="margin-right:0"><a href="http://dailynews.sina.com/bg/focusnews/news/usapresidentialelection2012/index.html"><img src="http://ui.sina.com/pub/home/0104/mgdx0309.gif" width="154" height="27" alt="美國大選"></a></div--><div class="frt"><a href="http://dailynews.sina.com/bg/usa/">更多>></a></div><div class="split"></div></div>
+			<ul class="newslist01">
+					<li><a href="http://finance.sina.com/bg/economy/sinacn/20130925/1314868903.html" title="美聯邦政府最早在10月22日耗盡現金">美聯邦政府最早在10月22日耗盡現金</a></li>
+	<li><a href="http://dailynews.sina.com/bg/news/int/chinanews/20130925/23505010892.html" title="美公佈華盛頓槍手行兇視頻 如執行特種任務(圖)">美公佈華盛頓槍手行兇視頻 如執行特種任務(圖)</a></li>
+	<li><a href="http://dailynews.sina.com/bg/news/int/chinanews/20130925/23505010896.html" title="美國一男子因強姦罪被捕 曾為奧巴馬高中好友">美國一男子因強姦罪被捕 曾為奧巴馬高中好友</a></li>
+	<li><a href="http://dailynews.sina.com/bg/news/int/chinanews/20130925/20305010101.html" title="美73歲阿嬤大跳甩臀舞 活力四射不輸年輕人(圖)">美73歲阿嬤大跳甩臀舞 活力四射不輸年輕人(圖)</a></li>
+	<li><a href="http://dailynews.sina.com/bg/news/int/chinanews/20130925/22305010548.html" title="美國女子餐廳噎食幾喪命 醫生就地開刀成功急救">美國女子餐廳噎食幾喪命 醫生就地開刀成功急救</a></li>
+	<li><a href="http://dailynews.sina.com/bg/news/int/bcc/20130925/21305010359.html" title="亦敵亦友  拜登與希拉蕊同台">亦敵亦友  拜登與希拉蕊同台</a></li>
+	<li><a href="http://dailynews.sina.com/bg/news/int/ausdaily/20130925/22205010516.html" title="加州「清除鍵」條款 刪臉書不雅照 保護兒少">加州「清除鍵」條款 刪臉書不雅照 保護兒少</a></li>
+	<li><a href="http://dailynews.sina.com/bg/news/usa/usnews/worldjournal/su/20130925/10375008923.html" title="紐約竊賊砸車 偷華男22台iPhone 5S">紐約竊賊砸車 偷華男22台iPhone 5S</a></li>
+	<li><a href="http://dailynews.sina.com/bg/news/usa/uslocal/chinanews/20130925/20005009935.html" title="華印裔搶購 溫哥華iPhone 5S“土豪金”價升近3倍">華印裔搶購 溫哥華iPhone 5S“土豪金”價升近3倍</a></li>
+	<li><a href="http://dailynews.sina.com/bg/tw/twpolitics/bcc/20130925/19505009871.html" title="德州三列貨運車撞在一起  四名工作人員受傷">德州三列貨運車撞在一起  四名工作人員受傷</a></li>
+	<li><a href="http://dailynews.sina.com/bg/news/int/ausdaily/20130925/19105009756.html" title="美國沉浸例外主義——愚己害人(圖)">美國沉浸例外主義——愚己害人(圖)</a></li>
+	<li><a href="http://dailynews.sina.com/bg/news/int/ausdaily/20130925/19105009755.html" title="美在利比亞失竊武器流入恐怖組織">美在利比亞失竊武器流入恐怖組織</a></li>
+	<li><a href="http://dailynews.sina.com/bg/news/int/phoenixtv/20130925/19415009854.html" title="美國南加大槍擊案推遲至9月30日預審">美國南加大槍擊案推遲至9月30日預審</a></li>
+	<li><a href="http://dailynews.sina.com/bg/tw/twpolitics/bcc/20130925/18205009568.html" title="美國德州共和黨議員拉布發言逾21小時">美國德州共和黨議員拉布發言逾21小時</a></li>
+	<li><a href="http://dailynews.sina.com/bg/chn/chnmilitary/chinanews/20130925/16345009317.html" title="甘迺迪女兒將任駐日大使 抱怨釣魚島給她添堵">甘迺迪女兒將任駐日大使 抱怨釣魚島給她添堵</a></li>
+	<li><a href="http://dailynews.sina.com/bg/tw/twfinance/cna/20130925/18045009537.html" title="提高舉債上限  美共和黨提條件">提高舉債上限  美共和黨提條件</a></li>
+	<li><a href="http://dailynews.sina.com/bg/news/int/chinanews/20130925/17005009373.html" title="美報告顯示NSA醜聞或致美雲計算損失350億美元">美報告顯示NSA醜聞或致美雲計算損失350億美元</a></li>
+	<li><a href="http://dailynews.sina.com/bg/news/int/chinanews/20130925/16505009337.html" title="FBI稱美國海軍設施槍擊案嫌犯事發時疑有妄想症">FBI稱美國海軍設施槍擊案嫌犯事發時疑有妄想症</a></li>
+	<li><a href="http://dailynews.sina.com/bg/news/int/phoenixtv/20130925/16505009343.html" title="白宮稱奧巴馬對未與魯哈尼會面並不感到失望">白宮稱奧巴馬對未與魯哈尼會面並不感到失望</a></li>
+
+				<li><a href="http://dailynews.sina.com/bg/news/usa/sinaus/su/20130813/13274859119.html" target="_blank">全國安全挖掘日 進行任何挖掘工程前請電811</a></li>
+
+<li><a href="http://www.dealmoon.com/sina_usnewstext" target="_blank">有圖有真相,看在哪些店買菜可以拿回6%返現</a></li>
+			</ul>
+		</div>
+		<div class="cmid flt pageColor_default_05">
+			<div class="cmidtit pageColor_default_03 pageColor_default_05"><div class="flt"><a href="http://mall.sina.com/">每日特價商情</a> <img src="http://ui.sina.com/assets/img/home/mall_home.gif" width="24" height="20" align="absmiddle" /></div><div class="frt"><a href="http://mall.sina.com/">更多>></a></div><div class="split"></div></div>
+<div class="cmidimg pageColor_default_04">
+	<div class="cmiddis flt"><div><table><tr><td><a href="http://merchantadmin.sina.com/sinamall/grd_productpage.asp?pagetype=product&st_id=284&pd_id=KGCBS00001-00001&pf_id=KGCBS00001"><img src="http://img.news.sina.com/bg/5010/18/2011/0107/U78P5010T18D12F167DT20130516013738.jpg" width="87" height="87" alt="白蘭氏鷄精" /></a></td></tr></table></div><p><a href="http://merchantadmin.sina.com/sinamall/grd_productpage.asp?pagetype=product&st_id=284&pd_id=KGCBS00001-00001&pf_id=KGCBS00001">白蘭氏鷄精</a></p><p>19.99</p></div>
+
+	<div class="cmiddis flt"><div><table><tr><td><a href="http://merchantadmin.sina.com/sinamall/grd_productpage.asp?pagetype=product&st%5Fid=52&pd%5Fid=hsugn000044%2D000052&pf%5Fid=hsugn000044"><img src="http://img.news.sina.com/bg/5010/18/2011/0107/U88P5010T18D12F168DT20120222071559.jpg" width="87" height="87" alt="九陽新豆漿機" /></a></td></tr></table></div><p><a href="http://merchantadmin.sina.com/sinamall/grd_productpage.asp?pagetype=product&st%5Fid=52&pd%5Fid=hsugn000044%2D000052&pf%5Fid=hsugn000044">九陽新豆漿機</a></p><p>139</p></div>
+
+	<div class="cmiddis flt"><div><table><tr><td><a href="http://merchantadmin.sina.com/sinamall/grd_productpage.asp?pagetype=product&st%5Fid=272&pd%5Fid=7days00002%2D00001&pf%5Fid=7days00002"><img src="http://img.news.sina.com/bg/5010/18/2011/0107/U88P5010T18D12F169DT20130314061115.jpg" width="87" height="87" alt="單細胞海藻" /></a></td></tr></table></div><p><a href="http://merchantadmin.sina.com/sinamall/grd_productpage.asp?pagetype=product&st%5Fid=272&pd%5Fid=7days00002%2D00001&pf%5Fid=7days00002">單細胞海藻</a></p><p>98</p></div>
+
+	<div class="split"></div>
+</div>
+<ul class="newslist01">
+<!-- Line01 -->
+<li><a href="http://shopping.sina.com/">[折扣信息]</a>
+<a href="http://merchantadmin.sina.com/sinamall/grd_storepage.asp?st_id=284">一年一度白蘭氏中秋節大優惠開跑</a></li>
+
+<!-- Line02 -->
+<li><a href="http://mall.sina.com/">[折扣信息]</a>
+<a href="http://shopping.sina.com/sinamall/grd_productpage.asp?st_id=52&pd_id=hsugn000028-0000104&pf_id=hsugn000028"> 許氏青春漾膠原蛋白粉</a></li>
+
+<!-- Line03 -->
+<li><a href="http://shopping.sina.com/sinamall/mall2007/Electronics.asp?keyword=electron">[家用電器]</a>
+<a href="http://merchantadmin.sina.com/sinamall/grd_productpage.asp?pagetype=product&st%5Fid=272&pd%5Fid=7days000026%2D000013&pf%5Fid=7days000026">利仁新款烙餅機</a> <a href="http://shopping.sina.com/sinamall/grd_productpage.asp?st_id=277&pd_id=ONE2F00005-00005&pf_id=ONE2F00005">美腿按摩機</a></li>
+
+<!-- Line04 -->
+<li><a href="http://shopping.sina.com/sinamall/mall2007/Health.asp?keyword=health">[養生保健]</a> <a href="http://shopping.sina.com/sinamall/grd_storepage.asp?st_id=316">專利産品骨精華,羊胎素</a> <a href="http://shopping.sina.com/sinamall/mall2007/Health.asp?keyword=Health_aging">特效抗衰老 </a></li>
+
+<!-- Line05 -->
+<li><a href="http://shopping.sina.com/sinamall/mall2007/Beauty.asp?keyword=beauty">[美容護膚]</a>
+<a href="http://shopping.sina.com/sinamall/mall2007/Beauty.asp?keyword=Beauty_diet_tool">瘦身纖體</a> <a href="http://shopping.sina.com/sinamall/mall2007/Beauty.asp?keyword=Deep">深層護理抗皺</a> <a href="http://shopping.sina.com/sinamall/mall2007/Beauty.asp?keyword=SK2">SK2夏季新品</a></li>
+</ul>
+
+			<div class="cmidtit pageColor_default_03 pageColor_default_05"><div class="flt"><a href="http://video.sina.com/v/video.php?class=12">鳳凰衛視節目</a> <a href="http://video.sina.com">全部視頻</a></div><div class="frt"><a href="http://video.sina.com/">更多>></a></div><div class="split"></div></div>
+<div class="cmiddis02 flt"><div><table><tr><td><a href="http://video.sina.com/v/video.php?class=12&channel=74"><img src="http://img.news.sina.com/bg/5010/18/2011/0111/U88P5010T18D16F167DT20121106065918.jpg" width="85" height="64" alt="鳳凰瞰台灣" /></a></td></tr></table></div><p><a href="http://video.sina.com/v/video.php?class=12&channel=74">鳳凰瞰台灣</a></p></div>
+
+<div class="cmiddis02 flt"><div><table><tr><td><a href="http://video.sina.com/v/video.php?class=12&channel=79"><img src="http://img.news.sina.com/bg/5010/18/2011/0111/U88P5010T18D16F168DT20121115035329.jpg" width="85" height="64" alt="天天話題系列" /></a></td></tr></table></div><p><a href="http://video.sina.com/v/video.php?class=12&channel=79">天天話題系列</a></p></div>
+
+<div class="cmiddis02 flt"><div><table><tr><td><a href="http://video.sina.com/v/video.php?class=12&channel=53"><img src="http://img.news.sina.com/bg/5010/18/2011/0111/U88P5010T18D16F169DT20120120020100.jpg" width="85" height="64" alt="美夢成家系列" /></a></td></tr></table></div><p><a href="http://video.sina.com/v/video.php?class=12&channel=53">美夢成家系列</a></p></div>
+
+<div class="split"></div>
+<ul class="newslist01">
+<!-- Line01 -->
+<li><a href="http://video.sina.com/v/video.php?class=5&channel=37">[綜合]</a><a href="http://video.sina.com/v/2013-06-23/v-SINA_159_bbc450e14fef0a51d002.html">《非誠勿擾》新一代高富帥 </a> 
+<a href="http://video.sina.com/v/2013-06-30/v-SINA_159_3c06be637014950ac516.html">《中國夢之聲》</a></li>
+
+<!-- Line02 -->
+<li><a href="http://video.sina.com/v/video_list.php?class=6&channel=">[影視劇]</a> <a href="http://video.sina.com/v/videolist.php?urlkey=JHRH&gid=960">《冷風暴》<a href="http://video.sina.com/v/2013-06-18/v-SINA_159_3eed0757a158275d1f30.html"> 《太極俠》特輯</a></li>
+
+<!-- Line03 -->
+<li><a href="http://video.sina.com/v/video.php?class=11">[文化]</a>
+<a href="http://video.sina.com/v/2012-12-20/v-SINA_159_4ee46c1d07c6c4efa503.html">SHE 新MV完整版首播</a> 
+<a href="http://video.sina.com/v/video.php?class=12&channel=80">聚金華爾街</a>
+<a href="http://video.sina.com/v/video.php?class=12&channel=77&category=mr">非常美洲</a></li>
+
+<!-- Line04 -->
+<li><a href="http://video.sina.com/v/video.php?class=19">[生活]</a> <a href="http://video.sina.com/v/video.php?class=12&channel=79/">天天話題</a> <a href="http://video.sina.com/v/2013-02-16/v-SINA_159_bfd69585aaa7bd92dead.html">永遠的玉女-訪周慧敏</a></li> 
+</ul>
+
+		</div>
+		<div class="crig flt pageColor_default_05">
+			<div class="crigtit pageColor_default_03 pageColor_default_05"><div class="flt"><a href="http://dailynews.sina.com/bg/topnews/">排行榜</a></div><div class="frt"><a href="http://dailynews.sina.com/bg/topnews/">更多>></a></div><div class="split"></div></div>
+					<div class="criline01"><div class="flt num_01"></div><div class="flt criglinecon"><a href="http://dailynews.sina.com/bg/chn/chnnews/ausdaily/20130924/03595004522.html" title="北京瘋傳：“公共情婦”湯燦注射死">北京瘋傳：“公共情婦”湯燦注射死</a></div><div class="split"></div></div>
+		<div class="criline01"><div class="flt num_02"></div><div class="flt criglinecon"><a href="http://dailynews.sina.com/bg/news/usa/usnews/worldjournal/su/20130924/10405005261.html" title="美健保漏洞 每家恐多付數千元">美健保漏洞 每家恐多付數千元</a></div><div class="split"></div></div>
+		<div class="criline01"><div class="flt num_03"></div><div class="flt criglinecon"><a href="http://dailynews.sina.com/bg/ent/hktwstar/phoenixtv/20130924/17195005700.html" title="梁洛施當街吸煙 顛覆清純形象(圖)">梁洛施當街吸煙 顛覆清純形象(圖)</a></div><div class="split"></div></div>
+		<div class="criline01"><div class="flt num_04"></div><div class="flt criglinecon"><a href="http://dailynews.sina.com/bg/chn/chnpolitics/phoenixtv/20130924/02205004148.html" title="廣東：耗資近五千萬元鎮寺大佛在颱風中被吹低頭(圖)">廣東：耗資近五千萬元鎮寺大佛在颱風中…</a></div><div class="split"></div></div>
+		<div class="criline01"><div class="flt num_05"></div><div class="flt criglinecon"><a href="http://dailynews.sina.com/bg/news/heh/sinacn/20130921/17304995154.html" title="如何射精更刺激">如何射精更刺激</a></div><div class="split"></div></div>
+		<div class="criline01"><div class="flt num_06"></div><div class="flt criglinecon"><a href="http://dailynews.sina.com/bg/ent/hktwstar/sinacn/20130924/00075003468.html" title="吳佩慈懷孕男友示愛 網友調侃大S">吳佩慈懷孕男友示愛 網友調侃大S</a></div><div class="split"></div></div>
+		<div class="criline01"><div class="flt num_07"></div><div class="flt criglinecon"><a href="http://dailynews.sina.com/bg/news/usa/usnews/worldjournal/su/20130924/10425005264.html" title="老了繼續工作 美國中產階級不敢退">老了繼續工作 美國中產階級不敢退</a></div><div class="split"></div></div>
+		<div class="criline01"><div class="flt num_08"></div><div class="flt criglinecon"><a href="http://dailynews.sina.com/bg/news/usa/usnews/worldjournal/su/20130924/10495005266.html" title="自家車庫前 華男四槍喪生">自家車庫前 華男四槍喪生</a></div><div class="split"></div></div>
+		<div class="criline01"><div class="flt num_09"></div><div class="flt criglinecon"><a href="http://dailynews.sina.com/bg/ent/hktwstar/sinacn/20130924/09335005087.html" title="關之琳慶生好友曬靚照 51歲仍美艷如初">關之琳慶生好友曬靚照 51歲仍美艷如初</a></div><div class="split"></div></div>
+		<div class="criline01"><div class="flt num_10"></div><div class="flt criglinecon"><a href="http://dailynews.sina.com/bg/ent/music/sinacn/20130924/02515004261.html" title="疑似汪峰前妻斥其不忠:曾與多女性有染">疑似汪峰前妻斥其不忠:曾與多女性有染</a></div><div class="split"></div></div>
+
+			<div class="crigad"><script type="text/javascript" src="http://dailynews.sina.com/bg/ads/home/300_250/46.js"></script></div>
+		</div><div class="split"></div>
+
+	</div>
+	<!--partc 結束-->
+
+	<!--精彩圖片 開始-->
+	<div class="wonderfulimg pageColor_default_05">
+		<div class="witit pageColor_default_03 pageColor_default_05"><div class="flt"><a href="http://dailynews.sina.com/bg/pic/toppic.html">精彩圖片</a></div><div class="frt"><a href="http://dailynews.sina.com/bg/pic/toppic.html">更多>></a></div></div>
+				<div class="widis flt">
+			<div><table><tr><td><a href="http://dailynews.sina.com/bg/news/int/chinanews/20130926/00005010944.html"><img src="http://imgcache.sina.com/?s=ajTqA3ZC5hV6Cm7F8mh7IisXCoAV6xCYDlwjMoBmzXMULitWFqgv2Vvx7wpu7jTd%2FeMtdZuiMX5eQY9h9lP4avNeOpeV5asURitaKswT8UyC80GaK&icon=130x130" alt="德國兩男子持槍搶劫珠寶店 劫匪貌似中學生(圖)" /></a></td></tr></table></div>
+			<p><a href="http://dailynews.sina.com/bg/news/int/chinanews/20130926/00005010944.html" title="德國兩男子持槍搶劫珠寶店 劫匪貌似中學生(圖)">德國兩男子持槍搶劫珠寶店 劫匪貌似中學…</a></p>
+		</div>
+		<div class="widis flt">
+			<div><table><tr><td><a href="http://dailynews.sina.com/bg/news/int/chinanews/20130925/23405010867.html"><img src="http://imgcache.sina.com/?s=1IFQlcyXwKnL1cj5SJHkeGU4Wdm7vXmrrKXNd63ca5xHhMC7wLzSrLUYeEUPn8T%2FlVyQFMD6wMEci8FXh6Bc1Vy3xLD6uNEIl7UPi7RHmLVYxYgu%2B&icon=130x130" alt="美國雙頭龜共享4條腿和1龜殼 動物園起名傷腦筋" /></a></td></tr></table></div>
+			<p><a href="http://dailynews.sina.com/bg/news/int/chinanews/20130925/23405010867.html" title="美國雙頭龜共享4條腿和1龜殼 動物園起名傷腦筋">美國雙頭龜共享4條腿和1龜殼 動物園起…</a></p>
+		</div>
+		<div class="widis flt">
+			<div><table><tr><td><a href="http://dailynews.sina.com/bg/ent/ausdaily/20130925/21305010365.html"><img src="http://imgcache.sina.com/?s=KJfqbDeAcjeLm3hQK0K7Q4%2B0dKso525kOyEpM6BXdxwEamOCGEwsDKueOAykckKugmhUJ15XK66jj797RlK7LoQcZ6y%2Bjpt8pn8FL3B7K8Lar4vghkqDwnRRDDt3Y&icon=130x130" alt="麥莉上空再吐舌 轟小賈不穿衣" /></a></td></tr></table></div>
+			<p><a href="http://dailynews.sina.com/bg/ent/ausdaily/20130925/21305010365.html" title="麥莉上空再吐舌 轟小賈不穿衣">麥莉上空再吐舌 轟小賈不穿衣</a></p>
+		</div>
+		<div class="widis flt">
+			<div><table><tr><td><a href="http://dailynews.sina.com/bg/news/int/chinanews/20130925/22105010474.html"><img src="http://imgcache.sina.com/?s=O8czICuSSfZyZxYkN9aHD6qfQHagQtYRT2QwCtL%2F%2BxeyTg1hRgpPXv36E3n6c3YUWql1q49vGvYCJyfCUglymppzavnuFwnuh22cXiFoZ2QME7FiU&icon=130x130" alt="德國男子發現木乃伊 真人頭顱拼接塑料身體(圖)" /></a></td></tr></table></div>
+			<p><a href="http://dailynews.sina.com/bg/news/int/chinanews/20130925/22105010474.html" title="德國男子發現木乃伊 真人頭顱拼接塑料身體(圖)">德國男子發現木乃伊 真人頭顱拼接塑料身…</a></p>
+		</div>
+		<div class="widis flt">
+			<div><table><tr><td><a href="http://dailynews.sina.com/bg/news/int/ausdaily/20130925/22105010480.html"><img src="http://imgcache.sina.com/?s=YlisT3R26mS8SrADMoC7GZxoK6tHvotYS1lfwntcJnloOmW49qxM%2FqRz7jx4E3AK9nejOZBLUmSjEZ%2B7TvuvRZvrQnBW9nfvNcRrRrTsRfeohweqHXOjUshfMmBILn%2BLb&icon=130x130" alt="「邊嗅鞋味邊自慰」　戀鞋魔學校偷鞋(圖)" /></a></td></tr></table></div>
+			<p><a href="http://dailynews.sina.com/bg/news/int/ausdaily/20130925/22105010480.html" title="「邊嗅鞋味邊自慰」　戀鞋魔學校偷鞋(圖)">「邊嗅鞋味邊自慰」　戀鞋魔學校偷鞋(圖…</a></p>
+		</div>
+		<div class="widis flt">
+			<div><table><tr><td><a href="http://dailynews.sina.com/bg/news/int/ausdaily/20130925/22205010515.html"><img src="http://imgcache.sina.com/?s=7EE4fZuhs2tYdHvfcKOZ12cIVFPgMa92wFNML2PkZWCWw2tYVGjYPIheqDMYLGvjdJu9w2p7f1wvhIeJy4Z%2FZ7B%2FcKO%2BD4pco3wzcL%2B9z5KDX7hAvL%2F%2BD35DX1jQbWb59&icon=130x130" alt="真實阿凡達 藍人心臟病暴斃(圖)" /></a></td></tr></table></div>
+			<p><a href="http://dailynews.sina.com/bg/news/int/ausdaily/20130925/22205010515.html" title="真實阿凡達 藍人心臟病暴斃(圖)">真實阿凡達 藍人心臟病暴斃(圖)</a></p>
+		</div>
+
+		<div class="split"></div>
+	</div>
+	<!--精彩圖片 結束-->
+
+	<!--partd 開始-->
+	<div class="partd">
+		<div class="flt dlef pageColor_default_05">
+			<div class="dleftit pageColor_default_03 pageColor_default_05"><div class="flt"><a href="http://chinanews.sina.com/bg/">大陸</a></div><div class="frt"><a href="http://chinanews.sina.com/bg/">更多>></a></div><div class="split"></div></div>
+			<ul class="newslist01">
+					<li><a href="http://dailynews.sina.com/bg/chn/chnpolitics/phoenixtv/20130925/11405008979.html" title="媒體：摔女嬰案兇手聽到死刑判決后臉色瞬間變白">媒體：摔女嬰案兇手聽到死刑判決后臉色瞬間…</a></li>
+	<li><a href="http://dailynews.sina.com/bg/chn/chnlocal/phoenixtv/20130925/14105009134.html" title="女童疑被洗衣機絞死案續：家長稱不缺錢多養兩個孩子">女童疑被洗衣機絞死案續：家長稱不缺錢多養…</a></li>
+	<li><a href="http://dailynews.sina.com/bg/chn/chnnews/ausdaily/20130925/15395009223.html" title="洗衣機絞死女童續 死者父母已三四天未進食">洗衣機絞死女童續 死者父母已三四天未進食</a></li>
+	<li><a href="http://dailynews.sina.com/bg/chn/chnpolitics/sinacn/20130925/15525009240.html" title="洗衣機絞死女童案父親：媒體採訪令我們更悲慟">洗衣機絞死女童案父親：媒體採訪令我們更悲慟</a></li>
+	<li><a href="http://dailynews.sina.com/bg/chn/chnmilitary/sinacn/20130925/17215009424.html" title="中國産第一代旅大級導彈驅逐艦西寧艦退役">中國産第一代旅大級導彈驅逐艦西寧艦退役</a></li>
+	<li><a href="http://dailynews.sina.com/bg/chn/chnpolitics/sinacn/20130925/11305008976.html" title="陝西安康3個月數百人被毒蜂蜇傷 已有21人死亡">陝西安康3個月數百人被毒蜂蜇傷 已有21人死亡</a></li>
+	<li><a href="http://dailynews.sina.com/bg/chn/chnpolitics/phoenixtv/20130925/21405010424.html" title="前中顧委委員、經濟學家於光遠今晨去世(圖)">前中顧委委員、經濟學家於光遠今晨去世(圖)</a></li>
+	<li><a href="http://dailynews.sina.com/bg/chn/chnpolitics/xinhuanet/20130925/08545008706.html" title="丁書苗為劉志軍撈人跑官被騙4900萬內幕披露">丁書苗為劉志軍撈人跑官被騙4900萬內幕披露</a></li>
+	<li><a href="http://dailynews.sina.com/bg/chn/chnpolitics/chinanews/20130925/20305010096.html" title="外交部批美官員不當言論 香港各界籲美安守本分">外交部批美官員不當言論 香港各界籲美安守本分</a></li>
+	<li><a href="http://dailynews.sina.com/bg/chn/chnpolitics/sinacn/20130925/19295009829.html" title="廣州馬拉松賽跑友蜂擁報名致官網幾度崩潰">廣州馬拉松賽跑友蜂擁報名致官網幾度崩潰</a></li>
+	<li><a href="http://dailynews.sina.com/bg/chn/chnnews/ausdaily/20130925/19195009792.html" title="空中客車首推「中國定製機」">空中客車首推「中國定製機」</a></li>
+	<li><a href="http://dailynews.sina.com/bg/ent/chnstar/sinacn/20130924/22225006901.html" title="李某某案26日宣判 專家預測刑期8年左右">李某某案26日宣判 專家預測刑期8年左右</a></li>
+
+				<li><a href="http://pubads.g.doubleclick.net/gampad/clk?id=23177677&iu=/4461/us.clickcommand" target=_blank>找丟網教你信用卡省錢,每年輕鬆拿$500刀(圖)</a></li>
+
+<li><a href="http://dailynews.sina.com/bg/news/usa/sinaus/su/20130923/16145001775.html" target="_blank">用愛包圍灣區晴文媽媽 抗癌募款</a></li>
+
+			</ul>
+		</div>
+		<div class="flt dmid pageColor_default_05">
+			<div class="dmidtit pageColor_default_03 pageColor_default_05"><div class="flt"><a href="http://dailynews.sina.com/bg/tw/">台灣</a></div><div class="frt"><a href="http://dailynews.sina.com/bg/tw/">更多>></a></div><div class="split"></div></div>
+			<ul class="newslist01">
+					<li><a href="http://dailynews.sina.com/bg/tw/twpolitics/chinanews/20130925/23005010646.html" title="台灣一文教機構因掛大陸學校廣告招生被調查">台灣一文教機構因掛大陸學校廣告招生被調查</a></li>
+	<li><a href="http://dailynews.sina.com/bg/tw/twpolitics/chinanews/20130925/20005009961.html" title="馬英九：不會就關说案干預媒體 無“滅王計劃”">馬英九：不會就關说案干預媒體 無“滅王計劃…</a></li>
+	<li><a href="http://dailynews.sina.com/bg/tw/twpolitics/chinanews/20130925/20005009962.html" title="對領導人不敬就被轉學？ 台灣高中校規很離譜">對領導人不敬就被轉學？ 台灣高中校規很離譜</a></li>
+	<li><a href="http://dailynews.sina.com/bg/tw/twpolitics/chinanews/20130925/20005009964.html" title="台灣作家：台灣人特有的正直誠信是最大的資産">台灣作家：台灣人特有的正直誠信是最大的資産</a></li>
+	<li><a href="http://dailynews.sina.com/bg/tw/twpolitics/chinanews/20130925/20005009965.html" title="台灣一研究生雇教授改寫論文 為錢互相指控">台灣一研究生雇教授改寫論文 為錢互相指控</a></li>
+	<li><a href="http://dailynews.sina.com/bg/tw/twpolitics/phoenixtv/20130925/17535009498.html" title="顧立雄參選台北市長成黑馬 柯文哲：認真准備參選">顧立雄參選台北市長成黑馬 柯文哲：認真准備…</a></li>
+	<li><a href="http://dailynews.sina.com/bg/tw/twpolitics/phoenixtv/20130925/17535009497.html" title="柯文哲拜會綠營大佬被送書：參加了“天王”補習班">柯文哲拜會綠營大佬被送書：參加了“天王”…</a></li>
+	<li><a href="http://dailynews.sina.com/bg/tw/twpolitics/phoenixtv/20130925/17265009431.html" title="蔡英文評估台北市選情 贊顧立雄與柯文哲都是人才">蔡英文評估台北市選情 贊顧立雄與柯文哲都是…</a></li>
+	<li><a href="http://dailynews.sina.com/bg/tw/twpolitics/phoenixtv/20130925/16265009298.html" title="台內政部長李鴻源隨身攜帶佛經：決策者要保持心靜">台內政部長李鴻源隨身攜帶佛經：決策者要保…</a></li>
+	<li><a href="http://dailynews.sina.com/bg/tw/twpolitics/ausdaily/20130925/16005009250.html" title="綠力主廢除特偵組 藍有人跑票">綠力主廢除特偵組 藍有人跑票</a></li>
+	<li><a href="http://dailynews.sina.com/bg/tw/twpolitics/phoenixtv/20130925/16145009278.html" title="蘇蔡二人避免捲入雙北選舉漩渦 決定直攻“大選”">蘇蔡二人避免捲入雙北選舉漩渦 決定直攻“大…</a></li>
+	<li><a href="http://dailynews.sina.com/bg/tw/twpolitics/phoenixtv/20130925/16115009276.html" title="顧立雄出身深藍家庭 老母：兒子與民進黨為伍有辱門風">顧立雄出身深藍家庭 老母：兒子與民進黨為伍…</a></li>
+
+				<li><a href="http://dailynews.sina.com/bg/news/usa/sinaus/su/20130918/13504988046.html" target="_blank">麥當勞美國隆重推出全新Mighty Wings</a></li>
+
+<li><a href="http://dailynews.sina.com/bg/news/usa/sinaus/su/20130702/11254700495.html" target=_blank>DISH Jadeworld™ TVB$120月費減免優惠</a></li>
+			</ul>
+		</div>
+		<div class="flt drig pageColor_default_04 pageColor_default_05">
+			<div class="drigtit pageColor_default_03 pageColor_default_05"><div class="flt"><a href="http://magazine.sina.com/bg/">雜誌</a></div><div class="frt"><a href="http://magazine.sina.com/bg/">更多>></a></div><div class="split"></div></div>
+
+			<div class="drigimg flt"><table><tr><td><a href="http://magazine.sina.com/bg/invest/2013/1744/index.html"><img src="http://img.news.sina.com/bg/invest/2013/1744/idx/2013/0924/U80P5025T4D6107F53DT20130924110000.jpg" width="75" height="100" alt="先探投資周刊" /></a></td></tr></table></div>
+			<div class="flt drignews">
+				<ul class="newslist01">
+						<li><a href="http://magazine.sina.com/bg/xinminweekly/755/20130909/2046122483.html" target="_blank">新加坡是面鏡子</a></li>
+	<li><a href="http://magazine.sina.com/bg/xinminweekly/755/20130909/2047122484.html" target="_blank">尋覓“瓜瓜同款”非洲肉</a></li>
+	<li><a href="http://magazine.sina.com/bg/xinminweekly/755/20130909/2049122488.html" target="_blank">讓卸任領導先富起來？</a></li>
+	<li><a href="http://magazine.sina.com/bg/24drs/201309/20130909/2028122476.html" target="_blank">智慧型手機讓你變胖</a></li>
+	<li><a href="http://magazine.sina.com/bg/24drs/201309/20130909/2027122475.html" target="_blank">露營讓生理時鐘與大自然融和</a></li>
+	<li><a href="http://magazine.sina.com/bg/24drs/201309/20130909/2026122474.html" target="_blank">菜單標示熱量不會吃得更健康</a></li>
+
+				</ul>
+			</div><div class="split"></div>
+			<div class="drigtit pageColor_default_03 pageColor_default_05"><div class="flt"><a href="http://books.sina.com/bg/">小说</a></div><div class="frt"><a href="http://books.sina.com/bg/">更多>></a></div><div class="split"></div></div>
+
+			<div class="drigimg flt"><table><tr><td><a href="http://books.sina.com/bg/salonbook/salon/20130925/000147070.html"><img src="http://img.news.sina.com/bg/home/7/2011/0107/U80P5013T7D7F134DT20130926141009.jpg" width="75" height="100" alt="人際觀：給別人空間，換回一個世界" /></a>
+
+</td></tr></table></div>
+			<div class="flt drignews">
+				<ul class="newslist01">
+						<li><a href="http://books.sina.com/bg/funny/talent/20130925/212347085.html">武則天以男寵之愛抵抗衰老</a></li>
+	<li><a href="http://books.sina.com/bg/funny/lovestory/20130925/194047081.html">古代哪些女人倡導性解放？</a></li>
+	<li><a href="http://books.sina.com/bg/sinablog/heart/20130925/192647079.html">誰和魯迅平分中國新文學天下</a></li>
+	<li><a href="http://books.sina.com/bg/funny/talent/20130925/081147076.html">寶座上的生旦凈末醜</a></li>
+	<li><a href="http://books.sina.com/bg/salonbook/salon/excerpt/sz/qg/2013-09-25/1644541939.html">其實男人比女人更缺乏安全感</a></li>
+	<li><a href="http://books.sina.com/bg/salonbook/salon/20130924/234847069.html">聽面試官告訴你招聘秘訣</a></li>
+
+				</ul>
+			</div><div class="split"></div>
+		</div><div class="split"></div>
+	</div>
+	<!--partd 結束-->
+
+	<!--廣告120*60 開始-->
+	<div class="adbar01">
+				<div class="flt"><a href="http://ad.doubleclick.net/clk;219486951;15706542;o?http://www.jianglawgroup.com/index.php?lang=zh_CN" target="_blank"><img src="http://img.news.sina.com/bg/ads/home/120_60/idx/2010/0224/U78P5010T4D31F32DT20100224064458.gif"></a></div>
+		<div class="flt"><a href="http://pubads.g.doubleclick.net/gampad/clk?id=49851877&iu=/4461/us.clickcommand" target="_blank"><img src="http://img.news.sina.com/bg/ads/home/120_60/idx/2013/0522/U126P5010T4D26F32DT20130522083736.gif"></a></div>
+		<div class="flt"><a href="http://ad.doubleclick.net/clk;212446692;15706542;f?http://china.skoovy.com/contest/" target="_blank"><img src="http://img.news.sina.com/bg/ads/www/120_60/U78P5010T8D6F69DT20111013084806.gif"></a></div>
+		<div class="flt"><a href="http://travel.sina.com/" target="_blank"><img src="http://img.news.sina.com/bg/ads/home/120_60/idx/2011/0616/U78P5010T4D13F32DT20110616080114.gif"></a></div>
+		<div class="flt"><a href="http://ad.doubleclick.net/clk;216351048;15706542;z?http://client.sina.com/sites/nh/" target="_blank"><img src="http://img.news.sina.com/bg/ads/home/120_60/idx/2009/1202/U78P5010T4D28F32DT20091202075835.gif"></a></div>
+		<div class="flt"><a href="http://ad.doubleclick.net/clk;101255171;15706542;s?http://www.jclawoffice.com/" target="_blank"><img src="http://img.news.sina.com/bg/ads/imm/index/120_60/U78P5010T9D2F77DT20100511025345.gif"></a></div>
+		<div class="flt"><a href="http://pubads.g.doubleclick.net/gampad/clk?id=64297357&iu=/4461/us.clickcommand" target="_blank"><img src="http://img.news.sina.com/bg/ads/home/120_60/idx/2013/0914/U126P5010T4D31F32DT20130914081833.jpg"></a></div>
+
+		<div class="split"></div>
+	</div>
+	<!--廣告120*60 結束-->
+
+	<!--parte 開始-->
+	<div class="parte">
+		<div class="eleft flt pageColor_default_05">
+			<div class="eleftit pageColor_default_03 pageColor_default_05"><div class="flt"><a href="http://ent.sina.com/bg/">娛樂</a></div><div class="frt"><a href="http://ent.sina.com/bg/">更多>></a></div><div class="split"></div></div>
+			<div class="eleflef flt">
+				<div id="focusOut" class="edis">
+		<a id="bigImg" href="http://dailynews.sina.com/bg/ent/hktwstar/sinacn/20130925/11215008969.html"><img src="http://img.news.sina.com/bg/home/4/2011/0110/U82P5013T4D4F21DT20130926083830_w332.jpg" width="332" height="238" alt="周海媚與男友一見鐘情 享受自由不結婚" /></a>
+		<div class="edisbarbg"></div><div id="focusTip" class="edisbar"><a href="http://dailynews.sina.com/bg/ent/hktwstar/sinacn/20130925/11215008969.html">周海媚與男友一見鐘情 享受自由不結婚</a></div>	   <div id="numList" class="numlist"></div>
+	</div>
+	<script type="text/javascript">
+	var imgUrl01=new Array();
+	var imgLink01=new Array();
+	var imgTitle01=new Array();
+
+		imgUrl01[0]='http://img.news.sina.com/bg/home/4/2011/0110/U82P5013T4D4F21DT20130926083830_w332.jpg';
+		imgLink01[0]='http://dailynews.sina.com/bg/ent/hktwstar/sinacn/20130925/11215008969.html';
+		imgTitle01[0]='周海媚與男友一見鐘情 享受自由不結婚';
+
+		imgUrl01[1]='http://img.news.sina.com/bg/home/4/2011/0110/U82P5013T4D4F22DT20130926083830_w332.jpg';
+		imgLink01[1]='http://dailynews.sina.com/bg/ent/hktwstar/phoenixtv/20130925/10195008891.html';
+		imgTitle01[1]='台中市長千金與破産老公作風開放 上節目接吻擁抱';
+
+	</script>
+
+<script type="text/javascript">
+function smallFocus(){
+	var pl;
+	var _this=this;
+	var n;
+	var out,bigPic,tip,list;
+	var picUrl=new Array();var picLink=new Array();var picTitle=new Array();
+
+	this.ini=function(_out,_bigPic,_tip,_list,_picUrl,_picLink,_picTitle){
+		out=$('#'+_out);bigPic=$('#'+_bigPic);
+		tip=$('#'+_tip);list=$('#'+_list);
+		picUrl=_picUrl;picLink=_picLink;picTitle=_picTitle;
+		n=0;
+		for(var i=1;i<=picUrl.length;i++){
+			if(i==1){
+				list.append('<div class="flt sel">'+i+'</div>');
+				}else{
+				list.append('<div class="flt">'+i+'</div>');	
+					}
+			}
+		bigPic.attr('href',picLink[0]);
+		bigPic.children('img').attr('src',picUrl[0]);
+		bigPic.children('img').attr('alt',picTitle[0]);
+		tip.children('a').text(picTitle[0]);
+		tip.children('a').attr('href',picLink[0]);
+		}
+
+	this.changeImg=function(){
+		var listChildren=list.children();
+		$.each(listChildren,function(){$(this).removeClass('sel');})
+		if(n+1==picUrl.length){listChildren.eq(0).addClass('sel');}
+		else{listChildren.eq(n+1).addClass('sel');}
+		bigPic.children('img').fadeOut('slow',function(){
+			bigPic.attr('href',picLink[n]);
+			tip.children('a').attr('href',picLink[n]);
+			$(this).attr('src',picUrl[n]);
+			$(this).attr('alt',picTitle[n]);
+			tip.children('a').text(picTitle[n]);
+			bigPic.children('img').fadeIn('slow');
+			});
+		n++;
+		if(n==picUrl.length){
+			n=0;
+			}
+		}
+
+	this.play=function(){
+		pl=setInterval(_this.changeImg,5000);
+		}
+
+	this.listNumber=function(){
+		var listChildren=list.children();
+		$.each(listChildren,function(){
+			$(this).hover(function(){
+				$(this).addClass('sel');
+				clearInterval(pl);
+				},function(){
+				if(listChildren.index($(this))!=n){$(this).removeClass('sel');}
+				_this.play();
+				})
+			$(this).click(function(){
+				var listIndex=listChildren.index($(this));
+				n=listIndex-1;
+				_this.changeImg();
+				})
+			})
+		}
+
+	this.loadImg=function(){
+		$('<div style="display:none"></div>').appendTo(out);
+		var hideDiv=out.children('div:last-child');
+		for(var i=0;i<picUrl.length;i++){
+			$('<img src="'+picUrl[i]+'"/>').appendTo(hideDiv);
+			}
+		}
+}
+$(document).ready(function(){
+var smallfocus01=new smallFocus();
+smallfocus01.ini('focusOut','bigImg','focusTip','numList',imgUrl01,imgLink01,imgTitle01);
+smallfocus01.play();
+smallfocus01.listNumber();
+smallfocus01.loadImg();
+	})
+</script>
+
+				<p class="en01"><span><a href="http://dailynews.sina.com/bg/ent/chinanews/20130925/20305010106.html">潘粵明案再開庭 其美女經紀人出庭</a> <a href="http://dailynews.sina.com/bg/focusnews/ent/DongJiePanYueMing130926/index.html">專題</a></span></p>
+
+<p class="en02"><span>[<a href="http://dailynews.sina.com/bg/ent/chinanews/20130925/17305009438.html	">經紀人改口：抹黑潘粵明，董潔是主使</a>]</span></p>
+<p class="en02"><span>[<a href=" 	http://dailynews.sina.com/bg/ent/chinanews/20130925/17105009394.html	">潘粵明提兒子哽咽：原以為我的財富就是感情</a>]</span></p>	 			
+
+			</div>
+			<div class="eleflist flt">
+				<ul class="newslist01">
+						<li><a href="http://dailynews.sina.com/bg/ent/chnstar/sinacn/20130925/17175009412.html" title="趙薇不八卦王菲離婚 建議黃曉明快生小孩">趙薇不八卦王菲離婚 建議黃曉明快生小孩</a></li>
+	<li><a href="http://dailynews.sina.com/bg/ent/music/sinacn/20130925/20555010252.html" title="主辦方否認軟禁蕭亞軒:問題在經紀人">主辦方否認軟禁蕭亞軒:問題在經紀人</a></li>
+	<li><a href="http://dailynews.sina.com/bg/ent/ausdaily/20130925/21305010375.html" title="趙薇證實菲鵬感情不變">趙薇證實菲鵬感情不變</a></li>
+	<li><a href="http://dailynews.sina.com/bg/ent/hktwstar/sinacn/20130925/17055009386.html" title="郭富城稱上網不看美女照片 只關注工作">郭富城稱上網不看美女照片 只關注工作</a></li>
+	<li><a href="http://dailynews.sina.com/bg/ent/hktwstar/sinacn/20130925/17365009462.html" title="劉德華52歲生日享天倫 稱TVB制度應改變">劉德華52歲生日享天倫 稱TVB制度應改變</a></li>
+	<li><a href="http://dailynews.sina.com/bg/ent/ausdaily/20130925/19205009786.html" title="賈斯汀個唱賣門票8888人民幣：一場拼爹的演唱會">賈斯汀個唱賣門票8888人民幣：一場拼爹的…</a></li>
+	<li><a href="http://dailynews.sina.com/bg/ent/hollywood/sinacn/20130925/16485009336.html" title="貝克漢香港狂拍合影成人肉背景忙逃跑">貝克漢香港狂拍合影成人肉背景忙逃跑</a></li>
+	<li><a href="http://dailynews.sina.com/bg/ent/film/sinacn/20130925/16255009297.html" title="郭敬明籌拍《小時代3》 獲邀法國取景">郭敬明籌拍《小時代3》 獲邀法國取景</a></li>
+	<li><a href="http://dailynews.sina.com/bg/ent/film/sinacn/20130925/17195009420.html" title="趙又廷稱明年想娶高圓圓 女方未催婚">趙又廷稱明年想娶高圓圓 女方未催婚</a></li>
+	<li><a href="http://dailynews.sina.com/bg/ent/hktwstar/sinacn/20130925/10095008869.html" title="梁洛施當街抽煙不顧形象 被爆是老煙槍">梁洛施當街抽煙不顧形象 被爆是老煙槍</a></li>
+	<li><a href="http://dailynews.sina.com/bg/ent/hktwstar/sinacn/20130925/09205008724.html" title="羅志祥幽默調侃緋聞 摟同性曝“女友”">羅志祥幽默調侃緋聞 摟同性曝“女友”</a></li>
+	<li><a href="http://dailynews.sina.com/bg/ent/music/sinacn/20130925/03595008195.html" title="王力宏否認參加好聲音決賽與李雲迪同台">王力宏否認參加好聲音決賽與李雲迪同台</a></li>
+	<li><a href="http://dailynews.sina.com/bg/ent/chnstar/phoenixtv/20130925/17505009484.html" title="萬達回應青島東方影都事件：請大腕都是友情價">萬達回應青島東方影都事件：請大腕都是友…</a></li>
+
+					<li><a href="http://dailynews.sina.com/bg/ent/sinaus/su/20130916/17484980456.html" target="_blank">《狄仁傑之神都龍王》AMC全美即將上映</a></li>
+
+<li><a href="http://dailynews.sina.com/bg/news/usa/sinaus/su/20130924/14095005457.html" target="_blank">北美現代汽車「希望之輪」獻愛心</a></li>
+
+				</ul>
+			</div><div class="split"></div>
+		</div>
+		<div class="eright flt pageColor_default_05">
+			<div class="erigtit pageColor_default_03 pageColor_default_05"><div class="flt"><a href="http://dailynews.sina.com/bg/sports/">體育</a> <a href="http://dailynews.sina.com/bg/sports/nba/">NBA</a> <a href="http://slide.sports.sina.com/" target="_blank">體育高清</a></div><div class="frt"><!--a href="http://dailynews.sina.com/bg/sports/">更多>></a--></div><div class="split"></div></div>
+			<p class="erightfirst"><a href="http://dailynews.sina.com/bg/news/spt/football/sinacn/20130925/09535008729.html">辱巴神T恤竟當街熱賣</a></p>
+
+<div class="erigdis">
+	<div class="flt erigdisimg"><table><tr><td><a href="http://dailynews.sina.com/bg/news/spt/football/sinacn/20130925/09535008729.html"><img src="http://img.news.sina.com/bg/home/7/2011/0110/U75P5013T7D9F134DT20130926082200.jpg" width="157" height="97" alt="辱巴神T恤竟當街熱賣" /></a></td></tr></table></div>
+
+	<div class="flt erigdisdes">
+	<a href="http://dailynews.sina.com/bg/news/spt/football/sinacn/20130925/09535008729.html">在那不勒斯城市中心的一條商業街上，巴洛特利也成為那不勒斯人所鄙視的對象……</a>
+	</div><div class="split"></div>
+</div>
+
+			<ul class="newslist01">
+					<li><a href="http://dailynews.sina.com/bg/news/spt/football/sinacn/20130925/15535009241.html" title="皇馬險勝爆發巴薩口水戰！">皇馬險勝爆發巴薩口水戰！</a></li>
+	<li><a href="http://dailynews.sina.com/bg/news/spt/sptothers/singtao/20130925/10005008808.html" title="角逐尼克斯隊長 費爾頓瘦7公斤">角逐尼克斯隊長 費爾頓瘦7公斤</a></li>
+	<li><a href="http://dailynews.sina.com/bg/news/spt/sex/sinacn/su/20130925/10155008889.html" title="韓國前沙排美女隆胸前后對比 事業綫明顯">韓國前沙排美女隆胸前后對比 事業綫明顯</a></li>
+
+			</ul>
+			<div class="videodis pageColor_default_04">
+				<div class="flt video"><div><table><tr><td><a href="http://dailynews.sina.com/bg/news/spt/sptothers/chinapress/20130925/02505007964.html"><img src="http://img.news.sina.com/bg/home/7/2011/0110/U83P5013T7D10F134DT20130926114150.jpg" width="85" height="64" alt="一勝難求" /></a></td></tr></table></div><p><a href="http://dailynews.sina.com/bg/news/spt/sptothers/chinapress/20130925/02505007964.html">一勝難求</a></p></div>
+
+<div class="flt video"><div><table><tr><td><a href="http://dailynews.sina.com/bg/news/spt/sptothers/sinacn/20130925/19525009891.html"><img src="http://img.news.sina.com/bg/home/7/2011/0110/U83P5013T7D10F135DT20130926114150.jpg" width="85" height="64" alt="蛙王大婚" /></a></td></tr></table></div><p><a href="http://dailynews.sina.com/bg/news/spt/sptothers/sinacn/20130925/19525009891.html">蛙王大婚</a></p></div>
+
+<div class="flt video"><div><table><tr><td><a href="http://dailynews.sina.com/bg/news/spt/sptothers/chinapress/20130925/02505007978.html"><img src="http://img.news.sina.com/bg/home/7/2011/0110/U83P5013T7D10F136DT20130926114150.jpg" width="85" height="64" alt="另類球衣" /></a></td></tr></table></div><p><a href="http://dailynews.sina.com/bg/news/spt/sptothers/chinapress/20130925/02505007978.html">另類球衣</a></p></div>
+
+				<div class="split"></div>
+			</div>
+		</div><div class="split"></div>
+	</div>
+	<!--parte 結束-->
+
+	<!--廣告120*60 開始-->
+	<!--div class="adbar01">
+		<div class="flt"><script type="text/javascript" src=""></script></div>
+		<div class="split"></div>
+	</div-->
+	<!--廣告120*60 結束-->
+
+	<!--partf 開始-->
+	<div class="partf">
+		<div class="flt flef pageColor_default_05">
+			<div class="fleftit pageColor_default_03 pageColor_default_05"><div class="flt"><a href="http://travel.sina.com/">旅遊</a> <a href="http://immigration.sina.com/bg/">移民</a></div><div class="frt"><!--a href="http://immigration.sina.com/bg/">更多>></a--></div><div class="split"></div></div>	
+			<div class="fpart01">
+				<div class="fpart01dis flt"><table><tr><td><a href="http://travel.sina.com/news/tnews/2012-06-06/222514019.html"><img src="http://img.news.sina.com/bg/5010/18/2011/0118/U88P5010T18D17F167DT20120609073431.jpg" width="77" height="83" alt="全球十大最美日落" /></a></td></tr></table></div>
+
+<div class="fpart01des flt">
+<p><a href="http://travel.sina.com/news/tnews/2012-06-06/222514019.html">全球十大最美日落</a></p>
+
+<p><a href="http://travel.sina.com/news/tnews/2012-06-08/132314031.html">"無聊鎮"和"乏味村"結為友城</a></p>
+
+</div>
+
+<div class="fpart01news flt">
+<ul class="newslist01">
+
+<li>[<a href="http://travel.sina.com/news/tnews/list.html" target=_blank>新聞</a>]<a href=" http://travel.sina.com/news/tnews/2013-09-24/190315543.html" target="_blank">韓推移動電話漢語咨詢服務</a></li>
+
+<li>[<a href="http://travel.sina.com/news/tnews/list.html" target=_blank>新聞</a>]<a href=" http://travel.sina.com/news/tnews/2013-09-24/190115542.html" target="_blank">巴基斯坦發生7.7級地震</a></li>
+
+<li>[<a href="http://esoon.sina.com" target=_blank>機 票</a>]<a href="http://esoon.sina.com" target="_blank">秋季機票特賣</a></li>
+
+<li>[<a href="http://travel.sina.com/tours/rec/all.html" target=_blank>行程</a>]<a href="http://travel.sina.com/tours/china/2011-08-15/1310451.html" target="_blank">湘西魅力江南11天超值五星團</a></li>
+</ul>
+</div>
+
+				<div class="split"></div>
+			</div>
+
+				<div class="flt fnewslist01">
+	<ul class="newslist01">
+		<li><a href="http://dailynews.sina.com/bg/imm/lawyer/cdh/su/20130619/12114656481.html">投資移民綠卡轉正審批標準</a></li>
+	<li><a href="http://dailynews.sina.com/bg/imm/lawyer/cdh/su/20130702/14594700736.html">境外出生小孩的身份問題</a></li>
+	<li><a href="http://bbs.sina.com/viewthread.php?tid=1403563&extra=page%3D1">結婚面談的最新趨勢</a></li>
+		<li><a href="http://dailynews.sina.com/bg/news/usa/lawyer/cdh/su/20130813/15224859309.html">9月排期：中國EB-3大幅前進</a></li>
+
+	</ul>
+</div>
+<div class="flt fnewslist01">
+	<ul class="newslist01">
+			<li><a href="http://dailynews.sina.com/bg/imm/lawyer/cdh/su/20130709/14154725903.html">美駐華使館日壇分部接收學生簽申請</a></li>
+		<li><a href="http://video.sina.com/v//v-SINA_159_74441dfd37c0657183d8.html">(訪談)陳律師介紹2013年投資移民</a></li>
+		<li><a href="http://dailynews.sina.com/bg/imm/lawyer/cdh/su/20130724/14274783380.html">2013年經濟擔保貧困綫標準</a></li>
+		<li><a href="http://dailynews.sina.com/gb/imm/lawyer/cdh/su/20130307/14234318718.html">EB-5投資移民案例:100萬投資移民</a></li>
+
+	</ul>
+</div>
+				<div class="flt fnewslist01" style="margin-top:0;padding-top:0"><ul class="newslist01">
+
+<li><a href="http://dailynews.sina.com/bg/focusnews/oth/jianglawgroup/index.html">2013年10月職業移民和親屬移民排期</a></li>
+
+</ul></div>
+<div class="flt fnewslist01" style="margin-top:0;padding-top:0">
+<ul class="newslist01">
+
+<li><a href="http://dailynews.sina.com/bg/focusnews/oth/jianglawgroup/index.html">怎樣減少被控竊取商業秘密的風險</a></li>
+
+</ul>
+</div>
+
+		</div>
+
+		<div class="flt flef frig pageColor_default_05">
+			<div class="fleftit pageColor_default_03 pageColor_default_05"><div class="flt"><a href="http://food.sina.com/bg/">美食</a> <a href="http://yp.sina.com/">黃頁</a></div><div class="frt"><!--a href="#">更多>></a--></div><div class="split"></div></div>
+			<div class="fpart02 flt"><div><table><tr><td><a href="http://yp.sina.com/categories1.php?id=34"><img src="http://img.news.sina.com/bg/5010/18/2011/0110/U88P5010T18D13F167DT20120925072352.jpg" width="129" height="95" alt="中餐美食匯" /></a></td></tr></table></div><p><a href="http://yp.sina.com/categories1.php?id=34">中餐美食匯</a></p></div>
+
+<div class="fpart02 flt"><div><table><tr><td><a href="http://client.sina.com/yp/eurotechco/index.html"><img src="http://img.news.sina.com/bg/5010/18/2011/0110/U88P5010T18D13F168DT20130402050323.jpg" width="129" height="95" alt="專修歐洲車" /></a></td></tr></table></div><p><a href="http://client.sina.com/yp/eurotechco/index.html">專修歐洲車</a></p></div>
+			<div class="fpart02 flt"><div><table><tr><td><a href="http://bbs.sina.com/viewthread.php?tid=1710230&extra=page%3D1&frombbs=1"><img src="http://img.news.sina.com/bg/home/7/2011/0110/U80P5013T7D12F134DT20130926104348.jpg" width="129" height="95" alt="水煮肉片" /></a></td></tr></table></div><p><a href="http://bbs.sina.com/viewthread.php?tid=1710230&extra=page%3D1&frombbs=1">水煮肉片</a></p></div>
+			<div class="split"></div>
+			<div class="fpart03 flt" style="margin-bottom:0;padding-bottom:0">
+	<ul class="newslist01">
+				<li><a href="http://dailynews.sina.com/bg/news/heh/sinacn/20130925/18595009719.html" title="吃好八種食物護腸排毒">吃好八種食物護腸排毒</a></li>
+		<li><a href="http://dailynews.sina.com/bg/news/heh/sinacn/20130925/18575009716.html" title="盤點十大最刮油的食物">盤點十大最刮油的食物</a></li>
+
+	</ul>
+</div>
+<div class="fpart04 flt" style="margin-bottom:0;padding-bottom:0">
+	<ul class="newslist01">
+				<li><a href="http://dailynews.sina.com/bg/news/heh/sinacn/20130925/18365009635.html" title="你所不知的小米粥大作用">你所不知的小米粥大作用</a></li>
+		<li><a href="http://dailynews.sina.com/bg/news/heh/sinacn/20130925/16025009259.html" title="吃五種素食相當於吃肉">吃五種素食相當於吃肉</a></li>
+
+	</ul>
+</div>
+			<div class="split"></div>
+			<div class="fpart03 flt" style="margin-top:0;padding-top:0">
+<ul class="newslist01">					
+<li><a href="http://client.sina.com/yp/eurotechco/index.html">我們為你從經銷商定價中節省高達40%</a></li>
+<li><a href="http://yp.sina.com/detail1.php?zid=5188">加州太平洋醫療中心 </a></li>
+</ul>
+</div>
+<div class="fpart04 flt" style="margin-top:0;padding-top:0">
+<ul class="newslist01">					
+<li><a href="http://yp.sina.com/detail1.php?zid=204" target="_blank">王明武律師
+三十年經驗不結案不收費</a></li>
+<li><a href="http://yp.sina.com/detail1.php?zid=3647" target="_blank">美國亞洲旅行社多家分社
+</a></li>
+</ul>
+</div>
+			<div class="split"></div>
+		</div><div class="split"></div>
+	</div>
+	<!--partf 結束-->
+
+	<!--partg 開始-->
+	<div class="partf">
+		<div class="flt flef flefborderbtm pageColor_default_05">
+			<div class="fleftit pageColor_default_03 pageColor_default_05"><div class="flt"><a href="http://dailynews.sina.com/bg/fashion/">時尚</a> <a href="http://slide.fashion.sina.com/">秀場</a></div><div class="frt"><a href="http://dailynews.sina.com/bg/fashion/">更多>></a></div><div class="split"></div></div>
+			<div class="fpart05 flt"><div><a href="http://slide.fashion.sina.com/w/slide_24_47611_35979.html"><img src="http://img.news.sina.com/bg/home/7/2011/0110/U80P5013T7D13F134DT20130926104146.jpg" width="200" height="190" alt="盤點20件絶美秋季嫁衣" /></a></div><p><a href="http://slide.fashion.sina.com/w/slide_24_47611_35979.html">盤點20件絶美秋季嫁衣</a></p></div>
+
+			<div class="fpart06 flt">
+				<ul class="newslist02">
+						<li><a href="http://dailynews.sina.com/bg/news/fsh/sinacn/b/mk/2013-09-26/143523831.html" title="凱鈞老師：面部遮瑕有訣竅">凱鈞老師：面部遮瑕有訣竅</a></li>
+	<li><a href="http://dailynews.sina.com/bg/news/fsh/sinacn/20130925/20465010198.html" title="王大仁領銜巴黎時裝周最受期待秀場">王大仁領銜巴黎時裝周最受期待秀場</a></li>
+	<li><a href="http://dailynews.sina.com/bg/news/fsh/sinacn/20130925/07295008631.html" title="趙薇劉德華亮相亞洲頂級腕表展">趙薇劉德華亮相亞洲頂級腕表展</a></li>
+	<li><a href="http://dailynews.sina.com/bg/news/fsh/sinacn/20130925/05555008376.html" title="施華洛世奇攜手蔡依林開啟音樂之旅">施華洛世奇攜手蔡依林開啟音樂之旅</a></li>
+	<li><a href="http://dailynews.sina.com/bg/news/fsh/sinacn/20130925/05095008318.html" title="索菲亞科波拉與路易威登限量版包">索菲亞科波拉與路易威登限量版包</a></li>
+	<li><a href="http://dailynews.sina.com/bg/news/fsh/sinacn/20130925/03255008128.html" title="獨家點評 米蘭春夏時裝周流行趨勢">獨家點評 米蘭春夏時裝周流行趨勢</a></li>
+	<li><a href="http://dailynews.sina.com/bg/news/fsh/sinacn/20130925/02545007999.html" title="不傷膚 黑頭導出液使用6tips">不傷膚 黑頭導出液使用6tips</a></li>
+	<li><a href="http://dailynews.sina.com/bg/news/fsh/sinacn/20130925/01135007548.html" title="蘭玉蘇綉高定搶眼巴黎">蘭玉蘇綉高定搶眼巴黎</a></li>
+	<li><a href="http://dailynews.sina.com/bg/news/fsh/sinacn/20130925/00255007307.html" title="TADASHI SHOJI 2014甜蜜春夏春夏">TADASHI SHOJI 2014甜蜜春夏春夏</a></li>
+
+					<li><a href="http://dailynews.sina.com/bg/news/usa/sinaus/su/20130916/11474979916.html" target="_blank">您的健康保險如何獲得最佳售后服務</a></li>
+
+<li><a href="http://pubads.g.doubleclick.net/gampad/clk?id=23177797&iu=/4461/us.clickcommand" target="_blank">找丟網教你用信用卡換免費機票(圖)</a></li>
+				</ul>
+			</div><div class="split"></div>
+		</div>
+
+		<div class="flt flef frig flefborderbtm pageColor_default_05">
+			<div class="fleftit pageColor_default_03 pageColor_default_05"><div class="flt"><a href="http://pstv.sina.com/home/">住房</a> <a href="http://auto.sina.com/">汽車</a></div>
+			<div class="frt"><!--a href="#">更多>></a--></div><div class="split"></div></div>
+			<div class="fpart06 flt">
+				<ul class="newslist02">
+						<li><a href="http://dailynews.sina.com/bg/news/usa/uslocal/singtao/20130924/10005005160.html" title="聖華昆谷房價漲幅驚人">聖華昆谷房價漲幅驚人</a></li>
+	<li><a href="http://dailynews.sina.com/bg/tw/twfinance/cna/20130924/07045004958.html" title="美房價漲幅 逾7年最大">美房價漲幅 逾7年最大</a></li>
+	<li><a href="http://finance.sina.com/bg/usstock/sinacn/20130924/0603867871.html" title="快訊：美7月FHFA房價指數環增1.0% 好於預期">快訊：美7月FHFA房價指數環增1.0% …</a></li>
+	<li><a href="http://dailynews.sina.com/bg/chn/chnnews/ausdaily/20130924/21295006785.html" title="央視痛批炒房 憂重回暴漲時代">央視痛批炒房 憂重回暴漲時代</a></li>
+	<li><a href="http://dailynews.sina.com/bg/auto/newcar/sinacn/20130924/18105005875.html" title="新一代馬自達MX-5 配全新動力">新一代馬自達MX-5 配全新動力</a></li>
+	<li><a href="http://dailynews.sina.com/bg/auto/newcar/sinacn/20130923/16265001791.html" title="捷豹C-X17量産版假想圖曝光 與XS共平台">捷豹C-X17量産版假想圖曝光 與XS共…</a></li>
+	<li><a href="http://dailynews.sina.com/bg/auto/newcar/sinacn/20130923/16295001795.html" title="新一代Smart ForTwo諜照首曝 明年發布">新一代Smart ForTwo諜照首曝 明年發布</a></li>
+	<li><a href="http://dailynews.sina.com/bg/auto/newcar/sinacn/20130923/16335001801.html" title="新一代奔馳C級最新諜照曝光 明年初亮相">新一代奔馳C級最新諜照曝光 明年初亮…</a></li>
+	<li><a href="http://dailynews.sina.com/bg/auto/newcar/sinacn/20130923/16375001807.html" title="林肯MKC緊湊級SUV諜照曝光 或年底亮相">林肯MKC緊湊級SUV諜照曝光 或年底亮相</a></li>
+
+					<li><a href="http://ad.doubleclick.net/clk;253793182;15706542;j?http://client.sina.com/sites/nh/" target=_blank>Mountain View價值最佳的高級社區</a></li> 
+<li><a href="http://ad.doubleclick.net/clk;253793182;15706542;j?http://client.sina.com/sites/nh/" target=_blank>PULTE HOMES在灣區大展拳腳</a></li>
+
+				</ul>
+			</div>
+				<div id="focusOut02" class="fpart05 flt fpart05marglef">
+		<div><a id="bigImg02" href="http://dailynews.sina.com/bg/auto/newcar/sinacn/20130924/18105005875.html"><img src="http://img.news.sina.com/bg/home/4/2011/0110/U81P5013T4D5F21DT20130925163929.jpg" width="200" height="190" alt="新一代馬自達MX-5" /></a></div>
+		<p id="focusTip02"><a href="http://dailynews.sina.com/bg/auto/newcar/sinacn/20130924/18105005875.html">新一代馬自達MX-5</a></p>
+		<div id="numList02" class="numlist"></div>
+	</div>
+
+	<script type="text/javascript">
+	var imgUrl02=new Array();
+	var imgLink02=new Array();
+	var imgTitle02=new Array();
+
+		imgUrl02[0]='http://img.news.sina.com/bg/home/4/2011/0110/U81P5013T4D5F21DT20130925163929.jpg';
+		imgLink02[0]='http://dailynews.sina.com/bg/auto/newcar/sinacn/20130924/18105005875.html';
+		imgTitle02[0]='新一代馬自達MX-5';
+
+		imgUrl02[1]='http://img.news.sina.com/bg/home/4/2011/0110/U81P5013T4D5F22DT20130925163929.jpg';
+		imgLink02[1]='http://dailynews.sina.com/bg/auto/newcar/sinacn/car/2013-09-24/20171227393.html';
+		imgTitle02[1]='阿斯頓·馬丁Rapide S';
+
+	</script>
+
+<script type="text/javascript">
+$(document).ready(function(){
+var smallFocus02=new smallFocus();
+smallFocus02.ini('focusOut02','bigImg02','focusTip02','numList02',imgUrl02,imgLink02,imgTitle02);
+smallFocus02.play();
+smallFocus02.listNumber();
+smallFocus02.loadImg();
+	})
+</script>
+
+			<div class="split"></div>
+		</div><div class="split"></div>
+	</div>
+
+	<!--partg 結束-->
+
+	<!--廣告120*60 開始-->
+	<div class="adbar01">
+				<div class="flt"><a href="http://pubads.g.doubleclick.net/gampad/clk?id=22221397&iu=/4461/us.clickcommand" target="_blank"><img src="http://ui.sina.com/rm/kylintv/091913/120x60_sina.gif"></a></div>
+		<div class="flt"><a href="http://pubads.g.doubleclick.net/gampad/clk?id=64692517&iu=/4461/us.clickcommand" target="_blank"><img src="http://ui.sina.com/rm/SDS/dragonmaster_120x60_130924.gif"></a></div>
+		<div class="flt"><a href="http://pubads.g.doubleclick.net/gampad/clk?id=53873917&iu=/4461/us.clickcommand" target="_blank"><img src="http://img.news.sina.com/bg/ads/home/120_60/idx/2013/0612/U78P5010T4D32F32DT20130612030745.gif"></a></div>
+		<div class="flt"><a href="http://www.travelinsure.com/chinese/cindex.htm?240033" target="_blank"><img src="http://img.news.sina.com/bg/ads/home/120_60/idx/2009/0821/U79P5010T4D33F32DT20090821072426.gif"></a></div>
+		<div class="flt"><a href="http://pubads.g.doubleclick.net/gampad/clk?id=22375477&iu=/4461/us.clickcommand" target="_blank"><img src="http://img.news.sina.com/bg/ads/home/120_60/idx/2013/0618/U78P5010T4D34F32DT20130618022011.gif"></a></div>
+		<div class="flt"><a href="http://pubads.g.doubleclick.net/gampad/clk?id=22390957&iu=/4461/us.clickcommand" target="_blank"><img src="http://images2.sina.com/2006/adShuffler/mall/phonecard/U19P168T1D30F4DT20130819115028.gif"></a></div>
+		<div class="flt"><a href="http://www.dingding.tv/list.php?fid=48" target="_blank"><img src="http://img.news.sina.com/bg/ads/home/120_60/idx/2012/1026/U78P5010T4D56F32DT20121026064408.gif"></a></div>
+
+		<div class="split"></div>
+	</div>
+	<!--廣告120*60 結束-->
+
+	<!--parth 開始-->
+	<div class="parth">
+		<div class="htit pageColor_default_03 pageColor_default_05"><div class="flt"><a href="http://match.sina.com/">社區</a></div><div class="split"></div></div>
+		<div class="hlef flt">
+			<div class="hleftit"><div class="hleftitbg"><a href="http://match.sina.com/"><img src="http://ui.sina.com/pub/home/0104/bm_gx_23.gif" width="181" height="21" alt="認識本周好朋友" /></a></div></div>
+			<table><tr>
+    <td><a href="http://sina.2redbeans.com/zh-CN/users/0zD9Yt7C1g"><img src="http://img.news.sina.com/bg/5010/18/2011/0110/U102P5010T18D14F167DT20130925005313.jpg" width="75" height="75" alt="Sherry" /></a><p><a href="http://sina.2redbeans.com/zh-CN/users/0zD9Yt7C1g"> Sherry </a></p></td>
+
+    <td><a href="http://sina.2redbeans.com/zh-CN/users/sV1yDSfVrJ"><img src="http://img.news.sina.com/bg/5010/18/2011/0110/U102P5010T18D14F168DT20130925005313.jpg" width="75" height="75" alt="Jessica" /></a><p><a href="http://sina.2redbeans.com/zh-CN/users/sV1yDSfVrJ"> Jessica </a></p></td>
+
+    <td><a href="http://sina.2redbeans.com/zh-CN/users/e7F1YZAgTA"><img src="http://img.news.sina.com/bg/5010/18/2011/0110/U102P5010T18D14F169DT20130925005313.jpg" width="75" height="75" alt="Mark" /></a><p><a href="http://sina.2redbeans.com/zh-CN/users/e7F1YZAgTA"> Mark</a></p></td>
+</tr>
+</table>
+
+<div class="hlefnewslist">
+	<div class="line01"><div class="flt lineicon"><img src="http://ui.sina.com/pub/home/0104/bm_gx_21.gif" width="12" height="11" alt="" /></div><div class="flt linetip"><a href="http://sina.2redbeans.com/zh-CN/events">【單身生活】</a></div><div class="flt linecon"><a href="http://blog.2redbeans.com/2013/09/blog-post.html"> 你為什麼找不到對象？ </a></div><div class="split"></div></div>
+	<div class="line01"><div class="flt lineicon"><img src="http://ui.sina.com/pub/home/0104/bm_gx_21.gif" width="12" height="11" alt="" /></div><div class="flt linetip"><a href="http://sina.2redbeans.com/zh-CN/events">【男神寫真】</a></div><div class="flt linered"><a href="http://sina.2redbeans.com/zh-CN/TD3h5scAeQ">胡澍的寫真聚焦</a></div><div class="split"></div></div>
+	<div class="line01"><div class="flt lineicon"><img src="http://ui.sina.com/pub/home/0104/bm_gx_21.gif" width="12" height="11" alt="" /></div><div class="flt linetip"><a href="http://sina.2redbeans.com/spotlights">【女神寫真】</a></div><div class="flt linecon"><a href="http://sina.2redbeans.com/zh-CN/DENW5uH2ol">Cindy的寫真聚焦</a></div><div class="split"></div></div>
+</div>
+
+		</div>
+		<div class="hmid flt pageColor_default_05">
+			<div class="hmidtit"><div class="hmidtitbg flt"><a href="http://dailynews.sina.com/bg/fsh/emotion.html"><img src="http://ui.sina.com/pub/home/0104/bm_gx_24.gif" width="37" height="21" alt="情感" /></a></div><div class="frt"><a href="http://dailynews.sina.com/bg/fsh/emotion.html">更多>></a></div><div class="split"></div></div>
+			<ul class="newslist02">
+					<li><a href="http://dailynews.sina.com/bg/news/fsh/phoenixtv/20130925/20515010278.html" title="好賭男友總是向我借錢怎麼辦？">好賭男友總是向我借錢怎麼辦？</a></li>
+	<li><a href="http://dailynews.sina.com/bg/news/fsh/phoenixtv/20130925/19455009946.html" title="老公出軌被對方丈夫打跪在地上">老公出軌被對方丈夫打跪在地上</a></li>
+	<li><a href="http://dailynews.sina.com/bg/news/heh/sinacn/20130925/19545009899.html" title="男人不忠的三個理由">男人不忠的三個理由</a></li>
+	<li><a href="http://dailynews.sina.com/bg/news/fsh/emotion/sinacn/20130925/19285009825.html" title="新媳婦初見公婆有哪些潛規則">新媳婦初見公婆有哪些潛規則</a></li>
+	<li><a href="http://dailynews.sina.com/bg/news/fsh/phoenixtv/20130925/16595009399.html" title="姐姐的行為逼走我的愛妻">姐姐的行為逼走我的愛妻</a></li>
+	<li><a href="http://dailynews.sina.com/bg/news/fsh/phoenixtv/20130925/17025009398.html" title="老公尺度太大我該怎麼辦">老公尺度太大我該怎麼辦</a></li>
+	<li><a href="http://dailynews.sina.com/bg/news/fsh/phoenixtv/20130925/16565009378.html" title="剩女提醒：五種男人絶對不能要">剩女提醒：五種男人絶對不能要</a></li>
+	<li><a href="http://dailynews.sina.com/bg/news/fsh/emotion/sinacn/20130925/16585009365.html" title="口述：姐弟戀讓我的婚姻受了傷">口述：姐弟戀讓我的婚姻受了傷</a></li>
+
+			</ul>
+		</div>
+		<div class="hrig flt pageColor_default_05">
+			<div class="hrigtit"><div class="hrigtitbg flt"><a href="http://dailynews.sina.com/bg/bbs/"><img src="http://ui.sina.com/pub/home/0104/bm_gx_25.gif" width="37" height="21" alt="論壇" /></a></div><div class="frt"><a href="http://dailynews.sina.com/bg/bbs/">更多>></a></div><div class="split"></div></div>
+				<div class="flt hrigdis"><table><tr><td><a href="http://dailynews.sina.com/bg/bbs/pic/star.html"><img src="http://img.news.sina.com/bg/home/7/2011/0110/U83P5013T7D14F134DT20130925162909.jpg" width="97" height="77" alt="精選論壇圖片" /></a></td></tr></table></div>
+	<div class="flt hrignews01"><ul class="newslist02">
+				 <li><a href="http://bbs.sina.com/viewthread.php?tid=1710319">令宅男們望眼欲穿的尤物</a></li>
+	 <li><a href="http://bbs.sina.com/viewthread.php?tid=1710331">甜美迷人酒紅比基尼美女</a></li>
+	 <li><a href="http://bbs.sina.com/viewthread.php?tid=1710335">粉嫩美女小玉激情夏日寫照</a></li>
+	 <li><a href="http://bbs.sina.com/viewthread.php?tid=1710345">日本竟如此污衊解放軍</a></li>
+
+		</ul></div><div class="split"></div>
+		<ul class="newslist02 hrignews02">
+				 <li><a href="http://bbs.sina.com/viewthread.php?tid=1710347&extra=page%3D1&frombbs=1">馬來西亞人眼中的中國</a></li>
+	 <li><a href="http://bbs.sina.com/viewthread.php?tid=1710226&extra=page%3D1&frombbs=1">盤點不搞怪會死星座</a></li>
+	 <li><a href="http://bbs.sina.com/viewthread.php?tid=1710222&extra=page%3D1&frombbs=1">藏有秘密戀情最多的星座</a></li>
+	 <li><a href="http://bbs.sina.com/viewthread.php?tid=1710215&extra=page%3D1&frombbs=1">揭秘身體最怕的10件事</a></li>
+
+		</ul>
+	</div>
+
+		<div class="split"></div>
+	</div>
+	<!--parth 結束-->
+</div>
+<!--內容部分 結束-->
+
+<!--活動聚焦 開始-->
+<div class="focusactivity pageColor_default_05">
+	<div class="fatit pageColor_default_03 pageColor_default_05"><div class="flt"><a href="http://events.sina.com/">活動聚焦</a></div><div class="frt"><a href="http://events.sina.com/">更多>></a></div><div class="split"></div></div>
+	<div class="focusactivityin">
+		<div class="flt faline"><div class="flt faicon"><img src="http://ui.sina.com/pub/home/0104/bm_gx_22.gif" width="14" height="14" alt="" /></div><div class="flt facon"><span>2013年9月18日</span><br><a href="http://travel.sina.com.cn/meiguo_1430-xiangqing-gonglue/">享受前行 加州1號公路自駕游</a></div><div class="split"></div></div>
+
+<div class="flt faline"><div class="flt faicon"><img src="http://ui.sina.com/pub/home/0104/bm_gx_22.gif" width="14" height="14" alt="" /></div><div class="flt facon"><span>2013年11月2日</span><br><a href="http://www.facentertainment.com/">羅志祥世界巡迴演唱會SF</a></div><div class="split"></div></div>
+
+<!--
+<div class="flt faline"><div class="flt faicon"><img src="http://ui.sina.com/pub/home/0104/bm_gx_22.gif" width="14" height="14" alt="" /></div><div class="flt facon"><span>2013年3月22日-24日</span><br><a href="http://www.eventbrite.com/event/5606340716">太極之道兼無極樁課程說明會</a></div><div class="split"></div></div>
+//-->
+
+<!--
+<div class="flt faline"><div class="flt faicon"><img src="http://ui.sina.com/pub/home/0104/bm_gx_22.gif" width="14" height="14" alt="" /></div><div class="flt facon"><span>2012年11月17日 - 18日</span><br><a href="http://city.sina.com.cn/city/f/qdwhysj/index.shtml">海安2012金秋經貿洽談會</a></div><div class="split"></div></div>
+//-->
+<!--
+<div class="flt faline"><div class="flt faicon"><img src="http://ui.sina.com/pub/home/0104/bm_gx_22.gif" width="14" height="14" alt="" /></div><div class="flt facon"><span>2013年8月3日</span><br><a href="http://newsforchinese.com/">老中地方新聞仲夏園遊會</a></div><div class="split"></div></div>
+//-->
+
+<!--
+<div class="flt faline"><div class="flt faicon"><img src="http://ui.sina.com/pub/home/0104/bm_gx_22.gif" width="14" height="14" alt="" /></div><div class="flt facon"><span>2012年11月28日</span><br><a href="http://www.facebook.com/events/123597081128426/">TAJCC-NC's VC Seminar</a></div><div class="split"></div></div>
+//-->
+		<div class="split"></div>
+	</div>
+</div>
+<!--活動聚焦 結束-->
+
+<!--尾部 開始-->
+<div class="footer">
+	<p class="line_01">
+	<a href="http://corp.sina.com.cn/eng/">About SINA.com</a> |
+	<a href="http://mediakit.sina.com/">Advertising on SINA.com</a> |
+	<a href="http://english.sina.com/">SINA English</a> |
+	<a href="http://mediakit.sina.com/#index07">Term of Use</a> |
+	<a href="http://mediakit.sina.com/#index06">Privacy Policy</a>
+	</p>
+	<p class="line_02">News articles Copyright &copy; 1996-2013 SINA Corporation, All Rights Reserved</p>
+</div>	
+<!--尾部 結束-->
+
+</div>
+
+<!-- US Technology Section 130412 -->
+<div id='div-gpt-ad-1365465910284-0'>
+<script type='text/javascript'>
+googletag.display('div-gpt-ad-1365465910284-0');
+</script>
+</div>
+<!-- US Technology Section out-of-page -->
+<div id='div-gpt-ad-1365465910284-0-oop'>
+<script type='text/javascript'>
+googletag.display('div-gpt-ad-1365465910284-0-oop');
+</script>
+</div>
+
+<!--floating video>
+<div id="flvideo">
+<script type="text/javascript" src="http://dailynews.sina.com/gb/ads/common/floatingvideo.js"></script>
+</div-->
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  //--Aggregate GA--//
+  ga('create', 'UA-42804763-1', 'sina.com');
+  ga('send', 'pageview');
+
+  //--Individual US Homepage Channel--//
+  ga('create', 'UA-39768672-1', {'name': 'USHomepageChannel'});
+  ga('USHomepageChannel.send', 'pageview');
+
+</script>
+
+</body>
+</html>
